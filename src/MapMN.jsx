@@ -48,9 +48,9 @@ export default function MapMN() {
   const [cities, setCities] = useState([]);
 
   useEffect(() => {
-    fetch("/mn_border.geojson").then(r => r.json()).then(setBorder);
-    fetch("/mn_cities.json").then(r => r.json()).then(setCities);
-  }, []);
+  fetch("/mn_border.geojson").then(r => r.json()).then(setBorder);
+  fetch("/mn_cities_dec.json").then(r => r.json()).then(setCities);
+}, []);
 
   /* guard until border is loaded */
   if (!border) return null;
@@ -85,9 +85,10 @@ export default function MapMN() {
         <CircleMarker
           key={c.id}
           center={[c.lat, c.lon]}
-          radius={5}
-          pathOptions={{ color: scoreColor(c.s) }}
-          fillOpacity={0.8}
+          radius={2}
+          stroke={false}
+          pathOptions={{ color: "#d91e18" }}
+          fillOpacity={0.9}
         >
           <Tooltip>{`${c.n} (score ${c.s})`}</Tooltip>
         </CircleMarker>

@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Shorewood",
+    "err": "'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "city": "St. Bonifacius",
+    "err": "'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "city": "Spring Park",
+    "err": "'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "city": "Tonka Bay",
+    "err": "'NoneType' object has no attribute 'replace'"
+  }
+]
