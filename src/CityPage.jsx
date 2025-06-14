@@ -9,7 +9,7 @@ export default function CityPage() {
   const [city, setCity] = useState(null); // null = loading, false = not found
 
   useEffect(() => {
-    fetch("/basic_cities_with_uni.json")
+    fetch("/cities_with_demo.json")
       .then((r) => r.json())
       .then((data) => {
         const match = data.cities.find((c) => slugify(c.city) === slug);
@@ -29,61 +29,76 @@ export default function CityPage() {
       </div>
     );
 
+  const InfoRow = ({ label, value }) => (
+    <div className="flex justify-between">
+      <span className="text-gray-600">{label}</span>
+      <span className="font-medium">{value}</span>
+    </div>
+  );
+
   return (
-    <div className="max-w-3xl mx-auto p-6 space-y-4">
+    <div className="max-w-4xl mx-auto p-6 space-y-6">
       <Link to="/" className="underline text-blue-600">
         ← Back to map
       </Link>
 
-      <h1 className="text-3xl font-bold">{city.city}</h1>
-
-      <p>
-        <b>Population (2020):</b> {city.population_2020.toLocaleString()}
-      </p>
-      <p>
-        <b>County:</b> {city.county}
-      </p>
-      <p>
-        <b>Incorporated:</b> {city.incorporated_year}
-      </p>
-      <p>
-        <b>Density / mi²:</b> {city.density_sq_mi}
-      </p>
-      <p>
-        <b>Website:</b>{" "}
-        <a
-          className="text-blue-600 underline"
-          href={city.website}
-          target="_blank"
-          rel="noreferrer"
-        >
-          {city.website}
-        </a>
-      </p>
-
-      {city.overview && (
-        <details>
-          <summary className="font-medium cursor-pointer">
-            Wikipedia Overview
-          </summary>
-          <p className="mt-2 whitespace-pre-line text-justify">
-            {city.overview}
+      {/* header card */}
+      <div className="bg-white shadow-xl rounded-2xl p-6 flex flex-col gap-4">
+        <h1 className="text-4xl font-extrabold text-center">{city.city}</h1>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <InfoRow label="Population (2020)" value={city.population_2020?.toLocaleString()} />
+          <InfoRow label="County" value={city.county} />
+          <InfoRow label="Median Age" value={city.median_age ?? "—"} />
+          <InfoRow label="Median Income" value={city.median_income ? "$" + city.median_income.toLocaleString() : "—"} />
+          <InfoRow label="Density / mi²" value={city.density_sq_mi} />
+          <InfoRow label="Incorporated" value={city.incorporated_year} />
+        </div>
+        {city.website && (
+          <p className="text-center">
+            <a href={city.website} target="_blank" rel="noreferrer" className="text-blue-600 underline">
+              Official website ↗
+            </a>
           </p>
-        </details>
-      )}
+        )}
+      </div>
 
-      {city.universities?.length > 0 && (
-        <details>
-          <summary className="font-medium cursor-pointer">
-            Universities ({city.universities.length})
-          </summary>
-          <ul className="list-disc list-inside mt-2 space-y-1">
-            {city.universities.map((u, i) => (
-              <li key={i}>
-                {u.name} — {u.enrollment.toLocaleString()}
+      {/* race breakdown */}
+      {city.race_breakdown && (
+        <div className="bg-white shadow-lg rounded-2xl p-6">
+          <h2 className="text-xl font-semibold mb-3">Race & Ethnicity</h2>
+          <ul className="space-y-1">
+            {Object.entries(city.race_breakdown).map(([race, pct]) => (
+              <li key={race} className="flex justify-between">
+                <span>{race}</span>
+                <span className="font-medium">{pct}%</span>
               </li>
             ))}
           </ul>
+        </div>
+      )}
+
+      {/* universities */}
+      {city.universities?.length > 0 && (
+        <div className="bg-white shadow-lg rounded-2xl p-6">
+          <h2 className="text-xl font-semibold mb-3">Universities ({city.universities.length})</h2>
+          <ul className="space-y-1 list-disc list-inside">
+            {city.universities.map((u, i) => (
+              <li key={i} className="flex justify-between">
+                <span>{u.name}</span>
+                <span className="font-medium">{u.enrollment.toLocaleString()}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* overview toggle */}
+      {city.overview && (
+        <details className="bg-white shadow-lg rounded-2xl p-6">
+          <summary className="font-semibold cursor-pointer">Wikipedia Overview</summary>
+          <p className="mt-3 whitespace-pre-line text-justify text-sm leading-relaxed">
+            {city.overview}
+          </p>
         </details>
       )}
     </div>

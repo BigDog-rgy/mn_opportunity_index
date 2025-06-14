@@ -1,0 +1,3587 @@
+{
+  "cities": {
+    "Minneapolis": {
+      "500+": [
+        {
+          "name": "Minneapolis Clerk-Council's",
+          "description": "City Government-Executive Offices",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Police Dept",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wells Fargo East Corporate",
+          "description": "Business Services NEC",
+          "industry": "Other Support Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Public Safety",
+          "description": "County Government-Public Order & Safety",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ey",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Pillsbury Center",
+          "description": "Food Products (whls)",
+          "industry": "Grocery and Related Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fredrikson & Byron PA",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wells Fargo East Corporate",
+          "description": "Business Services NEC",
+          "industry": "Other Support Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Star Tribune Media Co LLC",
+          "description": "Newspapers (publishers/Mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Capella University",
+          "description": "Schools-Universities & Colleges Academic",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Thrivent Financial For Lthrns",
+          "description": "Insurance",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Accenture",
+          "description": "Business Management Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "SPS Commerce Inc",
+          "description": "Computer Services",
+          "industry": "Computer Systems Design and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ameriprise Financial Inc",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Royal Bank of Canada",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Xcel Energy Inc",
+          "description": "Electric Companies",
+          "industry": "Electric Power Generation, Transmission and Distribution",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Datasite",
+          "description": "Records-Management Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Dorsey & Whitney LLP",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "United States Postal Svc",
+          "description": "Post Offices",
+          "industry": "Postal Service",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Deluxe Corp",
+          "description": "Checks-Printing (mfrs)",
+          "industry": "Printing and Related Support Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "RSM",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Oracle",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Piper Sandler Co",
+          "description": "Investment Bankers",
+          "industry": "Securities and Commodity Contracts Intermediation and Brokerage",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "US Bancorp",
+          "description": "Holding Companies (bank)",
+          "industry": "Management of Companies and Enterprises",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sleep Number Corp",
+          "description": "Mattresses",
+          "industry": "Furniture and Home Furnishings Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target Center",
+          "description": "Event Centers",
+          "industry": "Promoters of Performing Arts, Sports, and Similar Events",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target Corp",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "National Marrow Donor Prgm/Be",
+          "description": "Foundation-Educ Philanthropic Research",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Metro Transit",
+          "description": "Transit Lines",
+          "industry": "Urban Transit Systems",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Community",
+          "description": "Junior-Community College-Tech Institutes",
+          "industry": "Junior Colleges",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Children's Minnesota",
+          "description": "Health Care Management",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University of MN Twin Cities",
+          "description": "Schools-Universities & Colleges Academic",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fairview Health Svc",
+          "description": "Health Care Management",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Walman Optical Co",
+          "description": "Optical Goods-Retail",
+          "industry": "Health and Personal Care Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University of MN Medical Sch",
+          "description": "Schools-Medical",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wells Fargo Home Mortgage",
+          "description": "Real Estate Loans",
+          "industry": "Nondepository Credit Intermediation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Allina Health Home Care Svc",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Bio-Techne Corp",
+          "description": "Laboratories-Research & Development",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Northpoint Health & Wellness",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Transdev",
+          "description": "Transportation",
+          "industry": "Support Activities for Rail Transportation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Barbers Hairstyling For Men",
+          "description": "Beauty Salons",
+          "industry": "Personal Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Regis Corp",
+          "description": "Beauty Salons",
+          "industry": "Personal Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Regis Franchise Div",
+          "description": "Franchising",
+          "industry": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Walker Methodist Health Ctr",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "MINNEAPOLIS, MN"
+        }
+      ],
+      "100-499": [
+        {
+          "name": "Field Nation LLC",
+          "description": "Business Management Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Water Department Management",
+          "description": "Municipalities",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis One-Stop Dev Rvw",
+          "description": "Government Offices-City/Village & Twp",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Rick's Cabaret Minneapolis",
+          "description": "Gentlemen's Clubs",
+          "industry": "Civic and Social Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ameriprise Pacwest Team",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Community Planning & Economic",
+          "description": "City Government-Economic Program Administrati",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Provation Software Inc",
+          "description": "Publishers-Periodical (mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ryan Co US Inc",
+          "description": "Real Estate Developers",
+          "industry": "Land Subdivision",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "FBG Service Corp",
+          "description": "Janitor Service",
+          "industry": "Services to Buildings and Dwellings",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Attorney",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Human Rsrcs",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cliftonlarsonallen LLP",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Grant Thornton LLP",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Renaissance Minneapolis Hotel",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Northland Securities",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Martin-Williams Inc",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Moss & Barnett PA",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Radisson Red Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Child Support",
+          "description": "County Government-Social/Human Resources",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Bassford Remele",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wolters Kluwer Fncl Svc Inc",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Baker Tilly Virchow Krause LLP",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Globaltranz",
+          "description": "Transportation Consultants",
+          "industry": "Freight Transportation Arrangement",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Holmes Murphy Construction",
+          "description": "Insurance",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Winthrop & Weinstine PA",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Canadian Pacific Railway",
+          "description": "Railroads",
+          "industry": "Rail Transportation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin Juvenile Probation",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Child Protection Svc",
+          "description": "County Government-Social/Human Resources",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "County Attorney-Juvenile",
+          "description": "County Government-Legal Counsel",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Health Care",
+          "description": "County Government-Public Health Programs",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hyatt Centric Downtown Mnnpls",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wcco News Talk 830",
+          "description": "Radio Stations & Broadcasting Companies",
+          "industry": "Radio and Television Broadcasting Stations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Walden University Inc",
+          "description": "Universities/Colleges-Online Only",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Augsburg Fortress Co",
+          "description": "Publishers-Book (mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Financial Network Invstmnt Crp",
+          "description": "Investments",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Pubc Defender",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Code42 Software Inc",
+          "description": "Data Systems Consultants & Designers",
+          "industry": "Computer Systems Design and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Jamf Software LLC",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Rust Consulting Inc",
+          "description": "Records-Management Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "21st Services LLC",
+          "description": "Financial Management & Consulting",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Mce Associate",
+          "description": "Business Services NEC",
+          "industry": "Other Support Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Mercer Human Resource Cnsltng",
+          "description": "Human Resource Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Michaud Cooley Erickson",
+          "description": "Engineering",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Navitaire LLC",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Weber Shandwick",
+          "description": "Public Relations Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hyatt Place Minneapolis/Dwntwn",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Scoular Co",
+          "description": "Grain Elevators",
+          "industry": "Warehousing and Storage",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "United States Government",
+          "description": "Food Facilities-Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "WSP",
+          "description": "Environmental & Ecological Services",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Westin Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fish & Richardson PC",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hudson",
+          "description": "Executive Search Consultants",
+          "industry": "Employment Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Club",
+          "description": "Clubs",
+          "industry": "Civic and Social Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Dougherty & Co LLC",
+          "description": "Investment Securities",
+          "industry": "Securities and Commodity Contracts Intermediation and Brokerage",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "KPMG",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Maslon",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wells Fargo Capital Finance",
+          "description": "Financing-Business",
+          "industry": "Nondepository Credit Intermediation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Kraus-Anderson Mortgage Co",
+          "description": "Construction Companies",
+          "industry": "Residential Building Construction",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Arthur Chapman Kettering",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Faegre Drinker Biddle-Reath",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fico",
+          "description": "Data Systems Consultants & Designers",
+          "industry": "Computer Systems Design and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "United Properties",
+          "description": "Real Estate Developers",
+          "industry": "Land Subdivision",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Marquette Hotel Curio Collect",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Centrol Pubc Lbrry",
+          "description": "Libraries-Public",
+          "industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Schwegman Lundberg Woessner",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Dunham Associates Inc",
+          "description": "Engineering",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "RBC Global Asset Management US",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Kraus-Anderson",
+          "description": "General Contractors",
+          "industry": "Residential Building Construction",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Deloitte",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Four Seasons Hotel Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Berkley Risk Administrators Co",
+          "description": "Insurance Managers",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "American Academy of Neurology",
+          "description": "Associations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "American Acdemy of Nrlogy Inst",
+          "description": "Professional Organizations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ballard Spahr LLP",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lathrop GPM",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lazard Middle Market LLC",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "UBS Financial Svc",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Windows On Minnesota",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Greiner Construction Inc",
+          "description": "Construction Companies",
+          "industry": "Residential Building Construction",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "EDCO Products",
+          "description": "Building Materials-Wholesale",
+          "industry": "Lumber and Other Construction Materials Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Amec Earth & Environmental",
+          "description": "Engineers-Consulting",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Manny's At Foshay",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "W Minneapolis-The Foshay",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lacek Group",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Korn Ferry",
+          "description": "Executive Search Consultants",
+          "industry": "Employment Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Meagher & Geer PLLP",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Gay 90'S",
+          "description": "Bars",
+          "industry": "Drinking Places (Alcoholic Beverages)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Marriott City Ctr",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Guthrie Theater",
+          "description": "Theatres-Live",
+          "industry": "Performing Arts Companies",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hell's Kitchen",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Pricewaterhousecoopers",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Royal Sonesta Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fox Lawson & Assoc LLC",
+          "description": "Consulting Services",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Nuveen",
+          "description": "Investment Management",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Varde Partners",
+          "description": "Financial Advisory Services",
+          "industry": "Other Financial Investment Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Zelo",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Periscope",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Robert Half",
+          "description": "Employment Agencies & Opportunities",
+          "industry": "Employment Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lerner Publishing Group Inc",
+          "description": "Publishers-Book (mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Eide Bailly",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Colle Mcvoy",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Timberwolves",
+          "description": "Basketball Clubs",
+          "industry": "Spectator Sports",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Allied Parking Inc",
+          "description": "Parking Stations & Garages",
+          "industry": "Other Personal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Atmosphere Commercial Intrrs",
+          "description": "Interior Decorators Design & Consultants",
+          "industry": "Specialized Design Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Disability Law Ctr",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Loews Minneapolis Hotel",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Robins Kaplan LLP",
+          "description": "Attorneys",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sherwin-Williams",
+          "description": "Paint-Retail",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "MID MINNESOTA LEGAL AID",
+          "description": "Legal Services",
+          "industry": "Legal Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Fallon Worldwide",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "AECOM",
+          "description": "Engineers",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "CBRE",
+          "description": "Real Estate Management",
+          "industry": "Offices of Real Estate Agents and Brokers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Feltl & Co",
+          "description": "Stock & Bond Brokers",
+          "industry": "Securities and Commodity Contracts Intermediation and Brokerage",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "US Animal Plant Health Inspctn",
+          "description": "Federal Government-Regulation-Agricultural Ma",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Carmichael Lynch Inc",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hilton Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Atterro Inc",
+          "description": "Employment Agencies & Opportunities",
+          "industry": "Employment Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Federal Reserve Bank-Mnnpls",
+          "description": "Federal Reserve Banks",
+          "industry": "Monetary Authorities-Central Bank",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hilton Garden Inn Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "First Avenue & 7th St Entry",
+          "description": "Night Clubs",
+          "industry": "Drinking Places (Alcoholic Beverages)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sherwin-Williams",
+          "description": "Paint-Retail",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Spoon & Stable",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University-St Thomas Sch-Law",
+          "description": "Law Schools",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Chambers Hotel",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Boarman Kroos Vogel Group Inc",
+          "description": "Architectural Services",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Advanced Care Inc",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Orchestra Hall",
+          "description": "Orchestras & Bands",
+          "industry": "Performing Arts Companies",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Orpheum Theatre",
+          "description": "Theatres-Live",
+          "industry": "Performing Arts Companies",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Opus College of Business",
+          "description": "University/College-Graduate Schools",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "All England Enterprises",
+          "description": "Real Estate",
+          "industry": "Offices of Real Estate Agents and Brokers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Doubletree Suites By Hilton",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Padilla",
+          "description": "Public Relations Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cuningham Group Architecture",
+          "description": "Architects",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "YWCA Minneapolis",
+          "description": "Women's Organizations & Services",
+          "industry": "Civic and Social Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Convention Ctr",
+          "description": "Convention & Meeting Facilities & Svc",
+          "industry": "Other Support Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Twins",
+          "description": "Athletic Organizations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Benedictine Health Ctr-Mnnpls",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Harbor Light Ctr Chapel",
+          "description": "Homeless Shelters",
+          "industry": "Community Food and Housing, and Emergency and Other Relief Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Direct Home Health Care Inc",
+          "description": "Personal Care Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Autoscope Technologies Crprtn",
+          "description": "Engineering & Architectural Services",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hired",
+          "description": "Vocational Rehabilitation Services",
+          "industry": "Vocational Rehabilitation Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hammel Green & Abrahamson Inc",
+          "description": "Engineers-Architectural",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "ICF Olson",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Andrew Resident",
+          "description": "Residential Care Homes",
+          "industry": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Calabrio Inc",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "U of M Dept of Epidemiology",
+          "description": "Health Education",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "BDC Management Co",
+          "description": "Real Estate Management",
+          "industry": "Offices of Real Estate Agents and Brokers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lunds & Byerlys",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hyatt Regency Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Courtyard Minneapolis Downtown",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Chemical Dependency Program",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hennepin County Chem Health",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Metal-Matic Inc",
+          "description": "Metals-Base (whls)",
+          "industry": "Metal and Mineral (except Petroleum) Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Riverside Plaza",
+          "description": "Apartments",
+          "industry": "Lessors of Real Estate",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Burch Steak & Pizza Bar",
+          "description": "Full-Service Restaurant",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Twins",
+          "description": "Athletic Organizations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Bellisio Foods Inc",
+          "description": "Frozen Food Processors (mfrs)",
+          "industry": "Fruit and Vegetable Preserving and Specialty Food Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Freehouse",
+          "description": "Brewers (mfrs)",
+          "industry": "Beverage Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Korn Ferry",
+          "description": "Executive Search Consultants",
+          "industry": "Employment Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Marcy Open School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Red & White Taxi",
+          "description": "Taxicabs & Transportation Service",
+          "industry": "Taxi and Limousine Service",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wilson Library",
+          "description": "Libraries-Institutional",
+          "industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University-Mn Law Bookstore",
+          "description": "Books School & Textbooks",
+          "industry": "Book Retailers and News Dealers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Housing & Development",
+          "description": "Employment Training Service",
+          "industry": "Vocational Rehabilitation Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Netspi LLC",
+          "description": "Security Systs-Communications/Computer",
+          "industry": "Investigation and Security Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Solifi",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minitex Library Information",
+          "description": "Libraries-Public",
+          "industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University-Mn Inst For Global",
+          "description": "University-College Dept/Facility/Office",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cintas",
+          "description": "Uniforms & Accessories",
+          "industry": "Clothing and Clothing Accessories Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Aeon",
+          "description": "Operators of Apartment Buildings",
+          "industry": "Lessors of Real Estate",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis St Paul Magazine",
+          "description": "Publishers-Magazine (mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "D'Amico Catering",
+          "description": "Caterers",
+          "industry": "Special Food Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Electric Machinery",
+          "description": "Business Management Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Housing Authority",
+          "description": "Housing Authorities",
+          "industry": "Activities Related to Real Estate",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Standard Heating",
+          "description": "Heating Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Board-Trustees Dunwoody Inst",
+          "description": "Univ/Clg-Governing Body/Regent/Trustee",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Catholic Eldercare",
+          "description": "Retirement Communities & Homes",
+          "industry": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Omni Workspace Co LLC",
+          "description": "Office Furniture & Equip-Mfrs",
+          "industry": "Office Furniture (including Fixtures) Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Walker Art Ctr",
+          "description": "Art Galleries & Dealers",
+          "industry": "Other Miscellaneous Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Transit Team Inc",
+          "description": "Taxicabs & Transportation Service",
+          "industry": "Taxi and Limousine Service",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Public Sch",
+          "description": "Buses-School Transportation Service",
+          "industry": "School and Employee Bus Transportation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "St Stephen's Human Svc",
+          "description": "Non-Profit Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University-Mn Dept-Chemistry",
+          "description": "University-College Dept/Facility/Office",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Coloplast Corp",
+          "description": "Physicians & Surgeons Equip & Supls-Mfrs",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Children's Theatre Co",
+          "description": "Theatres-Live",
+          "industry": "Performing Arts Companies",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Graco Inc",
+          "description": "Pumps & Pumping Equipment (mfrs)",
+          "industry": "Other General Purpose Machinery Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "American Spirit Graphics Corp",
+          "description": "Paper-Adhesive/Pressure Sensitive (mfrs)",
+          "industry": "Printing and Related Support Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University of MN Bookstore",
+          "description": "Clothing-Retail",
+          "industry": "Clothing and Clothing Accessories Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Graco Inc",
+          "description": "Pumps & Pumping Equipment (mfrs)",
+          "industry": "Other General Purpose Machinery Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Washburn Center For Children",
+          "description": "Mental Health Services",
+          "industry": "Psychiatric and Substance Abuse Hospitals",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "School Journalism Mass Comm",
+          "description": "Schools-Business & Secretarial",
+          "industry": "Business Schools and Computer and Management Training",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Martin-Brower Co",
+          "description": "Food Products (whls)",
+          "industry": "Grocery and Related Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "RSP Architects Ltd",
+          "description": "Architectural Services",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Obgyn & Women's Health",
+          "description": "Physicians & Surgeons",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wedge Co-Op",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Univ of Minn School Dentistry",
+          "description": "Theological Schools",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "D C Group",
+          "description": "Repair Shops & Related Services NEC",
+          "industry": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "University Police Dept",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Public Sch",
+          "description": "Schools-Departments/Facilities/Offices",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Rehabilition Services",
+          "description": "Physical Therapists",
+          "industry": "Offices of Other Health Practitioners",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Healthmax Home Health Care Svc",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "School of Nursing",
+          "description": "Nurses Schools",
+          "industry": "Technical and Trade Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Homeworks For Students Inc",
+          "description": "Tutoring",
+          "industry": "Other Schools and Instruction",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Andersen Open Elementary Sch",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Graduate Minneapolis",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Parks & Recreation",
+          "description": "Parks",
+          "industry": "Museums, Historical Sites, and Similar Institutions",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "3M Arena At Mariucci",
+          "description": "Hockey Clubs",
+          "industry": "Other Amusement and Recreation Industries",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Neurology Specialists LLC",
+          "description": "Neuropaths",
+          "industry": "Offices of Other Health Practitioners",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Noran Neurological Clinic",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Olu's Home Inc",
+          "description": "Mental Health Services",
+          "industry": "Psychiatric and Substance Abuse Hospitals",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Graybar",
+          "description": "Electric Equipment & Supplies-Wholesale",
+          "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Shaw/Stewart Lumber Co",
+          "description": "Millwork (mfrs)",
+          "industry": "Other Wood Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Pace Analytical Svc LLC",
+          "description": "Environmental & Ecological Services",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Smyth",
+          "description": "Commercial Printing NEC (mfrs)",
+          "industry": "Printing and Related Support Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Brin Glass Co",
+          "description": "Glass-Wholesale",
+          "industry": "Lumber and Other Construction Materials Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Seward Community Co-Op",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Valent Air Management Systems",
+          "description": "Manufacturers",
+          "industry": "Other Miscellaneous Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Daily",
+          "description": "Non-Profit Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Seward Montessori School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Nico Plating",
+          "description": "Plating (mfrs)",
+          "industry": "Coating, Engraving, Heat Treating, and Allied Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Packaging Corp of America",
+          "description": "Boxes-Paper (mfrs)",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "CSL Plasma",
+          "description": "Plasma Collectors",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "A Chance To Grow",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Mac Kay Mitchell Envelope Co",
+          "description": "Envelopes-Wholesale",
+          "industry": "Paper and Paper Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Waste Management Recycle Amer",
+          "description": "Garbage Collection",
+          "industry": "Waste Collection",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "John A Dalsin & Son Inc",
+          "description": "General Contractors",
+          "industry": "Residential Building Construction",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Family Partnership",
+          "description": "Social Service & Welfare Organizations",
+          "industry": "Individual and Family Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Juxtaposition Arts Inc",
+          "description": "Art",
+          "industry": "Museums, Historical Sites, and Similar Institutions",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota Department of Edu",
+          "description": "State Government-Education Programs",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "U Care",
+          "description": "Insurance-Health & Accident",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Jefferson Community School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Johnstech International",
+          "description": "Instrs-Measuring/Testing Elec (mfrs)",
+          "industry": "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "New French Bakery",
+          "description": "Bakers-Retail",
+          "industry": "Bakeries and Tortilla Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis North High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Villas At Bryn Mawr",
+          "description": "Apartments",
+          "industry": "Lessors of Real Estate",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Yinghua Academy",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Swanson Meats Inc",
+          "description": "Meat-Wholesale",
+          "industry": "Grocery and Related Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Police Dept 4th",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Police Dept",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Murphy Warehouse Co",
+          "description": "Warehouses-Commodity & Merchandise",
+          "industry": "Warehousing and Storage",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Greatbatch Medical",
+          "description": "Physicians & Surgeons Equip & Supls-Mfrs",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Unison Comfort Technologies",
+          "description": "Manufacturers",
+          "industry": "Other Miscellaneous Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "YMCA Camp Widjiwagan",
+          "description": "Camps",
+          "industry": "RV (Recreational Vehicle) Parks and Recreational Camps",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Thomas Edison High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Sports Ctr",
+          "description": "Stadiums Arenas & Athletic Fields",
+          "industry": "Promoters of Performing Arts, Sports, and Similar Events",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Air-Serv Group LLC",
+          "description": "Service Station Equipment (whls)",
+          "industry": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Klesk Metal Stamping Inc",
+          "description": "Metal Stampings NEC (mfrs)",
+          "industry": "Forging and Stamping",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Coco LLC",
+          "description": "Real Estate",
+          "industry": "Offices of Real Estate Agents and Brokers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Nellie Stone Johnson",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "GAF Materials Corp",
+          "description": "Roofing Materials-Manufacturers",
+          "industry": "Petroleum and Coal Products Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lurie LLP",
+          "description": "Accountants",
+          "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Innovent Air Handling Equip",
+          "description": "Manufacturers",
+          "industry": "Other Miscellaneous Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "American Mortgage-Equity",
+          "description": "Loans",
+          "industry": "Nondepository Credit Intermediation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Home Depot",
+          "description": "Home Centers",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Koehler & Dramm Whls Florist",
+          "description": "Florists-Wholesale",
+          "industry": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Koehler & Dramm's Institute",
+          "description": "Junior-Community College-Tech Institutes",
+          "industry": "Junior Colleges",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Eureka Recycling",
+          "description": "Recycling Centers (whls)",
+          "industry": "Miscellaneous Durable Goods Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Boyer Ford Truck Parts",
+          "description": "Truck Equipment & Parts-Wholesale",
+          "industry": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Redeemer Health Care Ctr",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Early Childhood Special Educ",
+          "description": "Schools-Pre-School/Kindergarten-Academic",
+          "industry": "Child Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "South High",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ritrama Duramark Inc",
+          "description": "Tapes-Pressure Sensitive (mfrs)",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Syngenta Seeds Inc",
+          "description": "Seeds & Bulbs-Wholesale",
+          "industry": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Monarch Bus Svc Inc",
+          "description": "Buses-Charter & Rental",
+          "industry": "Charter Bus Industry",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Anwatin Middle School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Keller Williams Realty",
+          "description": "Real Estate",
+          "industry": "Offices of Real Estate Agents and Brokers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minneapolis Police 3rd Prcnct",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Wholesale Produce",
+          "description": "Fruits & Vegetables & Produce-Retail",
+          "industry": "Specialty Food Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "GO Fresh",
+          "description": "Fruits & Vegetables-Wholesale",
+          "industry": "Grocery and Related Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Advanced Web",
+          "description": "Internet Home Page Dev Consulting",
+          "industry": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "AWT",
+          "description": "Assembly & Fabricating Service (mfrs)",
+          "industry": "Other Miscellaneous Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "AWT Labels & Packaging",
+          "description": "Labels-Paper (mfrs)",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Anishinabe Academy",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sullivan Elementary School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "R S Eden",
+          "description": "Family & Children Services",
+          "industry": "Individual and Family Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sun Chemical Corp",
+          "description": "Inks-Printing & Lithographing (mfrs)",
+          "industry": "Other Chemical Product and Preparation Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Boker's Inc",
+          "description": "Bolts Nuts Screws Rivets/Washers (mfrs)",
+          "industry": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Doorstep Healthcare Svc",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "On Call Clinicians",
+          "description": "Personnel Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "MBF ENTERTAINMENT MSP LLC",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Lunds & Byerlys",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "MNGI Digestive Health",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Summit Healthcare Inc",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Umarket Services",
+          "description": "University-College Dept/Facility/Office",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Graves Hospitality Corp",
+          "description": "Hotel & Motel Management",
+          "industry": "Traveler Accommodation",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Consolidated Container",
+          "description": "Plastics-Mold-Manufacturers",
+          "industry": "Plastics Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "First Transit",
+          "description": "Buses-Charter & Rental",
+          "industry": "Charter Bus Industry",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Pillsbury Elementary School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "BW Packaging Systems",
+          "description": "Packaging Machinery-Manufacturers",
+          "industry": "Other General Purpose Machinery Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hood Packaging Corp",
+          "description": "Packaging Materials-Manufacturers",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Haldeman-Homme Inc",
+          "description": "Consulting Services",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hmong International Academy",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Costco Business Ctr",
+          "description": "Wholesale Clubs",
+          "industry": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Hawkins Specialty & Food Group",
+          "description": "Food Products & Manufacturers",
+          "industry": "Other Food Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "City View Community School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Ameripride",
+          "description": "Uniform Supply Service",
+          "industry": "Drycleaning and Laundry Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Family Partnership",
+          "description": "Child Care Service",
+          "industry": "Child Care Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Twin City Die Castings Co",
+          "description": "Castings (mfrs)",
+          "industry": "Foundries",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Bolger Vision Beyond Print",
+          "description": "Copying & Duplicating Service",
+          "industry": "Business Support Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Viking Electric Supply Inc",
+          "description": "Electric Equipment & Supplies-Wholesale",
+          "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Sabathani Community Ctr",
+          "description": "Associations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Folwell Performing Arts Magnet",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Breakthru Beverage Group",
+          "description": "Beverages (whls)",
+          "industry": "Grocery and Related Product Merchant Wholesalers",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "SRF Consulting Group Inc",
+          "description": "Engineering",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Tactile Systems Technology Inc",
+          "description": "Physicians & Surgeons Equip & Supls-Mfrs",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Providence Place",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Animal Humane Society",
+          "description": "Humane Societies",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "M A Mortenson Co",
+          "description": "Real Estate Developers",
+          "industry": "Land Subdivision",
+          "raw_city": "MINNEAPOLIS, MN"
+        },
+        {
+          "name": "Minnesota United FC",
+          "description": "Soccer Clubs",
+          "industry": "Spectator Sports",
+          "raw_city": "MINNEAPOLIS, MN"
+        }
+      ]
+    },
+    "Saint Paul": {
+      "500+": [
+        {
+          "name": "Family Court Div",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ecolab Deutschland GMBH",
+          "description": "Nonclassified Establishments",
+          "industry": "",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Infor Inc",
+          "description": "Software/Application/Platform Publishing",
+          "industry": "Software Publishers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Metropolitan Council",
+          "description": "Transportation",
+          "industry": "Support Activities for Rail Transportation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Employment-Economic",
+          "description": "State Government-Economic Program Administrat",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Pioneer Press",
+          "description": "Newspapers (publishers/Mfrs)",
+          "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "U.S. Bank Branch",
+          "description": "Banks",
+          "industry": "Depository Credit Intermediation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "M Health Fairview Bethesda Hsp",
+          "description": "Hospitals",
+          "industry": "General Medical and Surgical Hospitals",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Human Services Dept",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Xfinity",
+          "description": "Television-Cable & CATV",
+          "industry": "Radio and Television Broadcasting Stations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Health Department",
+          "description": "State Government-Public Health Programs",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Revenue Dept",
+          "description": "State Government-Finance & Taxation",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Historical Society",
+          "description": "Historical Organizations",
+          "industry": "Civic and Social Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Children's Hospital-Clinics-St",
+          "description": "Hospitals",
+          "industry": "General Medical and Surgical Hospitals",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Regions Hospital",
+          "description": "Hospitals",
+          "industry": "General Medical and Surgical Hospitals",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Transportation Department",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Human Services Dept",
+          "description": "State Government-Social/Human Resources",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Pollution Control Agency",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Board of Education",
+          "description": "Boards of Education",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Xcel Energy",
+          "description": "Electric Companies",
+          "industry": "Electric Power Generation, Transmission and Distribution",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "American Auto Radiator",
+          "description": "Automobile Repairing & Service",
+          "industry": "Automotive Repair and Maintenance",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Abbey Care Inc Home Health",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Office of Higher Edu",
+          "description": "State Government-Education Programs",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Prestige Wine Group A Div",
+          "description": "Wines-Retail",
+          "industry": "Beer, Wine, and Liquor Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Marsden Bldg Maintenance LLC",
+          "description": "Janitor Service",
+          "industry": "Services to Buildings and Dwellings",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Social Services",
+          "description": "Services NEC",
+          "industry": "Other Professional, Scientific, and Technical Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "3M Co",
+          "description": "Paper-Manufacturers",
+          "industry": "Pulp, Paper, and Paperboard Mills",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "College of Veterinary Medicine",
+          "description": "Schools-Medical",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cfans",
+          "description": "University-College Dept/Facility/Office",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Sportsman's Guide Inc",
+          "description": "Marketing Programs & Services",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "SOUTH ST PAUL, MN"
+        },
+        {
+          "name": "MNGI Endoscopy Maplewood",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Hubbard Broadcasting Inc",
+          "description": "Television Stations & Broadcasting Co",
+          "industry": "Radio and Television Broadcasting Stations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Patterson Co Inc",
+          "description": "Physicians & Surgeons Equip & Supls-Mfrs",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Stanke Supply Co",
+          "description": "Electronic Equipment & Supplies-Whls",
+          "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Reyes Coca-Cola Bottling",
+          "description": "Bottlers (mfrs)",
+          "industry": "Beverage Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "NAC Mechanical & Elec Svc",
+          "description": "Heating Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Rem Ramsey",
+          "description": "Human Services Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "ST PAUL, MN"
+        }
+      ],
+      "100-499": [
+        {
+          "name": "Minnesota Care",
+          "description": "Insurance",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Intercontinental St Paul",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Planning & Economic Dev",
+          "description": "City Government-Economic Program Administrati",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ever-Green Energy Inc",
+          "description": "Steam & Air Conditioning Supply",
+          "industry": "Water, Sewage and Other Systems",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Grill",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Flagstone Foods",
+          "description": "Dried/Dehydrated Fruits Vegetables",
+          "industry": "Fruit and Vegetable Preserving and Specialty Food Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "BWBR Architects Inc",
+          "description": "Architectural Services",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "US Army Corps of Engineers",
+          "description": "Federal Government-Land/Mineral/Wildlife/Fore",
+          "industry": "Administration of Environmental Quality Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "District Energy",
+          "description": "Energy Conservation & Mgmt Consultants",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Wild",
+          "description": "Marriage & Family Counselors",
+          "industry": "Individual and Family Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ordway Center For",
+          "description": "Non-Profit Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Northland Insurance Co",
+          "description": "Insurance",
+          "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "TKDA",
+          "description": "Architects",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ecolab Inc",
+          "description": "Cleaning Compounds-Manufacturers",
+          "industry": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Omnitheater Science Msm of MN",
+          "description": "Theatres-Movie",
+          "industry": "Motion Picture and Video Industries",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Attorney General",
+          "description": "State Government-Legal Counsel",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Safety & Inspctn Dept",
+          "description": "City Government-Regulation/Licensing & Inspec",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Zoning Information",
+          "description": "City Government-Urban Planning/Community & Ru",
+          "industry": "Administration of Housing Programs, Urban Planning, and Community Development",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Agribank",
+          "description": "Banks",
+          "industry": "Depository Credit Intermediation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota State Clg-Unvrsts",
+          "description": "Univ/Clg-Governing Body/Regent/Trustee",
+          "industry": "Colleges, Universities, and Professional Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "TPT TV",
+          "description": "Television & Radio-Dealers",
+          "industry": "Electronics and Appliance Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Commerce Department",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Health Department",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Headwaters Reservations",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Electro Watchman Inc Burglar",
+          "description": "Burglar Alarm Systems (whls)",
+          "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ideacom Mid-America Inc",
+          "description": "Cable/Wire-Installation-Voice/Data Syst",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "American Public Media Group",
+          "description": "Radio Stations & Broadcasting Companies",
+          "industry": "Radio and Television Broadcasting Stations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Studio M",
+          "description": "Recording Studios",
+          "industry": "Sound Recording Industries",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Downtown YMCA",
+          "description": "Youth Organizations & Centers",
+          "industry": "Individual and Family Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Executone Health Care Systems",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Rivercentre Energy",
+          "description": "Utilities",
+          "industry": "Management, Scientific, and Technical Consulting Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Church of Scientology",
+          "description": "Churches",
+          "industry": "Religious Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Health East Medical Laboratory",
+          "description": "Laboratories-Medical",
+          "industry": "Medical and Diagnostic Laboratories",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Medianews Group Inc",
+          "description": "News Dealers",
+          "industry": "Book Retailers and News Dealers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Lunds & Byerlys",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cossetta's Market & Pizzeria",
+          "description": "Pizza",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "City & County Credit Union",
+          "description": "Credit Unions",
+          "industry": "Depository Credit Intermediation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "American Red Cross Blood Svc",
+          "description": "Blood & Organ Banks & Centers",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Wingspan Life Resources",
+          "description": "Non-Profit Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ramsey County Tax Information",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ball Corp",
+          "description": "Metal Cans (mfrs)",
+          "industry": "Boiler, Tank, and Shipping Container Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Military Affairs Dept",
+          "description": "State Government-National Security",
+          "industry": "National Security and International Affairs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Anchor Paper",
+          "description": "Paper Products (whls)",
+          "industry": "Paper and Paper Product Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Little Sisters of the Poor",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Management & Budget",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ocean Grafix LLC",
+          "description": "Printers (mfrs)",
+          "industry": "Printing and Related Support Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Dairy & Food Inspection Div",
+          "description": "State Government-Regulation-Agricultural Mark",
+          "industry": "Administration of Economic Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Carl Bolander & Sons",
+          "description": "Excavating Contractors",
+          "industry": "Other Specialty Trade Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Day Surgery Ctr of United Hosp",
+          "description": "Physicians & Surgeons",
+          "industry": "Offices of Physicians",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "State Court Administrator",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Tursso Co",
+          "description": "Labels-Paper (mfrs)",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Department-Labor Ind",
+          "description": "State Government-General Offices",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Workers Compensation Div",
+          "description": "State Government-Social/Human Resources",
+          "industry": "Administration of Human Resource Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Calspan Aero Systs Engrng Inc",
+          "description": "Aircraft Research & Development (mfrs)",
+          "industry": "Aerospace Product and Parts Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Police Dept-Central",
+          "description": "Police Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Affinity Plus Federal CU",
+          "description": "Credit Unions",
+          "industry": "Depository Credit Intermediation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Maplewood Fire Station",
+          "description": "Fire Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Americraft Carton Inc",
+          "description": "Boxes-Folding-Manufacturers",
+          "industry": "Converted Paper Product Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ramsey County Sheriff",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ecological & Water Resource",
+          "description": "State Government-Air/Water/Solid Waste Manage",
+          "industry": "Administration of Environmental Quality Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Fish & Wildlife Div",
+          "description": "State Government-Land/Mineral/Wildlife/Forest",
+          "industry": "Administration of Environmental Quality Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minerals Division",
+          "description": "State Government-Land/Mineral/Wildlife/Forest",
+          "industry": "Administration of Environmental Quality Programs",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Girl Scouts River Valleys",
+          "description": "Girl Scouts",
+          "industry": "Civic and Social Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Brown & Bigelow Inc",
+          "description": "Advertising-Promotional",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Department of Entymology",
+          "description": "Educational Service-Business",
+          "industry": "Educational Support Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Martin Luther King Rec Ctr",
+          "description": "Recreation Centers",
+          "industry": "Other Amusement and Recreation Industries",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Collins Electrical Constr Co",
+          "description": "Electric Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Downtowner Car Wash",
+          "description": "Car Washing & Polishing",
+          "industry": "Automotive Repair and Maintenance",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul College",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Viking Drill & Tool Inc",
+          "description": "Machine Tools-Manufacturers",
+          "industry": "Metalworking Machinery Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Scanlan Group",
+          "description": "Physicians & Surgeons Equip & Supls-Whls",
+          "industry": "Professional and Commercial Equipment and Supplies Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Scanlan International Inc",
+          "description": "Surgical/Med Instruments/Apparatus (mfr)",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cintas Facility Svc Downtown",
+          "description": "Uniform Rental Service",
+          "industry": "Drycleaning and Laundry Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cerenity Senior Care the Care",
+          "description": "Retirement Communities & Homes",
+          "industry": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Serenity Residents On Humboldt",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Mc Donald's",
+          "description": "Limited-Service Restaurant",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Galtier Health Ctr",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "University Club",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "North Star Health Alliance",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Retirement System",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "El Burrito Mercado",
+          "description": "Bread/Other Bakery Prod-Ex Cookies",
+          "industry": "Bakeries and Tortilla Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Bay West LLC",
+          "description": "Environmental & Ecological Services",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Blaze Credit Union",
+          "description": "Credit Unions",
+          "industry": "Depository Credit Intermediation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Transdev",
+          "description": "Transportation",
+          "industry": "Support Activities for Rail Transportation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Humboldt High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Como Town Amusement Park",
+          "description": "Amusement & Theme Parks",
+          "industry": "Amusement Parks and Arcades",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Ramsey County Attorney",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Healthpartners Eye Care St Pl",
+          "description": "Clinics",
+          "industry": "Offices of Physicians",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Capitol Hill Magnet School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Bridge View Elementary",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Gillette Children's-Appntmnts",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Allied Building Products",
+          "description": "Building Materials-Wholesale",
+          "industry": "Lumber and Other Construction Materials Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Meridian Display-Merchandising",
+          "description": "Advertising-Agencies & Counselors",
+          "industry": "Advertising, Public Relations, and Related Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Advanced Disposal",
+          "description": "Garbage Collection",
+          "industry": "Waste Collection",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "People Inc",
+          "description": "Mental Health Services",
+          "industry": "Psychiatric and Substance Abuse Hospitals",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Viking Automatic Sprinkler Co",
+          "description": "Fire Protection Service",
+          "industry": "Other Support Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Health Systems Co-Op Laundries",
+          "description": "Health Services",
+          "industry": "Other Ambulatory Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Barack-Michelle Obama",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Bonfe Plumbing Htg & Air Svc",
+          "description": "Plumbing Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Health East Medical Trnsprtn",
+          "description": "Transportation Services",
+          "industry": "Other Transit and Ground Passenger Transportation",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cerenity Care Ctr",
+          "description": "Vocational Rehabilitation Services",
+          "industry": "Vocational Rehabilitation Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Vomela Co",
+          "description": "Graphic Services",
+          "industry": "Specialized Design Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Fire Dept",
+          "description": "Fire Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Lifetrack",
+          "description": "Educational Programs",
+          "industry": "Other Schools and Instruction",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Custom Drywall",
+          "description": "Dry Wall Contractors",
+          "industry": "Building Finishing Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Summit Co",
+          "description": "Fire Protection Equipment & Supls (whls)",
+          "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Summit Mechanical",
+          "description": "Plumbing Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Archdiocesan Council-Catholic",
+          "description": "Churches",
+          "industry": "Religious Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Shamrocks Grill & Pub",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Eastside YMCA",
+          "description": "Youth Organizations & Centers",
+          "industry": "Individual and Family Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "United Family Medicine",
+          "description": "Physicians & Surgeons",
+          "industry": "Offices of Physicians",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Billy's On Grand",
+          "description": "Restaurants",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Paul-Sheila Wellstone Elmntry",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Heritage Middle School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "New Harmony Care Ctr",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Warners' Stellian Appliance Co",
+          "description": "Appliances-Household-Major-Dealers",
+          "industry": "Electronics and Appliance Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Prescription Landscape",
+          "description": "Landscape Contractors",
+          "industry": "Services to Buildings and Dwellings",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Divine Healthcare Network",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Equity Home Care",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Minnesota Workforce Education",
+          "description": "Educational Service-Business",
+          "industry": "Educational Support Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Sysco Asian Foods Inc",
+          "description": "Ethnic Products & Service",
+          "industry": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Good Things On Grand",
+          "description": "Gift Shops",
+          "industry": "Office Supplies, Stationery, and Gift Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Team Family Home Care",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "United Steelworkers",
+          "description": "Labor Organizations",
+          "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Phalen Lake Elementary School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Central High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Community Mental Health-Wllnss",
+          "description": "Marriage & Family Counselors",
+          "industry": "Individual and Family Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Sholom Community Alliance LLC",
+          "description": "Physical Therapists",
+          "industry": "Offices of Other Health Practitioners",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Midwest Special Svc Inc",
+          "description": "Elderly & Disabled Person Services",
+          "industry": "Individual and Family Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Twin Cities Homecare Svc LLC",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Open Cities Health Ctr Inc",
+          "description": "Physicians & Surgeons",
+          "industry": "Offices of Physicians",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Sholom Care",
+          "description": "Physical Therapists",
+          "industry": "Offices of Other Health Practitioners",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Como Park Senior High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Baldinger Baking LP",
+          "description": "Frozen Bakery Products-Except Bread (mfrs)",
+          "industry": "Bakeries and Tortilla Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Johnson Senior High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Menards",
+          "description": "Home Centers",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Kowalski's Markets",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Animal Emergency-Referral Ctr",
+          "description": "Animal Hospitals",
+          "industry": "Other Professional, Scientific, and Technical Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Westwood Ridge",
+          "description": "Vocational Rehabilitation Services",
+          "industry": "Vocational Rehabilitation Services",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Como Park Special School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Harding High School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Washington Technology Magnet",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Harris Co",
+          "description": "Mechanical Contractors",
+          "industry": "Building Equipment Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "United States Postal Svc",
+          "description": "Post Offices",
+          "industry": "Postal Service",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "City of West St Paul",
+          "description": "City Government-Executive Offices",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "National Checking Co",
+          "description": "Restaurant Equipment & Supplies-Mfrs",
+          "industry": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Demmer Investments IV Inc",
+          "description": "Metal Fabricators",
+          "industry": "Other Specialty Trade Contractors",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Walmart Supercenter",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Criminal Apprehension Bureau",
+          "description": "Government Offices-State",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Power/Mation",
+          "description": "Automation Systems & Equipment-Mfrs",
+          "industry": "Other General Purpose Machinery Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Tapemark",
+          "description": "Physicians & Surgeons Equip & Supls-Mfrs",
+          "industry": "Medical Equipment and Supplies Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cretin-Derham Hall",
+          "description": "Religious Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Rescare Community Living",
+          "description": "Residential Care",
+          "industry": "Other Residential Care Facilities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Target",
+          "description": "Department Stores",
+          "industry": "Department Stores",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Expo Elementary",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Co-Operative Plating",
+          "description": "Plating (mfrs)",
+          "industry": "Coating, Engraving, Heat Treating, and Allied Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Lowe's Home Improvement",
+          "description": "Home Centers",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Macalster College Art Gallery",
+          "description": "Museums",
+          "industry": "Museums, Historical Sites, and Similar Institutions",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Dental Associates of St Paul",
+          "description": "Dentists",
+          "industry": "Offices of Dentists",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Park Dept Operations",
+          "description": "Parks",
+          "industry": "Museums, Historical Sites, and Similar Institutions",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "SONIC Drive-In",
+          "description": "Limited-Service Restaurant",
+          "industry": "Restaurants and Other Eating Places",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Fire Dept",
+          "description": "Fire Departments",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Amidon Graphics Inc",
+          "description": "Printers (mfrs)",
+          "industry": "Printing and Related Support Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Good Samaritan Society-Mplwd",
+          "description": "Non-Profit Organizations",
+          "industry": "Social Advocacy Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Total Tool Supply Inc",
+          "description": "Tools-New & Used",
+          "industry": "Building Material and Supplies Dealers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Juvenile Services",
+          "description": "State Govt-Correctional Institutions",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "NV5 Inc",
+          "description": "Engineering",
+          "industry": "Architectural, Engineering, and Related Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Battle Creek Elementary",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Indecomm Global Svc",
+          "description": "Services NEC",
+          "industry": "Other Professional, Scientific, and Technical Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Black & Dew LLC",
+          "description": "General Contractors",
+          "industry": "Residential Building Construction",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Corrections Minnesota Dept",
+          "description": "State Govt-Correctional Institutions",
+          "industry": "Justice, Public Order, and Safety Activities",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Supportive Housing-Employment",
+          "description": "Foundation-Educ Philanthropic Research",
+          "industry": "Scientific Research and Development Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Battle Creek Middle School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Accord",
+          "description": "Home Health Service",
+          "industry": "Home Health Care Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "West St Paul-Mendota Hts-Eagan",
+          "description": "School Districts",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Hmong Academy Charter School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Lyngblomsten Care Ctr",
+          "description": "Services NEC",
+          "industry": "Other Professional, Scientific, and Technical Services",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Lincoln Center Elementary",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "SOUTH ST PAUL, MN"
+        },
+        {
+          "name": "5-5-1 Club Community Ctr",
+          "description": "Senior Citizens Service Organizations",
+          "industry": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Frost Lake Elementary School",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Pearson Candy Co",
+          "description": "Candy & Confectionery-Manufacturers",
+          "industry": "Sugar and Confectionery Product Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "St Paul Academy & Summit Sch",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Dakota County Community Svc",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Dakota County Public Health",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Dakota County Social Svc",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Dakota County Workforce Ctr",
+          "description": "Government Offices-County",
+          "industry": "Executive, Legislative, and Other General Government Support",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Agropur Inc Div Natrel USA",
+          "description": "Ice Cream & Frozen Desserts (mfrs)",
+          "industry": "Dairy Product Manufacturing",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Cub",
+          "description": "Grocers-Retail",
+          "industry": "Grocery and Convenience Retailers",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Southview Acres Health Care",
+          "description": "Nursing & Convalescent Homes",
+          "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+          "raw_city": "WEST ST PAUL, MN"
+        },
+        {
+          "name": "Highland Park Junior High Sch",
+          "description": "Schools",
+          "industry": "Elementary and Secondary Schools",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Episcopal Church Home of MN",
+          "description": "Churches",
+          "industry": "Religious Organizations",
+          "raw_city": "ST PAUL, MN"
+        },
+        {
+          "name": "Doubletree By Hilton St Paul",
+          "description": "Hotels & Motels",
+          "industry": "Traveler Accommodation",
+          "raw_city": "ST PAUL, MN"
+        }
+      ]
+    }
+  },
+  "no_results": []
+}

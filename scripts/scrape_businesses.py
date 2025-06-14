@@ -1,132 +1,156 @@
-# scripts/scrape_city_businesses_all.py
+# scripts/scrape_businesses.py
 import json, random, re, time, pathlib, requests
 from typing import Dict, List
 from urllib.parse import urlencode
 from bs4 import BeautifulSoup
 
-# ── I/O paths ────────────────────────────────────────────────────────────────
-BASE_DIR   = pathlib.Path(__file__).resolve().parent
-PUBLIC_DIR = BASE_DIR / ".." / "public"
+# ── paths ───────────────────────────────────────────────────────────────────
+ROOT        = pathlib.Path(__file__).resolve().parent
+PUBLIC_DIR  = ROOT / ".." / "public"
 CITIES_FILE = PUBLIC_DIR / "basic_cities_with_uni.json"
 OUT_FILE    = PUBLIC_DIR / "city_businesses.json"
 
-# ── CareerOneStop constants ──────────────────────────────────────────────────
-COS_BASE   = "https://www.careeronestop.org/Toolkit/Jobs/find-businesses-results.aspx"
-BANDS      = [("E", "500+"), ("D", "100-499"), ("C", "10-99")]  # scrape C conditionally
-UA_ROTATE  = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/125.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4) AppleWebKit/605.1.15 "
-    "(KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+# ── CareerOneStop constants ─────────────────────────────────────────────────
+COS_BASE = "https://www.careeronestop.org/Toolkit/Jobs/find-businesses-results.aspx"
+BANDS    = [("E", "500+"), ("D", "100-499"), ("C", "10-99")]
+
+UAS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17 Safari/605.1.15",
     "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/125.0",
 ]
 
-SESSION = requests.Session()
+S = requests.Session()
 
-# ── helpers ──────────────────────────────────────────────────────────────────
+# ── helpers ────────────────────────────────────────────────────────────────
+def canon(text: str) -> str:
+    """saint paul → st paul  (lower, collapse spaces)"""
+    text = text.lower().replace("saint", "st").replace(".", " ")
+    return re.sub(r"\s+", " ", text).strip()
+
 def soup_get(url: str) -> BeautifulSoup:
-    r = SESSION.get(
-        url,
-        headers={"User-Agent": random.choice(UA_ROTATE)},
-        timeout=25,
-    )
+    r = S.get(url, headers={"User-Agent": random.choice(UAS)}, timeout=25)
     r.raise_for_status()
     return BeautifulSoup(r.text, "html.parser")
 
-def build_url(location: str, band_code: str, page: int) -> str:
-    return f"{COS_BASE}?{urlencode({'location': location, 'curPage': page, 'pagesize': 25, 'sortcolumns': 'GEOCODE', 'sortdirections': 'ASC', 'empsizefilter': band_code, 'lang': 'en'}, safe=',')}"
+def build_url(loc: str, band: str, page: int) -> str:
+    q = {
+        "location": loc,
+        "curPage":  page,
+        "pagesize": 25,
+        "sortcolumns": "GEOCODE",
+        "sortdirections": "ASC",
+        "empsizefilter": band,
+        "lang": "en",
+    }
+    return f"{COS_BASE}?{urlencode(q, safe=',')}"
 
-def scrape_band(city_key: str, location: str, band_code: str) -> List[Dict]:
-    """Scrape **every** page for a band; keep only rows matching city_key."""
-    results, page = [], 1
+def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
+    """Return all rows in one band whose city text contains `city_key`."""
+    rows, page = [], 1
     while True:
-        soup = soup_get(build_url(location, band_code, page))
-        tbody = soup.find("tbody")
+        tbody = soup_get(build_url(loc, code, page)).find("tbody")
         if not tbody:
             break
 
         added = 0
         for tr in tbody.find_all("tr"):
-            td = tr.find("td")
-            outer = td.find("div") if td else None
-            divs = outer.find_all("div", recursive=False) if outer else []
+            tds = tr.find_all("td", recursive=False)
+            if len(tds) < 3:
+                continue
+
+            # ----- col-0 : name + city -----
+            outer = tds[0].find("div")
+            if not outer:
+                continue
+            divs = outer.find_all("div", recursive=False)
             if len(divs) < 3:
                 continue
 
-            a_name = divs[0].find("a")
-            if not a_name:
-                continue
-            name = re.sub(r'[“”"]', '', a_name.get_text(strip=True)).strip()
+            name = re.sub(r'[“”"]', "", divs[0].find("a").get_text(strip=True))
+            city_raw = re.sub(r"\s+", " ", divs[2].get_text(strip=True))
 
-            third_text = re.sub(r'\s+', ' ', divs[2].get_text(strip=True)).strip()
-            if city_key not in third_text.lower():
+            if city_key not in canon(city_raw):
                 continue
 
-            results.append({"name": name, "third_div": third_text})
+            # ----- col-1 : description -----
+            desc_div = tds[1].find("div")
+            desc = re.sub(r'[“”"]', "", desc_div.get_text(strip=True)) if desc_div else ""
+
+            # ----- col-2 : industry --------
+            ind_div = tds[2].find("div")
+            industry = re.sub(r'[“”"]', "", ind_div.get_text(strip=True)) if ind_div else ""
+
+            rows.append(
+                {
+                    "name": name,
+                    "description": desc,
+                    "industry": industry,
+                    "raw_city": city_raw,
+                }
+            )
             added += 1
 
-        if added < 25:  # page had < pagesize hits → last page
+        if added < 25:
             break
         page += 1
-        time.sleep(0.7)  # be polite
-    return results
+        time.sleep(0.7)
+    return rows
 
-def scrape_city(city_name: str) -> Dict[str, List[Dict]]:
-    """Scrape the required bands for one city. Returns {} if none found."""
-    location = f"{city_name}, MN"
-    city_key = city_name.lower()
+def scrape_city(city: str) -> Dict[str, List[Dict]]:
+    """
+    Query bands E, D, (optionally C) for `city`.
+    Returns {} if zero businesses.
+    """
+    loc      = f"{city.replace('Saint', 'St.')}, MN"
+    city_key = canon(city)
 
-    bands_output = {}
-    # scrape E and D first
-    total_ed = 0
+    out, total_ed = {}, 0
     for code, label in BANDS:
         if code == "C" and total_ed >= 25:
             break
-        rows = scrape_band(city_key, location, code)
-        if rows:
-            bands_output[label] = rows
+        band_rows = scrape_band(city_key, loc, code)
+        if band_rows:
+            out[label] = band_rows
             if code in ("E", "D"):
-                total_ed += len(rows)
-    return bands_output
+                total_ed += len(band_rows)
+    return out
 
-# ── main ─────────────────────────────────────────────────────────────────────
+# ── main ──────────────────────────────────────────────────────────────────
 def main():
     PUBLIC_DIR.mkdir(exist_ok=True, parents=True)
 
     city_list = json.loads(CITIES_FILE.read_text(encoding="utf-8"))["cities"]
     print(f"🚀 Scraping {len(city_list)} MN cities for businesses …")
 
-    results = {}
-    no_results = []
+    merged, no_results = {}, []
 
     for idx, entry in enumerate(city_list, 1):
         city = entry["city"]
-        print(f"\n[{idx}/{len(city_list)}] 👉  {city} …")
+        print(f"[{idx}/{len(city_list)}] {city}")
         try:
             bands = scrape_city(city)
-        except Exception as exc:
-            print(f"   ⚠️  ERROR scraping {city}: {exc}")
+        except Exception as e:
+            print("   ⚠️ error:", e)
             no_results.append(city)
             continue
 
-        if not bands:
-            print(f"   — No businesses found for {city}")
-            no_results.append(city)
+        if bands:
+            total = sum(len(v) for v in bands.values())
+            print(f"   ✓ {total} businesses")
+            merged[city] = bands
         else:
-            total_rows = sum(len(v) for v in bands.values())
-            print(f"   ✓ {total_rows} businesses")
-            results[city] = bands
+            print("   — no businesses")
+            no_results.append(city)
 
-        # throttle between cities
-        time.sleep(random.uniform(2.0, 4.0))
+        time.sleep(random.uniform(2.0, 4.0))  # polite between cities
 
-    # write output
     OUT_FILE.write_text(
-        json.dumps({"cities": results, "no_results": no_results}, indent=2),
+        json.dumps({"cities": merged, "no_results": no_results}, indent=2),
         encoding="utf-8"
     )
-    print(f"\n✅  Finished! {len(results)} cities scraped, "
-          f"{len(no_results)} with no results → {OUT_FILE.resolve()}")
+    print(f"\n✅  Finished! {len(merged)} cities scraped, "
+          f"{len(no_results)} with no results → {OUT_FILE}")
 
 if __name__ == "__main__":
     main()
