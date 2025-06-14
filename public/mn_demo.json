@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Ada Demographic Statistics",
+    "median_age": 40.3,
+    "median_income": 67857,
+    "race_ethnicity": "The largest Ada racial/ethnic groups  are \n            White (91.0%) followed by Hispanic (4.3%) and Two or More (2.9%)."
+  },
+  {
+    "city": "Adams Demographic Statistics",
+    "median_age": 48.5,
+    "median_income": 85000,
+    "race_ethnicity": "The largest Adams racial/ethnic groups  are \n            White (95.8%) followed by Hispanic (2.4%) and Two or More (1.4%)."
+  },
+  {
+    "city": "Adrian Demographic Statistics",
+    "median_age": 36.4,
+    "median_income": 74100,
+    "race_ethnicity": "The largest Adrian racial/ethnic groups  are \n            White (76.2%) followed by Hispanic (18.5%) and Asian (3.8%)."
+  },
+  {
+    "city": "Babbitt Demographic Statistics",
+    "median_age": 51.3,
+    "median_income": 54318,
+    "race_ethnicity": "The largest Babbitt racial/ethnic groups  are \n            White (94.5%) followed by Hispanic (4.1%) and Two or More (0.8%)."
+  },
+  {
+    "city": "Backus Demographic Statistics",
+    "median_age": 47.9,
+    "median_income": 58750,
+    "race_ethnicity": "The largest Backus racial/ethnic groups  are \n            White (72.5%) followed by Two or More (18.5%) and Black (7.0%)."
+  },
+  {
+    "city": "Badger Demographic Statistics",
+    "median_age": 35.5,
+    "median_income": 60375,
+    "race_ethnicity": "The largest Badger racial/ethnic groups  are \n            White (95.9%) followed by Hispanic (1.9%) and Two or More (1.7%)."
+  }
+]

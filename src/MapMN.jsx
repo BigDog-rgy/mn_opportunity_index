@@ -85,7 +85,7 @@ export default function MapMN() {
         <CircleMarker
           key={c.id}
           center={[c.lat, c.lon]}
-          radius={2}
+          radius={3}
           stroke={false}
           pathOptions={{ color: "#d91e18" }}
           fillOpacity={0.9}

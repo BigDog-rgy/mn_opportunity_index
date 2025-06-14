@@ -1,0 +1,376 @@
+{
+  "Albert Lea": [
+    {
+      "name": "Riverland Community College",
+      "enrollment": 3175.0
+    }
+  ],
+  "Alexandria": [
+    {
+      "name": "Alexandria Technical and Community College",
+      "enrollment": 2865.0
+    }
+  ],
+  "Anoka": [
+    {
+      "name": "Anoka Technical College",
+      "enrollment": 1580.0
+    }
+  ],
+  "Arden Hills": [
+    {
+      "name": "Bethel University",
+      "enrollment": 3546.0
+    }
+  ],
+  "Bemidji": [
+    {
+      "name": "Bemidji State University",
+      "enrollment": 4023.0
+    },
+    {
+      "name": "Northwest Technical College",
+      "enrollment": 721.0
+    },
+    {
+      "name": "Oak Hills Christian College",
+      "enrollment": 102.0
+    }
+  ],
+  "Bloomington": [
+    {
+      "name": "Normandale Community College",
+      "enrollment": 9346.0
+    },
+    {
+      "name": "Bethany Global University",
+      "enrollment": 261.0
+    },
+    {
+      "name": "Northwestern Health Sciences University",
+      "enrollment": 1031.0
+    }
+  ],
+  "Brainerd": [
+    {
+      "name": "Central Lakes College",
+      "enrollment": 4633.0
+    }
+  ],
+  "Brooklyn Park": [
+    {
+      "name": "Hennepin Technical College",
+      "enrollment": 3974.0
+    },
+    {
+      "name": "North Hennepin Community College",
+      "enrollment": 4896.0
+    }
+  ],
+  "Cass Lake": [
+    {
+      "name": "Leech Lake Tribal College",
+      "enrollment": 172.0
+    }
+  ],
+  "Center City": [
+    {
+      "name": "Hazelden Graduate School of Addiction Studies",
+      "enrollment": 147.0
+    }
+  ],
+  "Cloquet": [
+    {
+      "name": "Fond du Lac Tribal and Community College",
+      "enrollment": 1648.0
+    }
+  ],
+  "Coon Rapids": [
+    {
+      "name": "Anoka-Ramsey Community College",
+      "enrollment": 7902.0
+    }
+  ],
+  "Crookston": [
+    {
+      "name": "University of Minnesota Crookston",
+      "enrollment": 2303.0
+    }
+  ],
+  "Duluth": [
+    {
+      "name": "Lake Superior College",
+      "enrollment": 3849.0
+    },
+    {
+      "name": "University of Minnesota Duluth",
+      "enrollment": 9675.0
+    },
+    {
+      "name": "College of St. Scholastica",
+      "enrollment": 3207.0
+    }
+  ],
+  "Fergus Falls": [
+    {
+      "name": "Minnesota State Community and Technical College",
+      "enrollment": 5282.0
+    }
+  ],
+  "Granite Falls": [
+    {
+      "name": "Minnesota West Community and Technical College",
+      "enrollment": 3352.0
+    }
+  ],
+  "Hibbing": [
+    {
+      "name": "Minnesota North College",
+      "enrollment": 3044.0
+    }
+  ],
+  "Hutchinson": [
+    {
+      "name": "Ridgewater College",
+      "enrollment": 2904.0
+    }
+  ],
+  "Inver Grove Heights": [
+    {
+      "name": "Inver Hills Community College",
+      "enrollment": 3459.0
+    }
+  ],
+  "Mahnomen": [
+    {
+      "name": "White Earth Tribal and Community College",
+      "enrollment": 102.0
+    }
+  ],
+  "Mankato": [
+    {
+      "name": "Minnesota State University, Mankato",
+      "enrollment": 14590.0
+    },
+    {
+      "name": "Bethany Lutheran College",
+      "enrollment": 830.0
+    }
+  ],
+  "Marshall": [
+    {
+      "name": "Southwest Minnesota State University",
+      "enrollment": 6930.0
+    }
+  ],
+  "Minneapolis": [
+    {
+      "name": "Minneapolis Community and Technical College",
+      "enrollment": 6030.0
+    },
+    {
+      "name": "University of Minnesota, Twin Cities",
+      "enrollment": 54955.0
+    },
+    {
+      "name": "Academy College",
+      "enrollment": 105.0
+    },
+    {
+      "name": "Augsburg University",
+      "enrollment": 3088.0
+    },
+    {
+      "name": "Dunwoody College of Technology",
+      "enrollment": 1359.0
+    },
+    {
+      "name": "Minneapolis College of Art and Design",
+      "enrollment": 821.0
+    },
+    {
+      "name": "North Central University",
+      "enrollment": 992.0
+    },
+    {
+      "name": "Capella University",
+      "enrollment": 39727.0
+    },
+    {
+      "name": "Walden University",
+      "enrollment": 42313.0
+    }
+  ],
+  "Minnetonka": [
+    {
+      "name": "Adler Graduate School",
+      "enrollment": 227.0
+    }
+  ],
+  "Moorhead": [
+    {
+      "name": "Minnesota State University Moorhead",
+      "enrollment": 4682.0
+    },
+    {
+      "name": "Concordia College",
+      "enrollment": 1903.0
+    }
+  ],
+  "Morris": [
+    {
+      "name": "University of Minnesota Morris",
+      "enrollment": 1068.0
+    }
+  ],
+  "New Ulm": [
+    {
+      "name": "Martin Luther College",
+      "enrollment": 880.0
+    }
+  ],
+  "North Mankato": [
+    {
+      "name": "South Central College",
+      "enrollment": 2602.0
+    }
+  ],
+  "Northfield": [
+    {
+      "name": "Carleton College",
+      "enrollment": 2059.0
+    },
+    {
+      "name": "St. Olaf College",
+      "enrollment": 3046.0
+    }
+  ],
+  "Pine City": [
+    {
+      "name": "Pine Technical and Community College",
+      "enrollment": 1873.0
+    }
+  ],
+  "Rochester": [
+    {
+      "name": "Rochester Community and Technical College",
+      "enrollment": 4482.0
+    },
+    {
+      "name": "University of Minnesota Rochester",
+      "enrollment": 630.0
+    },
+    {
+      "name": "Mayo Clinic College of Medicine and Science",
+      "enrollment": 1237.0
+    }
+  ],
+  "Rosemount": [
+    {
+      "name": "Dakota County Technical College",
+      "enrollment": 2717.0
+    }
+  ],
+  "Roseville": [
+    {
+      "name": "University of Northwestern – St. Paul",
+      "enrollment": 3253.0
+    }
+  ],
+  "St. Bonifacius": [
+    {
+      "name": "Crown College",
+      "enrollment": 1583.0
+    }
+  ],
+  "St. Cloud": [
+    {
+      "name": "St. Cloud State University",
+      "enrollment": 10420.0
+    },
+    {
+      "name": "St. Cloud Technical and Community College",
+      "enrollment": 3466.0
+    }
+  ],
+  "St. Joseph": [
+    {
+      "name": "College of Saint Benedict and Saint John's University",
+      "enrollment": 3115.0
+    }
+  ],
+  "St. Paul": [
+    {
+      "name": "Metropolitan State University",
+      "enrollment": 6294.0
+    },
+    {
+      "name": "Saint Paul College",
+      "enrollment": 5365.0
+    },
+    {
+      "name": "Concordia University",
+      "enrollment": 5544.0
+    },
+    {
+      "name": "Hamline University",
+      "enrollment": 2638.0
+    },
+    {
+      "name": "Luther Seminary",
+      "enrollment": 410.0
+    },
+    {
+      "name": "Macalester College",
+      "enrollment": 2175.0
+    },
+    {
+      "name": "Mitchell Hamline School of Law",
+      "enrollment": 1192.0
+    },
+    {
+      "name": "St. Catherine University",
+      "enrollment": 3577.0
+    },
+    {
+      "name": "United Theological Seminary of the Twin Cities",
+      "enrollment": 224.0
+    },
+    {
+      "name": "University of St. Thomas",
+      "enrollment": 9025.0
+    }
+  ],
+  "St. Peter": [
+    {
+      "name": "Gustavus Adolphus College",
+      "enrollment": 2072.0
+    }
+  ],
+  "Thief River Falls": [
+    {
+      "name": "Northland Community & Technical College",
+      "enrollment": 2495.0
+    }
+  ],
+  "White Bear Lake": [
+    {
+      "name": "Century College",
+      "enrollment": 7646.0
+    }
+  ],
+  "Winona": [
+    {
+      "name": "Minnesota State College Southeast",
+      "enrollment": 1923.0
+    },
+    {
+      "name": "Winona State University",
+      "enrollment": 6154.0
+    },
+    {
+      "name": "Saint Mary's University of Minnesota",
+      "enrollment": 4133.0
+    }
+  ]
+}
