@@ -1,0 +1,1139 @@
+{
+  "totals_by_size": {
+    "500+": 327,
+    "100-499": 2629,
+    "10-99": 14911
+  },
+  "industry_counts": [
+    {
+      "industry": "Restaurants and Other Eating Places",
+      "count": 1939
+    },
+    {
+      "industry": "Elementary and Secondary Schools",
+      "count": 1324
+    },
+    {
+      "industry": "Justice, Public Order, and Safety Activities",
+      "count": 768
+    },
+    {
+      "industry": "Executive, Legislative, and Other General Government Support",
+      "count": 761
+    },
+    {
+      "industry": "Grocery and Convenience Retailers",
+      "count": 720
+    },
+    {
+      "industry": "Offices of Physicians",
+      "count": 361
+    },
+    {
+      "industry": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+      "count": 351
+    },
+    {
+      "industry": "Depository Credit Intermediation",
+      "count": 334
+    },
+    {
+      "industry": "Building Material and Supplies Dealers",
+      "count": 297
+    },
+    {
+      "industry": "Traveler Accommodation",
+      "count": 276
+    },
+    {
+      "industry": "Other Amusement and Recreation Industries",
+      "count": 245
+    },
+    {
+      "industry": "Nursing Care Facilities (Skilled Nursing Facilities)",
+      "count": 228
+    },
+    {
+      "industry": "Social Advocacy Organizations",
+      "count": 228
+    },
+    {
+      "industry": "Individual and Family Services",
+      "count": 212
+    },
+    {
+      "industry": "Building Equipment Contractors",
+      "count": 208
+    },
+    {
+      "industry": "Child Care Services",
+      "count": 199
+    },
+    {
+      "industry": "Civic and Social Organizations",
+      "count": 195
+    },
+    {
+      "industry": "Religious Organizations",
+      "count": 192
+    },
+    {
+      "industry": "Other Miscellaneous Manufacturing",
+      "count": 190
+    },
+    {
+      "industry": "Automobile Dealers",
+      "count": 189
+    },
+    {
+      "industry": "Other Ambulatory Health Care Services",
+      "count": 184
+    },
+    {
+      "industry": "Offices of Dentists",
+      "count": 179
+    },
+    {
+      "industry": "Machinery, Equipment, and Supplies Merchant Wholesalers",
+      "count": 172
+    },
+    {
+      "industry": "Residential Building Construction",
+      "count": 162
+    },
+    {
+      "industry": "Other Specialty Trade Contractors",
+      "count": 154
+    },
+    {
+      "industry": "Department Stores",
+      "count": 151
+    },
+    {
+      "industry": "Health and Personal Care Retailers",
+      "count": 148
+    },
+    {
+      "industry": "Home Health Care Services",
+      "count": 147
+    },
+    {
+      "industry": "Offices of Real Estate Agents and Brokers",
+      "count": 144
+    },
+    {
+      "industry": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+      "count": 131
+    },
+    {
+      "industry": "Management, Scientific, and Technical Consulting Services",
+      "count": 127
+    },
+    {
+      "industry": "Postal Service",
+      "count": 118
+    },
+    {
+      "industry": "Other Professional, Scientific, and Technical Services",
+      "count": 115
+    },
+    {
+      "industry": "Specialized Freight Trucking",
+      "count": 115
+    },
+    {
+      "industry": "Drinking Places (Alcoholic Beverages)",
+      "count": 111
+    },
+    {
+      "industry": "General Medical and Surgical Hospitals",
+      "count": 109
+    },
+    {
+      "industry": "Automotive Repair and Maintenance",
+      "count": 108
+    },
+    {
+      "industry": "Architectural, Engineering, and Related Services",
+      "count": 104
+    },
+    {
+      "industry": "Museums, Historical Sites, and Similar Institutions",
+      "count": 103
+    },
+    {
+      "industry": "Personal Care Services",
+      "count": 102
+    },
+    {
+      "industry": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+      "count": 102
+    },
+    {
+      "industry": "Services to Buildings and Dwellings",
+      "count": 100
+    },
+    {
+      "industry": "Radio and Television Broadcasting Stations",
+      "count": 97
+    },
+    {
+      "industry": "Vocational Rehabilitation Services",
+      "count": 96
+    },
+    {
+      "industry": "Gasoline Stations",
+      "count": 92
+    },
+    {
+      "industry": "Newspaper, Periodical, Book, and Directory Publishers",
+      "count": 89
+    },
+    {
+      "industry": "Advertising, Public Relations, and Related Services",
+      "count": 86
+    },
+    {
+      "industry": "Offices of Other Health Practitioners",
+      "count": 86
+    },
+    {
+      "industry": "Legal Services",
+      "count": 85
+    },
+    {
+      "industry": "Building Foundation and Exterior Contractors",
+      "count": 84
+    },
+    {
+      "industry": "Other Financial Investment Activities",
+      "count": 82
+    },
+    {
+      "industry": "Automotive Parts, Accessories, and Tire Retailers",
+      "count": 81
+    },
+    {
+      "industry": "Administration of Economic Programs",
+      "count": 79
+    },
+    {
+      "industry": "Psychiatric and Substance Abuse Hospitals",
+      "count": 78
+    },
+    {
+      "industry": "Grocery and Related Product Merchant Wholesalers",
+      "count": 77
+    },
+    {
+      "industry": "Electric Power Generation, Transmission and Distribution",
+      "count": 77
+    },
+    {
+      "industry": "Agencies, Brokerages, and Other Insurance Related Activities",
+      "count": 76
+    },
+    {
+      "industry": "Other Motor Vehicle Dealers",
+      "count": 74
+    },
+    {
+      "industry": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",
+      "count": 73
+    },
+    {
+      "industry": "Highway, Street, and Bridge Construction",
+      "count": 72
+    },
+    {
+      "industry": "Other Crop Farming",
+      "count": 72
+    },
+    {
+      "industry": "Lumber and Other Construction Materials Merchant Wholesalers",
+      "count": 70
+    },
+    {
+      "industry": "Management of Companies and Enterprises",
+      "count": 68
+    },
+    {
+      "industry": "Beer, Wine, and Liquor Retailers",
+      "count": 66
+    },
+    {
+      "industry": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+      "count": 65
+    },
+    {
+      "industry": "Other Food Manufacturing",
+      "count": 64
+    },
+    {
+      "industry": "Administration of Human Resource Programs",
+      "count": 63
+    },
+    {
+      "industry": "Other Residential Care Facilities",
+      "count": 63
+    },
+    {
+      "industry": "Sporting Goods, Hobby, and Musical Instrument Retailers",
+      "count": 62
+    },
+    {
+      "industry": "Utility System Construction",
+      "count": 60
+    },
+    {
+      "industry": "Beverage Manufacturing",
+      "count": 59
+    },
+    {
+      "industry": "Other General Purpose Machinery Manufacturing",
+      "count": 59
+    },
+    {
+      "industry": "Specialty Food Retailers",
+      "count": 59
+    },
+    {
+      "industry": "Printing and Related Support Activities",
+      "count": 58
+    },
+    {
+      "industry": "RV (Recreational Vehicle) Parks and Recreational Camps",
+      "count": 57
+    },
+    {
+      "industry": "Agriculture, Construction, and Mining Machinery Manufacturing",
+      "count": 55
+    },
+    {
+      "industry": "Colleges, Universities, and Professional Schools",
+      "count": 53
+    },
+    {
+      "industry": "Lessors of Real Estate",
+      "count": 53
+    },
+    {
+      "industry": "Other Schools and Instruction",
+      "count": 52
+    },
+    {
+      "industry": "Plastics Product Manufacturing",
+      "count": 52
+    },
+    {
+      "industry": "Architectural and Structural Metals Manufacturing",
+      "count": 51
+    },
+    {
+      "industry": "Used Merchandise Retailers",
+      "count": 49
+    },
+    {
+      "industry": "All Other Telecommunications",
+      "count": 49
+    },
+    {
+      "industry": "Petroleum and Petroleum Products Merchant Wholesalers",
+      "count": 49
+    },
+    {
+      "industry": "Lawn and Garden Equipment and Supplies Retailers",
+      "count": 47
+    },
+    {
+      "industry": "Furniture and Home Furnishings Retailers",
+      "count": 46
+    },
+    {
+      "industry": "Medical Equipment and Supplies Manufacturing",
+      "count": 46
+    },
+    {
+      "industry": "Other Wood Product Manufacturing",
+      "count": 46
+    },
+    {
+      "industry": "Miscellaneous Durable Goods Merchant Wholesalers",
+      "count": 46
+    },
+    {
+      "industry": "Wired and Wireless Telecommunications (except Satellite)",
+      "count": 46
+    },
+    {
+      "industry": "Web Search Portals, Libraries, Archives, and Other Information Services",
+      "count": 45
+    },
+    {
+      "industry": "Warehousing and Storage",
+      "count": 44
+    },
+    {
+      "industry": "School and Employee Bus Transportation",
+      "count": 43
+    },
+    {
+      "industry": "Animal Slaughtering and Processing",
+      "count": 42
+    },
+    {
+      "industry": "Business, Professional, Labor, Political, and Similar Organizations",
+      "count": 41
+    },
+    {
+      "industry": "Clothing and Clothing Accessories Retailers",
+      "count": 41
+    },
+    {
+      "industry": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+      "count": 41
+    },
+    {
+      "industry": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing",
+      "count": 41
+    },
+    {
+      "industry": "Software Publishers",
+      "count": 40
+    },
+    {
+      "industry": "Nonresidential Building Construction",
+      "count": 39
+    },
+    {
+      "industry": "Building Finishing Contractors",
+      "count": 38
+    },
+    {
+      "industry": "Animal Food Manufacturing",
+      "count": 37
+    },
+    {
+      "industry": "Junior Colleges",
+      "count": 36
+    },
+    {
+      "industry": "Other Support Services",
+      "count": 35
+    },
+    {
+      "industry": "Scientific Research and Development Services",
+      "count": 34
+    },
+    {
+      "industry": "Professional and Commercial Equipment and Supplies Merchant Wholesalers",
+      "count": 34
+    },
+    {
+      "industry": "Computer Systems Design and Related Services",
+      "count": 33
+    },
+    {
+      "industry": "Educational Support Services",
+      "count": 33
+    },
+    {
+      "industry": "Other Fabricated Metal Product Manufacturing",
+      "count": 31
+    },
+    {
+      "industry": "Bakeries and Tortilla Manufacturing",
+      "count": 30
+    },
+    {
+      "industry": "Business Support Services",
+      "count": 30
+    },
+    {
+      "industry": "Other Transit and Ground Passenger Transportation",
+      "count": 30
+    },
+    {
+      "industry": "Outpatient Care Centers",
+      "count": 30
+    },
+    {
+      "industry": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+      "count": 29
+    },
+    {
+      "industry": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",
+      "count": 29
+    },
+    {
+      "industry": "Support Activities for Rail Transportation",
+      "count": 28
+    },
+    {
+      "industry": "Employment Services",
+      "count": 28
+    },
+    {
+      "industry": "Other Personal Services",
+      "count": 28
+    },
+    {
+      "industry": "Administration of Environmental Quality Programs",
+      "count": 28
+    },
+    {
+      "industry": "Personal and Household Goods Repair and Maintenance",
+      "count": 28
+    },
+    {
+      "industry": "Coating, Engraving, Heat Treating, and Allied Activities",
+      "count": 27
+    },
+    {
+      "industry": "Waste Collection",
+      "count": 27
+    },
+    {
+      "industry": "Interurban and Rural Bus Transportation",
+      "count": 27
+    },
+    {
+      "industry": "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",
+      "count": 26
+    },
+    {
+      "industry": "Nondepository Credit Intermediation",
+      "count": 25
+    },
+    {
+      "industry": "Special Food Services",
+      "count": 25
+    },
+    {
+      "industry": "Other Miscellaneous Retailers",
+      "count": 25
+    },
+    {
+      "industry": "Charter Bus Industry",
+      "count": 25
+    },
+    {
+      "industry": "Electronics and Appliance Retailers",
+      "count": 25
+    },
+    {
+      "industry": "Converted Paper Product Manufacturing",
+      "count": 24
+    },
+    {
+      "industry": "Farm Product Raw Material Merchant Wholesalers",
+      "count": 24
+    },
+    {
+      "industry": "Spectator Sports",
+      "count": 23
+    },
+    {
+      "industry": "Office Supplies, Stationery, and Gift Retailers",
+      "count": 22
+    },
+    {
+      "industry": "Specialized Design Services",
+      "count": 21
+    },
+    {
+      "industry": "Investigation and Security Services",
+      "count": 21
+    },
+    {
+      "industry": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+      "count": 21
+    },
+    {
+      "industry": "Gambling Industries",
+      "count": 21
+    },
+    {
+      "industry": "Waste Treatment and Disposal",
+      "count": 21
+    },
+    {
+      "industry": "Promoters of Performing Arts, Sports, and Similar Events",
+      "count": 20
+    },
+    {
+      "industry": "Performing Arts Companies",
+      "count": 20
+    },
+    {
+      "industry": "Activities Related to Real Estate",
+      "count": 20
+    },
+    {
+      "industry": "Death Care Services",
+      "count": 20
+    },
+    {
+      "industry": "Urban Transit Systems",
+      "count": 19
+    },
+    {
+      "industry": "Drycleaning and Laundry Services",
+      "count": 19
+    },
+    {
+      "industry": "Motion Picture and Video Industries",
+      "count": 19
+    },
+    {
+      "industry": "Cattle Ranching and Farming",
+      "count": 19
+    },
+    {
+      "industry": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",
+      "count": 19
+    },
+    {
+      "industry": "Rubber Product Manufacturing",
+      "count": 19
+    },
+    {
+      "industry": "Sugar and Confectionery Product Manufacturing",
+      "count": 18
+    },
+    {
+      "industry": "Cement and Concrete Product Manufacturing",
+      "count": 18
+    },
+    {
+      "industry": "Commercial and Service Industry Machinery Manufacturing",
+      "count": 17
+    },
+    {
+      "industry": "General Freight Trucking",
+      "count": 17
+    },
+    {
+      "industry": "Rail Transportation",
+      "count": 16
+    },
+    {
+      "industry": "Other Heavy and Civil Engineering Construction",
+      "count": 16
+    },
+    {
+      "industry": "Motor Vehicle Parts Manufacturing",
+      "count": 16
+    },
+    {
+      "industry": "Travel Arrangement and Reservation Services",
+      "count": 16
+    },
+    {
+      "industry": "Support Activities for Crop Production",
+      "count": 16
+    },
+    {
+      "industry": "Motor Vehicle Body and Trailer Manufacturing",
+      "count": 16
+    },
+    {
+      "industry": "Foundries",
+      "count": 15
+    },
+    {
+      "industry": "Nonmetallic Mineral Mining and Quarrying",
+      "count": 15
+    },
+    {
+      "industry": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+      "count": 14
+    },
+    {
+      "industry": "Fuel Dealers",
+      "count": 14
+    },
+    {
+      "industry": "Electronic and Precision Equipment Repair and Maintenance",
+      "count": 14
+    },
+    {
+      "industry": "Book Retailers and News Dealers",
+      "count": 13
+    },
+    {
+      "industry": "Grain and Oilseed Milling",
+      "count": 13
+    },
+    {
+      "industry": "Remediation and Other Waste Management Services",
+      "count": 13
+    },
+    {
+      "industry": "Metal and Mineral (except Petroleum) Merchant Wholesalers",
+      "count": 12
+    },
+    {
+      "industry": "Taxi and Limousine Service",
+      "count": 12
+    },
+    {
+      "industry": "Forging and Stamping",
+      "count": 12
+    },
+    {
+      "industry": "Pulp, Paper, and Paperboard Mills",
+      "count": 12
+    },
+    {
+      "industry": "Office Administrative Services",
+      "count": 12
+    },
+    {
+      "industry": "Semiconductor and Other Electronic Component Manufacturing",
+      "count": 12
+    },
+    {
+      "industry": "Industrial Machinery Manufacturing",
+      "count": 12
+    },
+    {
+      "industry": "Office Furniture (including Fixtures) Manufacturing",
+      "count": 11
+    },
+    {
+      "industry": "Boiler, Tank, and Shipping Container Manufacturing",
+      "count": 11
+    },
+    {
+      "industry": "Metalworking Machinery Manufacturing",
+      "count": 11
+    },
+    {
+      "industry": "General Rental Centers",
+      "count": 11
+    },
+    {
+      "industry": "Other Nonmetallic Mineral Product Manufacturing",
+      "count": 11
+    },
+    {
+      "industry": "Securities and Commodity Contracts Intermediation and Brokerage",
+      "count": 10
+    },
+    {
+      "industry": "Paper and Paper Product Merchant Wholesalers",
+      "count": 10
+    },
+    {
+      "industry": "Water, Sewage and Other Systems",
+      "count": 10
+    },
+    {
+      "industry": "Dairy Product Manufacturing",
+      "count": 10
+    },
+    {
+      "industry": "Shoe Retailers",
+      "count": 10
+    },
+    {
+      "industry": "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",
+      "count": 10
+    },
+    {
+      "industry": "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",
+      "count": 10
+    },
+    {
+      "industry": "Electrical Equipment Manufacturing",
+      "count": 10
+    },
+    {
+      "industry": "Basic Chemical Manufacturing",
+      "count": 10
+    },
+    {
+      "industry": "Other Electrical Equipment and Component Manufacturing",
+      "count": 9
+    },
+    {
+      "industry": "Florists",
+      "count": 9
+    },
+    {
+      "industry": "Fruit and Vegetable Preserving and Specialty Food Manufacturing",
+      "count": 8
+    },
+    {
+      "industry": "Other Chemical Product and Preparation Manufacturing",
+      "count": 8
+    },
+    {
+      "industry": "Medical and Diagnostic Laboratories",
+      "count": 8
+    },
+    {
+      "industry": "Motor Vehicle Manufacturing",
+      "count": 8
+    },
+    {
+      "industry": "Furniture and Home Furnishing Merchant Wholesalers",
+      "count": 8
+    },
+    {
+      "industry": "Commercial and Industrial Machinery and Equipment Rental and Leasing",
+      "count": 8
+    },
+    {
+      "industry": "Automotive Equipment Rental and Leasing",
+      "count": 8
+    },
+    {
+      "industry": "Chemical and Allied Products Merchant Wholesalers",
+      "count": 8
+    },
+    {
+      "industry": "Greenhouse, Nursery, and Floriculture Production",
+      "count": 8
+    },
+    {
+      "industry": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+      "count": 8
+    },
+    {
+      "industry": "Wholesale Trade Agents and Brokers",
+      "count": 8
+    },
+    {
+      "industry": "Iron and Steel Mills and Ferroalloy Manufacturing",
+      "count": 8
+    },
+    {
+      "industry": "Logging",
+      "count": 8
+    },
+    {
+      "industry": "Consumer Goods Rental",
+      "count": 8
+    },
+    {
+      "industry": "Sawmills and Wood Preservation",
+      "count": 8
+    },
+    {
+      "industry": "Freight Transportation Arrangement",
+      "count": 7
+    },
+    {
+      "industry": "Business Schools and Computer and Management Training",
+      "count": 7
+    },
+    {
+      "industry": "Engine, Turbine, and Power Transmission Equipment Manufacturing",
+      "count": 7
+    },
+    {
+      "industry": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",
+      "count": 7
+    },
+    {
+      "industry": "Support Activities for Air Transportation",
+      "count": 7
+    },
+    {
+      "industry": "Poultry and Egg Production",
+      "count": 7
+    },
+    {
+      "industry": "Administration of Housing Programs, Urban Planning, and Community Development",
+      "count": 6
+    },
+    {
+      "industry": "Aerospace Product and Parts Manufacturing",
+      "count": 6
+    },
+    {
+      "industry": "Pharmaceutical and Medicine Manufacturing",
+      "count": 6
+    },
+    {
+      "industry": "Scenic and Sightseeing Transportation, Water",
+      "count": 6
+    },
+    {
+      "industry": "Support Activities for Road Transportation",
+      "count": 6
+    },
+    {
+      "industry": "Local Messengers and Local Delivery",
+      "count": 6
+    },
+    {
+      "industry": "Other Animal Production",
+      "count": 6
+    },
+    {
+      "industry": "Other Transportation Equipment Manufacturing",
+      "count": 6
+    },
+    {
+      "industry": "Oil and Gas Extraction",
+      "count": 6
+    },
+    {
+      "industry": "Pipeline Transportation of Natural Gas",
+      "count": 6
+    },
+    {
+      "industry": "Land Subdivision",
+      "count": 5
+    },
+    {
+      "industry": "Community Food and Housing, and Emergency and Other Relief Services",
+      "count": 5
+    },
+    {
+      "industry": "Petroleum and Coal Products Manufacturing",
+      "count": 5
+    },
+    {
+      "industry": "National Security and International Affairs",
+      "count": 5
+    },
+    {
+      "industry": "Computer and Peripheral Equipment Manufacturing",
+      "count": 5
+    },
+    {
+      "industry": "Specialty (except Psychiatric and Substance Abuse) Hospitals",
+      "count": 5
+    },
+    {
+      "industry": "Paint, Coating, and Adhesive Manufacturing",
+      "count": 5
+    },
+    {
+      "industry": "Ship and Boat Building",
+      "count": 5
+    },
+    {
+      "industry": "",
+      "count": 4
+    },
+    {
+      "industry": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Communications Equipment Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Spring and Wire Product Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Other Textile Product Mills",
+      "count": 4
+    },
+    {
+      "industry": "Glass and Glass Product Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Drugs and Druggists' Sundries Merchant Wholesalers",
+      "count": 4
+    },
+    {
+      "industry": "Jewelry, Luggage, and Leather Goods Retailers",
+      "count": 4
+    },
+    {
+      "industry": "Activities Related to Credit Intermediation",
+      "count": 4
+    },
+    {
+      "industry": "Hunting and Trapping",
+      "count": 4
+    },
+    {
+      "industry": "Independent Artists, Writers, and Performers",
+      "count": 4
+    },
+    {
+      "industry": "Natural Gas Distribution",
+      "count": 4
+    },
+    {
+      "industry": "Fruit and Tree Nut Farming",
+      "count": 4
+    },
+    {
+      "industry": "Apparel Accessories and Other Apparel Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Cutlery and Handtool Manufacturing",
+      "count": 4
+    },
+    {
+      "industry": "Oilseed and Grain Farming",
+      "count": 4
+    },
+    {
+      "industry": "Hog and Pig Farming",
+      "count": 4
+    },
+    {
+      "industry": "Sound Recording Industries",
+      "count": 3
+    },
+    {
+      "industry": "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",
+      "count": 3
+    },
+    {
+      "industry": "Household Appliance Manufacturing",
+      "count": 3
+    },
+    {
+      "industry": "Electric Lighting Equipment Manufacturing",
+      "count": 3
+    },
+    {
+      "industry": "Support Activities for Water Transportation",
+      "count": 3
+    },
+    {
+      "industry": "Apparel, Piece Goods, and Notions Merchant Wholesalers",
+      "count": 3
+    },
+    {
+      "industry": "Cut and Sew Apparel Manufacturing",
+      "count": 3
+    },
+    {
+      "industry": "Aquaculture",
+      "count": 3
+    },
+    {
+      "industry": "Support Activities for Mining",
+      "count": 3
+    },
+    {
+      "industry": "Steel Product Manufacturing from Purchased Steel",
+      "count": 3
+    },
+    {
+      "industry": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+      "count": 3
+    },
+    {
+      "industry": "Insurance and Employee Benefit Funds",
+      "count": 3
+    },
+    {
+      "industry": "Support Activities for Forestry",
+      "count": 3
+    },
+    {
+      "industry": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+      "count": 2
+    },
+    {
+      "industry": "Monetary Authorities-Central Bank",
+      "count": 2
+    },
+    {
+      "industry": "Technical and Trade Schools",
+      "count": 2
+    },
+    {
+      "industry": "Amusement Parks and Arcades",
+      "count": 2
+    },
+    {
+      "industry": "Hardware Manufacturing",
+      "count": 2
+    },
+    {
+      "industry": "Audio and Video Equipment Manufacturing",
+      "count": 2
+    },
+    {
+      "industry": "Insurance Carriers",
+      "count": 2
+    },
+    {
+      "industry": "Nonscheduled Air Transportation",
+      "count": 2
+    },
+    {
+      "industry": "Grantmaking and Giving Services",
+      "count": 1
+    },
+    {
+      "industry": "Rooming and Boarding Houses, Dormitories, and Workers' Camps",
+      "count": 1
+    },
+    {
+      "industry": "Scenic and Sightseeing Transportation, Other",
+      "count": 1
+    },
+    {
+      "industry": "Other Furniture Related Product Manufacturing",
+      "count": 1
+    },
+    {
+      "industry": "Leather and Hide Tanning and Finishing",
+      "count": 1
+    },
+    {
+      "industry": "Support Activities for Animal Production",
+      "count": 1
+    },
+    {
+      "industry": "Railroad Rolling Stock Manufacturing",
+      "count": 1
+    },
+    {
+      "industry": "Fabric Mills",
+      "count": 1
+    },
+    {
+      "industry": "Scheduled Air Transportation",
+      "count": 1
+    },
+    {
+      "industry": "Nonferrous Metal (except Aluminum) Production and Processing",
+      "count": 1
+    },
+    {
+      "industry": "Other Support Activities for Transportation",
+      "count": 1
+    },
+    {
+      "industry": "Pipeline Transportation of Crude Oil",
+      "count": 1
+    },
+    {
+      "industry": "Textile and Fabric Finishing and Fabric Coating Mills",
+      "count": 1
+    },
+    {
+      "industry": "Footwear Manufacturing",
+      "count": 1
+    },
+    {
+      "industry": "Seafood Product Preparation and Packaging",
+      "count": 1
+    },
+    {
+      "industry": "Other Pipeline Transportation",
+      "count": 1
+    }
+  ],
+  "small_only_city_count": 382,
+  "small_only_cities_share_of_10_99": 14.57
+}
