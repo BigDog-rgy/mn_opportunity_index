@@ -1,0 +1,826 @@
+{
+  "Albert Lea": [
+    {
+      "name": "Riverland Community College",
+      "enrollment": 3175.0,
+      "website": "https://www.riverland.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Alexandria": [
+    {
+      "name": "Alexandria Technical and Community College",
+      "enrollment": 2865.0,
+      "website": "https://www.alextech.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Anoka": [
+    {
+      "name": "Anoka Technical College",
+      "enrollment": 1580.0,
+      "website": "http://www.anokatech.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Arden Hills": [
+    {
+      "name": "Bethel University",
+      "enrollment": 3546.0,
+      "website": "https://www.bethel.edu/",
+      "endowment": "$39.5 million (2021)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Bemidji": [
+    {
+      "name": "Bemidji State University",
+      "enrollment": 4023.0,
+      "website": "https://www.bemidjistate.edu/",
+      "endowment": "$22.8 million (2016)[1]",
+      "postgraduates": "437",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Northwest Technical College",
+      "enrollment": 721.0,
+      "website": "http://www.ntcmn.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Oak Hills Christian College",
+      "enrollment": 102.0,
+      "website": null,
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Bloomington": [
+    {
+      "name": "Normandale Community College",
+      "enrollment": 9346.0,
+      "website": "http://www.normandale.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Bethany Global University",
+      "enrollment": 261.0,
+      "website": "https://bethanygu.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Northwestern Health Sciences University",
+      "enrollment": 1031.0,
+      "website": "https://www.nwhealth.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": "677",
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Brainerd": [
+    {
+      "name": "Central Lakes College",
+      "enrollment": 4633.0,
+      "website": "https://www.clcmn.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Brooklyn Park": [
+    {
+      "name": "Hennepin Technical College",
+      "enrollment": 3974.0,
+      "website": "https://hennepintech.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "North Hennepin Community College",
+      "enrollment": 4896.0,
+      "website": "http://www.nhcc.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Cass Lake": [
+    {
+      "name": "Leech Lake Tribal College",
+      "enrollment": 172.0,
+      "website": "http://www.lltc.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Center City": [
+    {
+      "name": "Hazelden Graduate School of Addiction Studies",
+      "enrollment": 147.0,
+      "website": "http://www.hazeldenbettyford.org",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Cloquet": [
+    {
+      "name": "Fond du Lac Tribal and Community College",
+      "enrollment": 1648.0,
+      "website": "https://www.fdltcc.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Coon Rapids": [
+    {
+      "name": "Anoka-Ramsey Community College",
+      "enrollment": 7902.0,
+      "website": "http://www.anokaramsey.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Crookston": [
+    {
+      "name": "University of Minnesota Crookston",
+      "enrollment": 2303.0,
+      "website": "https://crk.umn.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Duluth": [
+    {
+      "name": "Lake Superior College",
+      "enrollment": 3849.0,
+      "website": "https://www.lsc.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "University of Minnesota Duluth",
+      "enrollment": 9675.0,
+      "website": "https://www.d.umn.edu/",
+      "endowment": "$283 million (2022)[6]",
+      "postgraduates": "809 (fall 2024)[9]",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "College of St. Scholastica",
+      "enrollment": 3207.0,
+      "website": "https://www.css.edu/",
+      "endowment": "$88.4 million (2020)[2]",
+      "postgraduates": "1,224 (fall 2023)[4]",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Fergus Falls": [
+    {
+      "name": "Minnesota State Community and Technical College",
+      "enrollment": 5282.0,
+      "website": "http://www.minnesota.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Granite Falls": [
+    {
+      "name": "Minnesota West Community and Technical College",
+      "enrollment": 3352.0,
+      "website": "https://www.mnwest.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Hibbing": [
+    {
+      "name": "Minnesota North College",
+      "enrollment": 3044.0,
+      "website": "http://minnesotanorth.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Hutchinson": [
+    {
+      "name": "Ridgewater College",
+      "enrollment": 2904.0,
+      "website": "http://www.ridgewater.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Inver Grove Heights": [
+    {
+      "name": "Inver Hills Community College",
+      "enrollment": 3459.0,
+      "website": "http://www.inverhills.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Mahnomen": [
+    {
+      "name": "White Earth Tribal and Community College",
+      "enrollment": 102.0,
+      "website": "http://www.wetcc.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Mankato": [
+    {
+      "name": "Minnesota State University, Mankato",
+      "enrollment": 14590.0,
+      "website": "https://www.mnsu.edu/",
+      "endowment": "$97 million (2024)[4]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Bethany Lutheran College",
+      "enrollment": 830.0,
+      "website": "https://blc.edu",
+      "endowment": "$41.6 million (2020)[1]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Marshall": [
+    {
+      "name": "Southwest Minnesota State University",
+      "enrollment": 6930.0,
+      "website": "https://www.smsu.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Minneapolis": [
+    {
+      "name": "Minneapolis Community and Technical College",
+      "enrollment": 6030.0,
+      "website": "http://www.minneapolis.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "University of Minnesota, Twin Cities",
+      "enrollment": 54955.0,
+      "website": "https://twin-cities.umn.edu/",
+      "endowment": "$5.501 billion (system-wide, 2023)[2]",
+      "postgraduates": "11,255 (fall 2024)[6]",
+      "doctoral_students": "5,658 (fall 2023)[7]",
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Academy College",
+      "enrollment": 105.0,
+      "website": null,
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Augsburg University",
+      "enrollment": 3088.0,
+      "website": "http://www.augsburg.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Dunwoody College of Technology",
+      "enrollment": 1359.0,
+      "website": "http://www.dunwoody.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Minneapolis College of Art and Design",
+      "enrollment": 821.0,
+      "website": "http://www.mcad.edu",
+      "endowment": "$53.3 million (2020)[1]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "North Central University",
+      "enrollment": 992.0,
+      "website": "https://www.northcentral.edu/",
+      "endowment": null,
+      "postgraduates": "99",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Capella University",
+      "enrollment": 39727.0,
+      "website": "https://www.capella.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Walden University",
+      "enrollment": 42313.0,
+      "website": "https://www.waldenu.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Minnetonka": [
+    {
+      "name": "Adler Graduate School",
+      "enrollment": 227.0,
+      "website": null,
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Moorhead": [
+    {
+      "name": "Minnesota State University Moorhead",
+      "enrollment": 4682.0,
+      "website": "https://www.mnstate.edu/",
+      "endowment": "$29 million (2019)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Concordia College",
+      "enrollment": 1903.0,
+      "website": "https://www.concordiacollege.edu/",
+      "endowment": "$156.6 million (2020)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Morris": [
+    {
+      "name": "University of Minnesota Morris",
+      "enrollment": 1068.0,
+      "website": "https://morris.umn.edu/",
+      "endowment": "$12,661,923[5]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "New Ulm": [
+    {
+      "name": "Martin Luther College",
+      "enrollment": 880.0,
+      "website": "https://mlc-wels.edu/",
+      "endowment": null,
+      "postgraduates": "129 (Fall 2019)",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "North Mankato": [
+    {
+      "name": "South Central College",
+      "enrollment": 2602.0,
+      "website": null,
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Northfield": [
+    {
+      "name": "Carleton College",
+      "enrollment": 2059.0,
+      "website": "http://www.carleton.edu",
+      "endowment": "$1.1 billion (2022)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "St. Olaf College",
+      "enrollment": 3046.0,
+      "website": "https://wp.stolaf.edu/",
+      "endowment": "$666.02 million (2022)[3]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Pine City": [
+    {
+      "name": "Pine Technical and Community College",
+      "enrollment": 1873.0,
+      "website": "http://www.pine.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Rochester": [
+    {
+      "name": "Rochester Community and Technical College",
+      "enrollment": 4482.0,
+      "website": "https://www.rctc.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "University of Minnesota Rochester",
+      "enrollment": 630.0,
+      "website": "http://www.r.umn.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Mayo Clinic College of Medicine and Science",
+      "enrollment": 1237.0,
+      "website": "https://college.mayo.edu",
+      "endowment": null,
+      "postgraduates": "4,200+[6]",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Rosemount": [
+    {
+      "name": "Dakota County Technical College",
+      "enrollment": 2717.0,
+      "website": "https://www.dctc.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Roseville": [
+    {
+      "name": "University of Northwestern – St. Paul",
+      "enrollment": 3253.0,
+      "website": "https://www.unwsp.edu/",
+      "endowment": null,
+      "postgraduates": "205",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "St. Bonifacius": [
+    {
+      "name": "Crown College",
+      "enrollment": 1583.0,
+      "website": "https://www.crown.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "St. Cloud": [
+    {
+      "name": "St. Cloud State University",
+      "enrollment": 10420.0,
+      "website": "https://stcloudstate.edu",
+      "endowment": "$30.3 million (2019)[1]",
+      "postgraduates": "2,084 (fall 2023)[4]",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "St. Cloud Technical and Community College",
+      "enrollment": 3466.0,
+      "website": "http://www.sctcc.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "St. Joseph": [
+    {
+      "name": "College of Saint Benedict and Saint John's University",
+      "enrollment": NaN,
+      "website": "http://www.csbsju.edu",
+      "endowment": "$130.58 million (2024)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "St. Paul": [
+    {
+      "name": "Metropolitan State University",
+      "enrollment": 6294.0,
+      "website": "http://www.metrostate.edu",
+      "endowment": "$6.0 million (2019)[1]",
+      "postgraduates": "830",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Saint Paul College",
+      "enrollment": 5365.0,
+      "website": "http://www.saintpaul.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Concordia University",
+      "enrollment": 5544.0,
+      "website": "https://www.csp.edu",
+      "endowment": "$43.1 million (2020)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Hamline University",
+      "enrollment": 2638.0,
+      "website": "http://www.hamline.edu",
+      "endowment": "$100.6 million (2020)[1]",
+      "postgraduates": "1,668 (2017)",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Luther Seminary",
+      "enrollment": 410.0,
+      "website": "http://www.luthersem.edu",
+      "endowment": "$131.1 million (2021)[1]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Macalester College",
+      "enrollment": 2175.0,
+      "website": "https://www.macalester.edu/",
+      "endowment": "$849 million (2023)[1]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Mitchell Hamline School of Law",
+      "enrollment": 1192.0,
+      "website": "https://mitchellhamline.edu/",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "St. Catherine University",
+      "enrollment": 3577.0,
+      "website": "https://www.stkate.edu/",
+      "endowment": "$74.8 million (2016)[1]",
+      "postgraduates": "1,566",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "United Theological Seminary of the Twin Cities",
+      "enrollment": 224.0,
+      "website": "http://www.unitedseminary.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "University of St. Thomas",
+      "enrollment": 9025.0,
+      "website": "http://www.stthomas.edu",
+      "endowment": "$697.45 million (FY2024)[2]",
+      "postgraduates": "3,280 (2021)[5]",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "St. Peter": [
+    {
+      "name": "Gustavus Adolphus College",
+      "enrollment": 2072.0,
+      "website": "https://gustavus.edu/",
+      "endowment": "$281.6 million (2021)[2]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Thief River Falls": [
+    {
+      "name": "Northland Community & Technical College",
+      "enrollment": 2495.0,
+      "website": "https://www.northlandcollege.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Various": [
+    {
+      "name": "Rasmussen University",
+      "enrollment": 3058.0,
+      "website": "https://www.rasmussen.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "White Bear Lake": [
+    {
+      "name": "Century College",
+      "enrollment": 7646.0,
+      "website": "https://www.century.edu",
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ],
+  "Winona": [
+    {
+      "name": "Minnesota State College Southeast",
+      "enrollment": 1923.0,
+      "website": null,
+      "endowment": null,
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Winona State University",
+      "enrollment": 6154.0,
+      "website": "https://www.winona.edu/",
+      "endowment": "$62.4 million (2023)[1]",
+      "postgraduates": null,
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    },
+    {
+      "name": "Saint Mary's University of Minnesota",
+      "enrollment": 4133.0,
+      "website": "https://www.smumn.edu/",
+      "endowment": "$61.8 million (2019)[1]",
+      "postgraduates": "3,730",
+      "doctoral_students": null,
+      "academics": null,
+      "research": null
+    }
+  ]
+}

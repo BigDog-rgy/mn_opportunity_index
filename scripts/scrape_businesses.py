@@ -1,4 +1,3 @@
-# scripts/scrape_businesses.py
 import json, random, re, time, pathlib, requests
 from typing import Dict, List
 from urllib.parse import urlencode
@@ -8,11 +7,11 @@ from bs4 import BeautifulSoup
 ROOT        = pathlib.Path(__file__).resolve().parent
 PUBLIC_DIR  = ROOT / ".." / "public"
 CITIES_FILE = PUBLIC_DIR / "basic_cities_with_uni.json"
-OUT_FILE    = PUBLIC_DIR / "city_businesses.json"
+OUT_FILE    = PUBLIC_DIR / "city_businesses_2.json"   # CHANGED OUTPUT
 
 # ── CareerOneStop constants ─────────────────────────────────────────────────
 COS_BASE = "https://www.careeronestop.org/Toolkit/Jobs/find-businesses-results.aspx"
-BANDS    = [("E", "500+"), ("D", "100-499"), ("C", "10-99")]
+BANDS    = [("E", "500+"), ("D", "100-499")]          # REMOVED 10-99
 
 UAS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
@@ -22,9 +21,7 @@ UAS = [
 
 S = requests.Session()
 
-# ── helpers ────────────────────────────────────────────────────────────────
 def canon(text: str) -> str:
-    """saint paul → st paul  (lower, collapse spaces)"""
     text = text.lower().replace("saint", "st").replace(".", " ")
     return re.sub(r"\s+", " ", text).strip()
 
@@ -45,8 +42,36 @@ def build_url(loc: str, band: str, page: int) -> str:
     }
     return f"{COS_BASE}?{urlencode(q, safe=',')}"
 
+def get_business_website(company_profile_url: str):
+    try:
+        soup = soup_get(company_profile_url)
+        # Find any tag with "Website" in its text
+        tags = soup.find_all(string=lambda text: text and "website" in text.lower())
+        for tag in tags:
+            td = tag.find_parent("td")
+            if td:
+                tr = td.find_parent("tr")
+                if tr:
+                    tds = tr.find_all("td")
+                    for idx, cell in enumerate(tds):
+                        if cell == td and idx + 1 < len(tds):
+                            next_td = tds[idx + 1]
+                            a = next_td.find("a", href=True)
+                            if a and a["href"].startswith("http"):
+                                return a["href"]
+        for tag in tags:
+            td = tag.find_parent("td")
+            if td:
+                next_td = td.find_next_sibling("td")
+                if next_td:
+                    a = next_td.find("a", href=True)
+                    if a and a["href"].startswith("http"):
+                        return a["href"]
+    except Exception as e:
+        print(f"   ⚠️ Error scraping business website: {company_profile_url}\n   {e}")
+    return None
+
 def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
-    """Return all rows in one band whose city text contains `city_key`."""
     rows, page = [], 1
     while True:
         tbody = soup_get(build_url(loc, code, page)).find("tbody")
@@ -59,7 +84,7 @@ def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
             if len(tds) < 3:
                 continue
 
-            # ----- col-0 : name + city -----
+            # col-0 : name + city
             outer = tds[0].find("div")
             if not outer:
                 continue
@@ -67,19 +92,23 @@ def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
             if len(divs) < 3:
                 continue
 
-            name = re.sub(r'[“”"]', "", divs[0].find("a").get_text(strip=True))
+            a_tag = divs[0].find("a")
+            name = re.sub(r'[“”"]', "", a_tag.get_text(strip=True))
+            biz_url = a_tag.get("href", None)
             city_raw = re.sub(r"\s+", " ", divs[2].get_text(strip=True))
 
             if city_key not in canon(city_raw):
                 continue
 
-            # ----- col-1 : description -----
             desc_div = tds[1].find("div")
             desc = re.sub(r'[“”"]', "", desc_div.get_text(strip=True)) if desc_div else ""
-
-            # ----- col-2 : industry --------
             ind_div = tds[2].find("div")
             industry = re.sub(r'[“”"]', "", ind_div.get_text(strip=True)) if ind_div else ""
+
+            website = None
+            if biz_url and biz_url.startswith("/Toolkit/Jobs"):
+                company_profile_url = "https://www.careeronestop.org" + biz_url
+                website = get_business_website(company_profile_url)
 
             rows.append(
                 {
@@ -87,6 +116,7 @@ def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
                     "description": desc,
                     "industry": industry,
                     "raw_city": city_raw,
+                    "website": website,
                 }
             )
             added += 1
@@ -94,32 +124,21 @@ def scrape_band(city_key: str, loc: str, code: str) -> List[Dict]:
         if added < 25:
             break
         page += 1
-        time.sleep(0.7)
+        time.sleep(random.uniform(0.2, 0.5))  # Lower delay, but not zero
     return rows
 
 def scrape_city(city: str) -> Dict[str, List[Dict]]:
-    """
-    Query bands E, D, (optionally C) for `city`.
-    Returns {} if zero businesses.
-    """
     loc      = f"{city.replace('Saint', 'St.')}, MN"
     city_key = canon(city)
-
-    out, total_ed = {}, 0
+    out = {}
     for code, label in BANDS:
-        if code == "C" and total_ed >= 25:
-            break
         band_rows = scrape_band(city_key, loc, code)
         if band_rows:
             out[label] = band_rows
-            if code in ("E", "D"):
-                total_ed += len(band_rows)
     return out
 
-# ── main ──────────────────────────────────────────────────────────────────
 def main():
     PUBLIC_DIR.mkdir(exist_ok=True, parents=True)
-
     city_list = json.loads(CITIES_FILE.read_text(encoding="utf-8"))["cities"]
     print(f"🚀 Scraping {len(city_list)} MN cities for businesses …")
 
@@ -135,6 +154,7 @@ def main():
             no_results.append(city)
             continue
 
+        bands = {k: v for k, v in bands.items() if v}
         if bands:
             total = sum(len(v) for v in bands.values())
             print(f"   ✓ {total} businesses")
@@ -143,7 +163,7 @@ def main():
             print("   — no businesses")
             no_results.append(city)
 
-        time.sleep(random.uniform(2.0, 4.0))  # polite between cities
+        time.sleep(random.uniform(0.2, 1.2))  # Shorter polite pause between cities
 
     OUT_FILE.write_text(
         json.dumps({"cities": merged, "no_results": no_results}, indent=2),

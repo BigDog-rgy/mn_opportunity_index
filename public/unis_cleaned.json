@@ -1,0 +1,456 @@
+{
+  "Albert Lea": [
+    {
+      "name": "Riverland Community College",
+      "website": "https://www.riverland.edu",
+      "tuition": 6266
+    }
+  ],
+  "Alexandria": [
+    {
+      "name": "Alexandria Technical and Community College",
+      "website": "https://www.alextech.edu",
+      "tuition": 6214
+    }
+  ],
+  "Anoka": [
+    {
+      "name": "Anoka Technical College",
+      "website": "http://www.anokatech.edu",
+      "tuition": 6267
+    }
+  ],
+  "Arden Hills": [
+    {
+      "name": "Bethel University",
+      "website": "https://www.bethel.edu/",
+      "tuition": null
+    }
+  ],
+  "Bemidji": [
+    {
+      "name": "Bemidji State University",
+      "website": "https://www.bemidjistate.edu/",
+      "tuition": 10095
+    },
+    {
+      "name": "Northwest Technical College",
+      "website": "http://www.ntcmn.edu",
+      "tuition": 6237
+    },
+    {
+      "name": "Oak Hills Christian College",
+      "website": "http://www.oakhills.edu/",
+      "tuition": null
+    }
+  ],
+  "Bloomington": [
+    {
+      "name": "Normandale Community College",
+      "website": "http://www.normandale.edu",
+      "tuition": 6321
+    },
+    {
+      "name": "Bethany Global University",
+      "website": "https://bethanygu.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Northwestern Health Sciences University",
+      "website": "https://www.nwhealth.edu/",
+      "tuition": null
+    }
+  ],
+  "Brainerd": [
+    {
+      "name": "Central Lakes College",
+      "website": "https://www.clcmn.edu",
+      "tuition": 6187
+    }
+  ],
+  "Brooklyn Park": [
+    {
+      "name": "Hennepin Technical College",
+      "website": "https://hennepintech.edu",
+      "tuition": 5941
+    },
+    {
+      "name": "North Hennepin Community College",
+      "website": "http://www.nhcc.edu",
+      "tuition": 6313
+    }
+  ],
+  "Cass Lake": [
+    {
+      "name": "Leech Lake Tribal College",
+      "website": "http://www.lltc.edu",
+      "tuition": null
+    }
+  ],
+  "Center City": [
+    {
+      "name": "Hazelden Graduate School of Addiction Studies",
+      "website": "http://www.hazeldenbettyford.org",
+      "tuition": null
+    }
+  ],
+  "Cloquet": [
+    {
+      "name": "Fond du Lac Tribal and Community College",
+      "website": "https://www.fdltcc.edu",
+      "tuition": 5998
+    }
+  ],
+  "Coon Rapids": [
+    {
+      "name": "Anoka-Ramsey Community College",
+      "website": "http://www.anokaramsey.edu",
+      "tuition": 5657
+    }
+  ],
+  "Crookston": [
+    {
+      "name": "University of Minnesota Crookston",
+      "website": "https://crk.umn.edu/",
+      "tuition": null
+    }
+  ],
+  "Duluth": [
+    {
+      "name": "Lake Superior College",
+      "website": "https://www.lsc.edu/",
+      "tuition": 5768
+    },
+    {
+      "name": "University of Minnesota Duluth",
+      "website": "https://www.d.umn.edu/",
+      "tuition": null
+    },
+    {
+      "name": "College of St. Scholastica",
+      "website": "https://www.css.edu/",
+      "tuition": null
+    }
+  ],
+  "Fergus Falls": [
+    {
+      "name": "Minnesota State Community and Technical College",
+      "website": "http://www.minnesota.edu/",
+      "tuition": 5976
+    }
+  ],
+  "Granite Falls": [
+    {
+      "name": "Minnesota West Community and Technical College",
+      "website": "https://www.mnwest.edu/",
+      "tuition": 6484
+    }
+  ],
+  "Hibbing": [
+    {
+      "name": "Minnesota North College",
+      "website": "http://minnesotanorth.edu",
+      "tuition": 6004
+    }
+  ],
+  "Hutchinson": [
+    {
+      "name": "Ridgewater College",
+      "website": "http://www.ridgewater.edu",
+      "tuition": 6109
+    }
+  ],
+  "Inver Grove Heights": [
+    {
+      "name": "Inver Hills Community College",
+      "website": "http://www.inverhills.edu",
+      "tuition": 6050
+    }
+  ],
+  "Mahnomen": [
+    {
+      "name": "White Earth Tribal and Community College",
+      "website": "http://www.wetcc.edu/",
+      "tuition": null
+    }
+  ],
+  "Mankato": [
+    {
+      "name": "Minnesota State University, Mankato",
+      "website": "https://www.mnsu.edu/",
+      "tuition": 9490
+    },
+    {
+      "name": "Bethany Lutheran College",
+      "website": "https://blc.edu",
+      "tuition": null
+    }
+  ],
+  "Marshall": [
+    {
+      "name": "Southwest Minnesota State University",
+      "website": "https://www.smsu.edu/",
+      "tuition": 10305
+    }
+  ],
+  "Minneapolis": [
+    {
+      "name": "Minneapolis Community and Technical College",
+      "website": "http://www.minneapolis.edu/",
+      "tuition": 6128
+    },
+    {
+      "name": "University of Minnesota, Twin Cities",
+      "website": "https://twin-cities.umn.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Academy College",
+      "website": "https://www.academycollege.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Augsburg University",
+      "website": "http://www.augsburg.edu",
+      "tuition": null
+    },
+    {
+      "name": "Dunwoody College of Technology",
+      "website": "http://www.dunwoody.edu",
+      "tuition": null
+    },
+    {
+      "name": "Minneapolis College of Art and Design",
+      "website": "http://www.mcad.edu",
+      "tuition": null
+    },
+    {
+      "name": "North Central University",
+      "website": "https://www.northcentral.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Capella University",
+      "website": "https://www.capella.edu",
+      "tuition": null
+    },
+    {
+      "name": "Walden University",
+      "website": "https://www.waldenu.edu/",
+      "tuition": null
+    }
+  ],
+  "Minnetonka": [
+    {
+      "name": "Adler Graduate School",
+      "website": "http://www.alfredadler.edu/",
+      "tuition": null
+    }
+  ],
+  "Moorhead": [
+    {
+      "name": "Minnesota State University Moorhead",
+      "website": "https://www.mnstate.edu/",
+      "tuition": 10335
+    },
+    {
+      "name": "Concordia College",
+      "website": "https://www.concordiacollege.edu/",
+      "tuition": null
+    }
+  ],
+  "Morris": [
+    {
+      "name": "University of Minnesota Morris",
+      "website": "https://morris.umn.edu/",
+      "tuition": null
+    }
+  ],
+  "New Ulm": [
+    {
+      "name": "Martin Luther College",
+      "website": "https://mlc-wels.edu/",
+      "tuition": null
+    }
+  ],
+  "North Mankato": [
+    {
+      "name": "South Central College",
+      "website": "http://www.southcentral.edu/",
+      "tuition": 6151
+    }
+  ],
+  "Northfield": [
+    {
+      "name": "Carleton College",
+      "website": "http://www.carleton.edu",
+      "tuition": null
+    },
+    {
+      "name": "St. Olaf College",
+      "website": "https://wp.stolaf.edu/",
+      "tuition": null
+    }
+  ],
+  "Pine City": [
+    {
+      "name": "Pine Technical and Community College",
+      "website": "http://www.pine.edu",
+      "tuition": 5852
+    }
+  ],
+  "Rochester": [
+    {
+      "name": "Rochester Community and Technical College",
+      "website": "https://www.rctc.edu/",
+      "tuition": 6367
+    },
+    {
+      "name": "University of Minnesota Rochester",
+      "website": "http://www.r.umn.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Mayo Clinic College of Medicine and Science",
+      "website": "https://college.mayo.edu",
+      "tuition": null
+    }
+  ],
+  "Rosemount": [
+    {
+      "name": "Dakota County Technical College",
+      "website": "https://www.dctc.edu",
+      "tuition": 6580
+    }
+  ],
+  "Roseville": [
+    {
+      "name": "University of Northwestern – St. Paul",
+      "website": "https://www.unwsp.edu/",
+      "tuition": null
+    }
+  ],
+  "St. Bonifacius": [
+    {
+      "name": "Crown College",
+      "website": "https://www.crown.edu/",
+      "tuition": null
+    }
+  ],
+  "St. Cloud": [
+    {
+      "name": "St. Cloud State University",
+      "website": "https://stcloudstate.edu",
+      "tuition": 10154
+    },
+    {
+      "name": "St. Cloud Technical and Community College",
+      "website": "http://www.sctcc.edu",
+      "tuition": 6095
+    }
+  ],
+  "St. Joseph": [
+    {
+      "name": "College of Saint Benedict and Saint John's University",
+      "website": "http://www.csbsju.edu",
+      "tuition": null
+    }
+  ],
+  "St. Paul": [
+    {
+      "name": "Metropolitan State University",
+      "website": "http://www.metrostate.edu",
+      "tuition": 9780
+    },
+    {
+      "name": "Saint Paul College",
+      "website": "http://www.saintpaul.edu",
+      "tuition": 6318
+    },
+    {
+      "name": "Concordia University",
+      "website": "https://www.csp.edu",
+      "tuition": null
+    },
+    {
+      "name": "Hamline University",
+      "website": "http://www.hamline.edu",
+      "tuition": null
+    },
+    {
+      "name": "Luther Seminary",
+      "website": "http://www.luthersem.edu",
+      "tuition": null
+    },
+    {
+      "name": "Macalester College",
+      "website": "https://www.macalester.edu/",
+      "tuition": null
+    },
+    {
+      "name": "Mitchell Hamline School of Law",
+      "website": "https://mitchellhamline.edu/",
+      "tuition": null
+    },
+    {
+      "name": "St. Catherine University",
+      "website": "https://www.stkate.edu/",
+      "tuition": null
+    },
+    {
+      "name": "United Theological Seminary of the Twin Cities",
+      "website": "http://www.unitedseminary.edu",
+      "tuition": null
+    },
+    {
+      "name": "University of St. Thomas",
+      "website": "http://www.stthomas.edu",
+      "tuition": null
+    }
+  ],
+  "St. Peter": [
+    {
+      "name": "Gustavus Adolphus College",
+      "website": "https://gustavus.edu/",
+      "tuition": null
+    }
+  ],
+  "Thief River Falls": [
+    {
+      "name": "Northland Community & Technical College",
+      "website": "https://www.northlandcollege.edu",
+      "tuition": 6262
+    }
+  ],
+  "Various": [
+    {
+      "name": "Rasmussen University",
+      "website": "https://www.rasmussen.edu",
+      "tuition": null
+    }
+  ],
+  "White Bear Lake": [
+    {
+      "name": "Century College",
+      "website": "https://www.century.edu",
+      "tuition": 6192
+    }
+  ],
+  "Winona": [
+    {
+      "name": "Minnesota State College Southeast",
+      "website": "https://www.southeastmn.edu/",
+      "tuition": 6398
+    },
+    {
+      "name": "Winona State University",
+      "website": "https://www.winona.edu/",
+      "tuition": 9552
+    },
+    {
+      "name": "Saint Mary's University of Minnesota",
+      "website": "https://www.smumn.edu/",
+      "tuition": null
+    }
+  ]
+}
