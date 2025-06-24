@@ -12,7 +12,7 @@ export default function CityPage() {
 
   // Fetch city info
   useEffect(() => {
-    fetch("/cities_with_businesses_merged.json")
+    fetch("/cities_full.json")
       .then((r) => r.json())
       .then((data) => {
         const match = data.cities.find((c) => slugify(c.city) === slug);
@@ -75,7 +75,16 @@ export default function CityPage() {
     { icon: "🧓", label: "Median Age", value: city.median_age ?? "—" },
     { icon: "🏘️", label: "Density / mi²", value: city.density_sq_mi },
     { icon: "🏛️", label: "Incorporated", value: city.incorporated_year },
-    { icon: "📍", label: "County", value: city.county },
+    { icon: "📍", label: "County", value: city.county_website ? (
+  <a
+    href={city.county_website}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-decoration-underline text-primary"
+  >
+    {city.county}
+  </a>
+) : city.county },
     {
       icon: "🌐",
       label: "Website",

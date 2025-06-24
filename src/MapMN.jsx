@@ -53,6 +53,9 @@ const hasEmployers = (city, group) => {
 };
 
 export default function MapMN() {
+  const [showCompare, setShowCompare] = useState(false);
+  const [city1, setCity1] = useState("");
+  const [city2, setCity2] = useState("");
   const [border, setBorder] = useState(null);
   const [cities, setCities] = useState([]);
   const [view, setView] = useState("map"); // 'map' or 'list'
@@ -310,17 +313,75 @@ export default function MapMN() {
           <option value="no">No Uni</option>
         </select>
 
-        {/* Employers dropdown */}
-        <label style={labelStyle}>Large Employers</label>
-        <select
-          value={filters.employer}
-          style={inputStyle}
-          onChange={(e) => updateFilter("employer", e.target.value)}
+        {/* Compare Cities Button */}
+        <button
+          style={{
+            fontWeight: 600,
+            background: showCompare ? "#d0e4fd" : "#fff",
+            border: "1px solid #888",
+            borderRadius: 4,
+            padding: "0.2em 0.6em",
+            marginLeft: 16,
+            cursor: "pointer"
+          }}
+          onClick={() => setShowCompare(!showCompare)}
         >
-          <option value="any">Any</option>
-          <option value="500">500+ Employees</option>
-          <option value="100">100–499 Employees</option>
-        </select>
+          {showCompare ? "Hide Compare" : "Compare Cities"}
+        </button>
+
+        {/* Compare Picker */}
+        {showCompare && (
+          <div style={{
+            display: "flex",
+            alignItems: "center",
+            gap: 8,
+            background: "#fff",
+            padding: "8px 14px",
+            borderRadius: 7,
+            boxShadow: "0 1px 6px rgba(30,50,80,0.09)",
+            marginLeft: 16
+          }}>
+            <label style={{ marginRight: 6 }}>City 1:</label>
+            <select value={city1} onChange={e => setCity1(e.target.value)}>
+              <option value="">Select...</option>
+              {filtered.map((c) => (
+                <option key={c.id} value={c.n}>{c.n}</option>
+              ))}
+            </select>
+            <label style={{ marginRight: 6 }}>City 2:</label>
+            <select value={city2} onChange={e => setCity2(e.target.value)}>
+              <option value="">Select...</option>
+              {filtered
+                .filter(c => c.n !== city1)
+                .map((c) => (
+                  <option key={c.id} value={c.n}>{c.n}</option>
+                ))}
+            </select>
+            <button
+              style={{
+                fontWeight: 700,
+                background: "#0057b7",
+                color: "#fff",
+                border: "none",
+                borderRadius: 4,
+                padding: "0.2em 0.8em",
+                marginLeft: 10,
+                cursor: city1 && city2 ? "pointer" : "not-allowed",
+                opacity: city1 && city2 ? 1 : 0.6,
+              }}
+              disabled={!city1 || !city2}
+              onClick={() => {
+                // Navigate to compare route (slugify both)
+                navigate(`/compare/${slugify(city1)}/${slugify(city2)}`);
+                setShowCompare(false);
+                setCity1("");
+                setCity2("");
+              }}
+            >
+              Compare
+            </button>
+          </div>
+        )}
 
         {/* Reset button */}
         <button
