@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: cities
+      POSTGRES_PASSWORD: supersecret
+      POSTGRES_DB: cities
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+  api:
+    build: ./backend
+    restart: unless-stopped
+    env_file: ./backend/.env
+    depends_on: [db]
+    ports: ["8000:8000"]      # stays internal; nginx will proxy
+volumes:
+  pgdata:

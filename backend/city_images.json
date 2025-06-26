@@ -1,0 +1,3422 @@
+[
+  {
+    "city": "Minneapolis",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Minneapolis_Skyline_looking_south.jpg/330px-Minneapolis_Skyline_looking_south.jpg"
+  },
+  {
+    "city": "Saint Paul†",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Saint_Paul_skyline%2C_West_Side_%28cropped%29.jpg/330px-Saint_Paul_skyline%2C_West_Side_%28cropped%29.jpg"
+  },
+  {
+    "city": "Rochester",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rochester_Minnesota_Skyline_04.jpg/250px-Rochester_Minnesota_Skyline_04.jpg"
+  },
+  {
+    "city": "Bloomington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bloomington_MN_City_Hall_%26_Art_Center.jpg/330px-Bloomington_MN_City_Hall_%26_Art_Center.jpg"
+  },
+  {
+    "city": "Duluth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Downtown_Duluth%2C_Minnesota_Skyline_%2825406820466%29.jpg/330px-Downtown_Duluth%2C_Minnesota_Skyline_%2825406820466%29.jpg"
+  },
+  {
+    "city": "Brooklyn Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BPCH.jpg/330px-BPCH.jpg"
+  },
+  {
+    "city": "Woodbury",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Woodbury_city_hall_%28new%29.jpg/250px-Woodbury_city_hall_%28new%29.jpg"
+  },
+  {
+    "city": "Plymouth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/PlyCityHall.jpg/250px-PlyCityHall.jpg"
+  },
+  {
+    "city": "Lakeville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lakevillech.jpg/250px-Lakevillech.jpg"
+  },
+  {
+    "city": "Blaine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Water_tower_in_Blaine%2C_MN.jpg/250px-Water_tower_in_Blaine%2C_MN.jpg"
+  },
+  {
+    "city": "Maple Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Maplegrovech.jpg/250px-Maplegrovech.jpg"
+  },
+  {
+    "city": "St. Cloud",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/5th_Ave_Commercial_Bldgs_3.jpg/250px-5th_Ave_Commercial_Bldgs_3.jpg"
+  },
+  {
+    "city": "Eagan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eagan_City_Hall.jpg/250px-Eagan_City_Hall.jpg"
+  },
+  {
+    "city": "Burnsville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burnsville_Heart_of_the_City.jpg/250px-Burnsville_Heart_of_the_City.jpg"
+  },
+  {
+    "city": "Coon Rapids",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coon_Rapids_Water_Tower_Looking_Towards_Downtown_Minneapolis.jpg/250px-Coon_Rapids_Water_Tower_Looking_Towards_Downtown_Minneapolis.jpg"
+  },
+  {
+    "city": "Eden Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EPCH.jpg/250px-EPCH.jpg"
+  },
+  {
+    "city": "Apple Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AV147th.jpg/250px-AV147th.jpg"
+  },
+  {
+    "city": "Edina",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2009-0611-002-50thFrance.JPG/250px-2009-0611-002-50thFrance.JPG"
+  },
+  {
+    "city": "Minnetonka",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MinnCommCtr.jpg/250px-MinnCommCtr.jpg"
+  },
+  {
+    "city": "St. Louis Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/STLP.jpg/250px-STLP.jpg"
+  },
+  {
+    "city": "Shakopee",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Shakopee%2C_Minnesota_5.jpg/250px-Shakopee%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Mankato",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2009-0805-Mankato-NFrontStDist.jpg/330px-2009-0805-Mankato-NFrontStDist.jpg"
+  },
+  {
+    "city": "Moorhead",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Downtown_Moorhead%2C_May_7%2C_2024.png/330px-Downtown_Moorhead%2C_May_7%2C_2024.png"
+  },
+  {
+    "city": "Cottage Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cordenio_Severance_House.jpg/250px-Cordenio_Severance_House.jpg"
+  },
+  {
+    "city": "Maplewood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frozen_shoreline_of_Wakefield_Lake.jpg/250px-Frozen_shoreline_of_Wakefield_Lake.jpg"
+  },
+  {
+    "city": "Richfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Downtown_Richfield_MN_-_66th_and_Lyndale.jpg/250px-Downtown_Richfield_MN_-_66th_and_Lyndale.jpg"
+  },
+  {
+    "city": "Inver Grove Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schmidt_Lake_in_Inver_Grove_Heights.jpg/250px-Schmidt_Lake_in_Inver_Grove_Heights.jpg"
+  },
+  {
+    "city": "Roseville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Roseville_Public_Library_02.jpg/250px-Roseville_Public_Library_02.jpg"
+  },
+  {
+    "city": "Andover",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Andover%2C_Minnesota_City_Hall.jpg/250px-Andover%2C_Minnesota_City_Hall.jpg"
+  },
+  {
+    "city": "Savage",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dan_Patch_Banners_Savage_MN.jpg/250px-Dan_Patch_Banners_Savage_MN.jpg"
+  },
+  {
+    "city": "Brooklyn Center",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hennepin_County_District_Court%E2%80%93Brookdale.jpg/330px-Hennepin_County_District_Court%E2%80%93Brookdale.jpg"
+  },
+  {
+    "city": "Fridley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fridley%2C_Minnesota_Civic_Campus.jpg/250px-Fridley%2C_Minnesota_Civic_Campus.jpg"
+  },
+  {
+    "city": "Rosemount",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rosemontmnwatertower.JPG/250px-Rosemontmnwatertower.JPG"
+  },
+  {
+    "city": "Oakdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Oakdale%2C_Minnesota_logo_%28square%29.png/120px-Oakdale%2C_Minnesota_logo_%28square%29.png"
+  },
+  {
+    "city": "Chaska",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chaska%2C_Minnesota_5.jpg/250px-Chaska%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Ramsey",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ramsey_Municipal_Center.jpg/250px-Ramsey_Municipal_Center.jpg"
+  },
+  {
+    "city": "Prior Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Priorlakebridge.jpg/250px-Priorlakebridge.jpg"
+  },
+  {
+    "city": "Elk River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Water_Tower_3.jpg/330px-Water_Tower_3.jpg"
+  },
+  {
+    "city": "Shoreview",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ShorviewMN.JPG/250px-ShorviewMN.JPG"
+  },
+  {
+    "city": "Austin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Austin_MN_collage.png/330px-Austin_MN_collage.png"
+  },
+  {
+    "city": "Owatonna",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Owatonna%2C_Minnesota_5.jpg/250px-Owatonna%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Winona",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Winona_montage1.jpg/330px-Winona_montage1.jpg"
+  },
+  {
+    "city": "Chanhassen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chanhassen_Historic_Village_Hall-01.jpg/250px-Chanhassen_Historic_Village_Hall-01.jpg"
+  },
+  {
+    "city": "Faribault",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Faribault%2C_Minnesota_5.jpg/250px-Faribault%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Farmington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Farmington_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Farmington_Highlighted.svg.png"
+  },
+  {
+    "city": "Otsego",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wright_County_Minnesota_Incorporated_and_Unincorporated_areas_Otsego_Highlighted.svg/250px-Wright_County_Minnesota_Incorporated_and_Unincorporated_areas_Otsego_Highlighted.svg.png"
+  },
+  {
+    "city": "White Bear Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_White_Bear_Lake_Highlighted.svg/250px-Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_White_Bear_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Champlin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/ChamplinMNlogo.png/250px-ChamplinMNlogo.png"
+  },
+  {
+    "city": "Lino Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Visitor_Center_-_Lino_Lakes%2C_MN_-_panoramio.jpg/250px-Visitor_Center_-_Lino_Lakes%2C_MN_-_panoramio.jpg"
+  },
+  {
+    "city": "Hastings",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hastings_Minnesota_Aerial_%2851089514070%29.jpg/330px-Hastings_Minnesota_Aerial_%2851089514070%29.jpg"
+  },
+  {
+    "city": "New Brighton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/New_Brighton_Area_History_Center%2C_New_Brighton%2C_MN.jpg/250px-New_Brighton_Area_History_Center%2C_New_Brighton%2C_MN.jpg"
+  },
+  {
+    "city": "Columbia Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2009-0610-006-ColumbiaHeights-TheHeights.jpg/250px-2009-0610-006-ColumbiaHeights-TheHeights.jpg"
+  },
+  {
+    "city": "Crystal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Crystal%2C_Minnesota.svg/120px-Flag_of_Crystal%2C_Minnesota.svg.png"
+  },
+  {
+    "city": "West St. Paul",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/West_St._Paul%2C_MN.jpg/250px-West_St._Paul%2C_MN.jpg"
+  },
+  {
+    "city": "Willmar",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Litchfield_Avenue_at_4th_Street%2C_Willmar%2C_MN-03.jpg/330px-Litchfield_Avenue_at_4th_Street%2C_Willmar%2C_MN-03.jpg"
+  },
+  {
+    "city": "St. Michael",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Church_of_St._Michael_2015.jpg/330px-Church_of_St._Michael_2015.jpg"
+  },
+  {
+    "city": "Northfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DowntownNorthfield1.JPG/330px-DowntownNorthfield1.JPG"
+  },
+  {
+    "city": "Golden Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Golden_Valley_Library_2021.jpg/330px-Golden_Valley_Library_2021.jpg"
+  },
+  {
+    "city": "New Hope",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Hope_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Hope_Highlighted.svg.png"
+  },
+  {
+    "city": "Forest Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Downtown_Forest_Lake.jpg/250px-Downtown_Forest_Lake.jpg"
+  },
+  {
+    "city": "South St. Paul",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Grandview_Park.jpg/330px-Grandview_Park.jpg"
+  },
+  {
+    "city": "Sartell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sartell.JPG/250px-Sartell.JPG"
+  },
+  {
+    "city": "Hopkins",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hopkins_MN_Mainstreet.jpg/250px-Hopkins_MN_Mainstreet.jpg"
+  },
+  {
+    "city": "Stillwater",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Downtown_Stillwater_2020-06-27.jpg/250px-Downtown_Stillwater_2020-06-27.jpg"
+  },
+  {
+    "city": "Albert Lea",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/AlbertLeaMNdowntown.JPG/330px-AlbertLeaMNdowntown.JPG"
+  },
+  {
+    "city": "Anoka",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DowntownAnokaJuly2009.jpg/250px-DowntownAnokaJuly2009.jpg"
+  },
+  {
+    "city": "Ham Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_HamLake_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_HamLake_Highlighted.png"
+  },
+  {
+    "city": "Red Wing",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Red_Wing%2C_Minnesota_image.jpg/250px-Red_Wing%2C_Minnesota_image.jpg"
+  },
+  {
+    "city": "Hugo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hugo%2C_Washington_County%2C_Minnesota%2C_USA.svg/250px-Hugo%2C_Washington_County%2C_Minnesota%2C_USA.svg.png"
+  },
+  {
+    "city": "Buffalo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Central_Ave_at_1st_Street_NE%2C_Buffalo%2C_MN-01.jpg/250px-Central_Ave_at_1st_Street_NE%2C_Buffalo%2C_MN-01.jpg"
+  },
+  {
+    "city": "Hibbing",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/East_Howard_St_Commercial_HD.jpg/330px-East_Howard_St_Commercial_HD.jpg"
+  },
+  {
+    "city": "Bemidji",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bemidji%2C_Minnesota-02-Businesses_on_Beltrami_Avenue.jpg/330px-Bemidji%2C_Minnesota-02-Businesses_on_Beltrami_Avenue.jpg"
+  },
+  {
+    "city": "Monticello",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Monticello_City_Hall-Community_Center%2C_Monticello%2C_Minnesota-03.jpg/250px-Monticello_City_Hall-Community_Center%2C_Monticello%2C_Minnesota-03.jpg"
+  },
+  {
+    "city": "Alexandria",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alexandria_Post_Office.jpg/330px-Alexandria_Post_Office.jpg"
+  },
+  {
+    "city": "Hutchinson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Main_Street_and_Washington_Avenue_looking_north%2C_Hutchinson%2C_MN.jpg/250px-Main_Street_and_Washington_Avenue_looking_north%2C_Hutchinson%2C_MN.jpg"
+  },
+  {
+    "city": "Rogers",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Rogers_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Rogers_Highlighted.svg.png"
+  },
+  {
+    "city": "Brainerd",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/NP_Shops_5.jpg/250px-NP_Shops_5.jpg"
+  },
+  {
+    "city": "Fergus Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fergus_Falls%2C_Minnesota_Montage.jpg/330px-Fergus_Falls%2C_Minnesota_Montage.jpg"
+  },
+  {
+    "city": "Lake Elmo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lake_Elmo_Park_Reserve_-_Lake_Elmo%2C_MN_-_panoramio.jpg/250px-Lake_Elmo_Park_Reserve_-_Lake_Elmo%2C_MN_-_panoramio.jpg"
+  },
+  {
+    "city": "North Mankato",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/North_Mankato%2C_Minnesota.jpg/330px-North_Mankato%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Marshall",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Marshall_MN_1.jpg/330px-Marshall_MN_1.jpg"
+  },
+  {
+    "city": "Robbinsdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/City_of_Robbinsdale%2C_Minnesota_-_Water_Tower%2C_Minnesota_%2833702172680%29.jpg/250px-City_of_Robbinsdale%2C_Minnesota_-_Water_Tower%2C_Minnesota_%2833702172680%29.jpg"
+  },
+  {
+    "city": "New Ulm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2009-0805-MN-NewUlm-CHD.jpg/330px-2009-0805-MN-NewUlm-CHD.jpg"
+  },
+  {
+    "city": "Sauk Rapids",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sauk_rapids_sign.jpg/250px-Sauk_rapids_sign.jpg"
+  },
+  {
+    "city": "Waconia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2009-0713-Waconia-LakeWaconia.jpg/330px-2009-0713-Waconia-LakeWaconia.jpg"
+  },
+  {
+    "city": "Worthington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Worthington_Minnesota.jpg/330px-Worthington_Minnesota.jpg"
+  },
+  {
+    "city": "Vadnais Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/County_Rd_E_and_35E_-_Vadnais_Heights%2C_MN_-_panoramio_%281%29.jpg/330px-County_Rd_E_and_35E_-_Vadnais_Heights%2C_MN_-_panoramio_%281%29.jpg"
+  },
+  {
+    "city": "Big Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Big_Lake_Water_Tower.jpg/250px-Big_Lake_Water_Tower.jpg"
+  },
+  {
+    "city": "Mounds View",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mounds_View_City_Hall_2017.jpg/330px-Mounds_View_City_Hall_2017.jpg"
+  },
+  {
+    "city": "North St. Paul",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NSP_Snowman.jpg/330px-NSP_Snowman.jpg"
+  },
+  {
+    "city": "Cloquet",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Cloquet_MN.png/250px-Cloquet_MN.png"
+  },
+  {
+    "city": "St. Peter",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Downtown_St._Peter_1.jpg/330px-Downtown_St._Peter_1.jpg"
+  },
+  {
+    "city": "East Bethel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_EastBethel_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_EastBethel_Highlighted.png"
+  },
+  {
+    "city": "North Branch",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Downtown_North_Branch%2C_MN.jpg/250px-Downtown_North_Branch%2C_MN.jpg"
+  },
+  {
+    "city": "Victoria",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Downtown_Victoria%2C_Minnesota%2C_Sept_2019_3.jpg/250px-Downtown_Victoria%2C_Minnesota%2C_Sept_2019_3.jpg"
+  },
+  {
+    "city": "Mendota Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1140_Centre_Pointe_Blvd_-_Mendota_Heights%2C_MN_-_panoramio.jpg/250px-1140_Centre_Pointe_Blvd_-_Mendota_Heights%2C_MN_-_panoramio.jpg"
+  },
+  {
+    "city": "Grand Rapids",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/City_Hall%2C_Grand_Rapids%2C_MN-02.jpg/250px-City_Hall%2C_Grand_Rapids%2C_MN-02.jpg"
+  },
+  {
+    "city": "Cambridge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Isanti_Co_Courthouse_4.JPG/250px-Isanti_Co_Courthouse_4.JPG"
+  },
+  {
+    "city": "Dayton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Dayton_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Dayton_Highlighted.svg.png"
+  },
+  {
+    "city": "Little Canada",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Little_Canada%2C_Minnesota.svg/120px-Flag_of_Little_Canada%2C_Minnesota.svg.png"
+  },
+  {
+    "city": "Hermantown",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Hermantown_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Hermantown_Highlighted.svg.png"
+  },
+  {
+    "city": "Fairmont",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fairmont_MN_1.jpg/330px-Fairmont_MN_1.jpg"
+  },
+  {
+    "city": "Detroit Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Washingtonavenue.jpg/330px-Washingtonavenue.jpg"
+  },
+  {
+    "city": "St. Anthony Village",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Anthony_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Anthony_Highlighted.svg.png"
+  },
+  {
+    "city": "Arden Hills",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hwy_10_-_Arden_Hills%2C_MN_-_panoramio.jpg/250px-Hwy_10_-_Arden_Hills%2C_MN_-_panoramio.jpg"
+  },
+  {
+    "city": "Oak Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_OakGrove_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_OakGrove_Highlighted.png"
+  },
+  {
+    "city": "Little Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Little_Falls_Minnesota_Aerial_%2851008891193%29.jpg/250px-Little_Falls_Minnesota_Aerial_%2851008891193%29.jpg"
+  },
+  {
+    "city": "Baxter",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Baxter_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Baxter_Highlighted.svg.png"
+  },
+  {
+    "city": "Minnetrista",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Minnetrista_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Minnetrista_Highlighted.svg.png"
+  },
+  {
+    "city": "Waseca",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waseca_Minnesota.jpg/330px-Waseca_Minnesota.jpg"
+  },
+  {
+    "city": "Mound",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2009-0713-Mound-CH.jpg/250px-2009-0713-Mound-CH.jpg"
+  },
+  {
+    "city": "East Grand Forks",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NDCityHall.jpg/330px-NDCityHall.jpg"
+  },
+  {
+    "city": "Thief River Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Soo_line_depot_thief_river_falls.jpg/330px-Soo_line_depot_thief_river_falls.jpg"
+  },
+  {
+    "city": "Albertville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2012-0821-Wright-AlbertvilleCH.jpg/250px-2012-0821-Wright-AlbertvilleCH.jpg"
+  },
+  {
+    "city": "St. Francis",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Welcome_sign%2C_St._Francis%2C_MN.jpg/250px-Welcome_sign%2C_St._Francis%2C_MN.jpg"
+  },
+  {
+    "city": "Waite Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Waite_Park_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Waite_Park_Highlighted.svg.png"
+  },
+  {
+    "city": "Corcoran",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Corcoran_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Corcoran_Highlighted.svg.png"
+  },
+  {
+    "city": "Virginia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Virginia_IMG_1523.JPG/330px-Virginia_IMG_1523.JPG"
+  },
+  {
+    "city": "New Prague",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/New_Prague%2C_Minnesota_5.jpg/250px-New_Prague%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Orono",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Orono_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Orono_Highlighted.svg.png"
+  },
+  {
+    "city": "Mahtomedi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o.jpg/250px-Mahtomedi_Water_Tower_Sunset_Minnesota_2201388568_o.jpg"
+  },
+  {
+    "city": "Wyoming",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wyoming%2C_Minnesota-03.jpg/250px-Wyoming%2C_Minnesota-03.jpg"
+  },
+  {
+    "city": "Shorewood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ShorewoodHennepin.PNG/250px-ShorewoodHennepin.PNG"
+  },
+  {
+    "city": "Delano",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Delano%2C_Minnesota_5.jpg/250px-Delano%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Isanti",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Isanti%2C_Minnesota_%282018%29.jpg/250px-Isanti%2C_Minnesota_%282018%29.jpg"
+  },
+  {
+    "city": "Belle Plaine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Scott_County_Minnesota_Incorporated_and_Unincorporated_areas_Belle_Plaine_Highlighted.svg/250px-Scott_County_Minnesota_Incorporated_and_Unincorporated_areas_Belle_Plaine_Highlighted.svg.png"
+  },
+  {
+    "city": "Crookston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Crookston_Commercial_Historic_District.jpg/330px-Crookston_Commercial_Historic_District.jpg"
+  },
+  {
+    "city": "Medina",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Historic_Cabin%2C_Medina_Minnesota.jpg/250px-Historic_Cabin%2C_Medina_Minnesota.jpg"
+  },
+  {
+    "city": "Kasson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kasson%2C_Minnesota.jpg/250px-Kasson%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Spring Lake Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Spring_Lake_Park%2C_Minnesota_city_hall.jpg/250px-Spring_Lake_Park%2C_Minnesota_city_hall.jpg"
+  },
+  {
+    "city": "St. Joseph",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Joseph%2C_Minnesota_buildings.jpg/250px-St._Joseph%2C_Minnesota_buildings.jpg"
+  },
+  {
+    "city": "Stewartville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-0528-MN-Stewartville-cityhall.jpg/250px-2009-0528-MN-Stewartville-cityhall.jpg"
+  },
+  {
+    "city": "Jordan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/JordanCH.JPG/250px-JordanCH.JPG"
+  },
+  {
+    "city": "Carver",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2009-0713-Carver-Broadway.jpg/250px-2009-0713-Carver-Broadway.jpg"
+  },
+  {
+    "city": "Byron",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Olmsted_County_Minnesota_Incorporated_and_Unincorporated_areas_Byron_Highlighted.svg/250px-Olmsted_County_Minnesota_Incorporated_and_Unincorporated_areas_Byron_Highlighted.svg.png"
+  },
+  {
+    "city": "Zimmerman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/WaterTowerZimmermanMN.jpg/330px-WaterTowerZimmermanMN.jpg"
+  },
+  {
+    "city": "Litchfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Litchfield_Downtown_3.JPG/250px-Litchfield_Downtown_3.JPG"
+  },
+  {
+    "city": "Chisago City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chisago_City_MN_downtown.jpg/250px-Chisago_City_MN_downtown.jpg"
+  },
+  {
+    "city": "Glencoe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glencoe%2C_MN_1.jpg/250px-Glencoe%2C_MN_1.jpg"
+  },
+  {
+    "city": "Credit River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Scott_County_Minnesota_Incorporated_and_Unincorporated_areas_Credit_River_Highlighted.svg/250px-Scott_County_Minnesota_Incorporated_and_Unincorporated_areas_Credit_River_Highlighted.svg.png"
+  },
+  {
+    "city": "International Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/International_Falls%2C_Minnesota_1.jpg/250px-International_Falls%2C_Minnesota_1.jpg"
+  },
+  {
+    "city": "Newport",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Newport_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Newport_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Paul Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/St._Paul_Park_Refinery_on_the_Mississippi_River_-_Marathon_Petro_%2842253422592%29.jpg/250px-St._Paul_Park_Refinery_on_the_Mississippi_River_-_Marathon_Petro_%2842253422592%29.jpg"
+  },
+  {
+    "city": "Princeton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GN_Depot_Princeton_3.jpg/250px-GN_Depot_Princeton_3.jpg"
+  },
+  {
+    "city": "Lake City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lake_City_City_Hall_2017.jpg/250px-Lake_City_City_Hall_2017.jpg"
+  },
+  {
+    "city": "Montevideo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ArtigasPlazaMontevideoMN.jpg/250px-ArtigasPlazaMontevideoMN.jpg"
+  },
+  {
+    "city": "La Crescent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/La_Crescent_City_Hall.jpg/250px-La_Crescent_City_Hall.jpg"
+  },
+  {
+    "city": "Becker",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sherburne_County_Minnesota_Incorporated_and_Unincorporated_areas_Becker_Highlighted.svg/250px-Sherburne_County_Minnesota_Incorporated_and_Unincorporated_areas_Becker_Highlighted.svg.png"
+  },
+  {
+    "city": "North Oaks",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2009-0810-NorthOaks-HillFarm.jpg/250px-2009-0810-NorthOaks-HillFarm.jpg"
+  },
+  {
+    "city": "Elko New Market",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ElkoSpeedway2019ARCAMenards250.jpg/250px-ElkoSpeedway2019ARCAMenards250.jpg"
+  },
+  {
+    "city": "Morris",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stevens_County_Historical_Museum-front-3qtr-left.jpg/330px-Stevens_County_Historical_Museum-front-3qtr-left.jpg"
+  },
+  {
+    "city": "Lonsdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lonsdale%2C_Minnesota_5.jpg/250px-Lonsdale%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Redwood Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Redwood_Falls_MN_1.jpg/250px-Redwood_Falls_MN_1.jpg"
+  },
+  {
+    "city": "Lindstrom",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lindstr%C3%B6m%2C_Minnesota.jpg/330px-Lindstr%C3%B6m%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Falcon Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Falcon_Heights%2C_Minnesota%2C_City_Hall.jpg/330px-Falcon_Heights%2C_Minnesota%2C_City_Hall.jpg"
+  },
+  {
+    "city": "Circle Pines",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Garden_City_Hall_2.JPG/250px-Garden_City_Hall_2.JPG"
+  },
+  {
+    "city": "Luverne",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Luverne%2C_MN_Main_Street_sign.jpg/330px-Luverne%2C_MN_Main_Street_sign.jpg"
+  },
+  {
+    "city": "Dilworth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Star_Lite_Motel_in_Dilworth%2C_Minnesota%2C_USA._Winter_view.jpg/330px-Star_Lite_Motel_in_Dilworth%2C_Minnesota%2C_USA._Winter_view.jpg"
+  },
+  {
+    "city": "Windom",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Downtown_Windom_MN.JPG/330px-Downtown_Windom_MN.JPG"
+  },
+  {
+    "city": "Rockford",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rockford_MN.jpg/250px-Rockford_MN.jpg"
+  },
+  {
+    "city": "Watertown",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Businesses_on_Lewis_Avenue%2C_Watertown%2C_Minnesota.jpg/250px-Businesses_on_Lewis_Avenue%2C_Watertown%2C_Minnesota.jpg"
+  },
+  {
+    "city": "St. James",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/WatonwonCountyCourthouse.jpg/250px-WatonwonCountyCourthouse.jpg"
+  },
+  {
+    "city": "Sauk Centre",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Original_Main_Street_HD.jpg/250px-Original_Main_Street_HD.jpg"
+  },
+  {
+    "city": "Oak Park Heights",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oak_Park_Heights_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Oak_Park_Heights_Highlighted.svg.png"
+  },
+  {
+    "city": "Chisholm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_panorama_of_Chisholm%2C_Minnesota%2C_from_over_Longyear_Lake.jpg/330px-Aerial_panorama_of_Chisholm%2C_Minnesota%2C_from_over_Longyear_Lake.jpg"
+  },
+  {
+    "city": "Nowthen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Nowthen_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Nowthen_Highlighted.png"
+  },
+  {
+    "city": "Park Rapids",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Main_Avenue%2C_Park_Rapids%2C_Minnesota.jpg/250px-Main_Avenue%2C_Park_Rapids%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Stacy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Stacy%2C_Minnesota-05_City_Hall.jpg/250px-Stacy%2C_Minnesota-05_City_Hall.jpg"
+  },
+  {
+    "city": "Wadena",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jefferson_Street_at_Colfax_Avenue_looking_NE%2C_Wadena%2C_Minnesota.jpg/250px-Jefferson_Street_at_Colfax_Avenue_looking_NE%2C_Wadena%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Cold Spring",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/City_of_Cold_Spring%2C_Minnesota_-_Water_Tower_%2828818830483%29.jpg/330px-City_of_Cold_Spring%2C_Minnesota_-_Water_Tower_%2828818830483%29.jpg"
+  },
+  {
+    "city": "Wayzata",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DowntownWayzata1.jpg/250px-DowntownWayzata1.jpg"
+  },
+  {
+    "city": "Columbus",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Columbus_Highlighted.png"
+  },
+  {
+    "city": "Le Sueur",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2009-731-MN-LeSueur-MayoHouse.jpg/250px-2009-731-MN-LeSueur-MayoHouse.jpg"
+  },
+  {
+    "city": "Hanover",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/HanoverCityHall.JPG/250px-HanoverCityHall.JPG"
+  },
+  {
+    "city": "Cannon Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Downtown_Cannon_Falls.jpg/250px-Downtown_Cannon_Falls.jpg"
+  },
+  {
+    "city": "Rice Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/USA_Minnesota_location_map.svg/250px-USA_Minnesota_location_map.svg.png"
+  },
+  {
+    "city": "Goodview",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Goodview_City_Hall.jpg/250px-Goodview_City_Hall.jpg"
+  },
+  {
+    "city": "St. Charles",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Whitewater_Ave_Commercial_HD_02.jpg/250px-Whitewater_Ave_Commercial_HD_02.jpg"
+  },
+  {
+    "city": "Pipestone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/MainPipestoneMN.jpg/250px-MainPipestoneMN.jpg"
+  },
+  {
+    "city": "Zumbrota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CoveredBridgeZumbrotaMN.jpg/250px-CoveredBridgeZumbrotaMN.jpg"
+  },
+  {
+    "city": "Centerville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Centerville_Highlighted_copy.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Centerville_Highlighted_copy.png"
+  },
+  {
+    "city": "Scandia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gammelgarden_Museum%2C_Scandia%2C_Minnesota.jpg/250px-Gammelgarden_Museum%2C_Scandia%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Grant",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Grant%2C_Washington_County%2C_Minnesota.svg/250px-Grant%2C_Washington_County%2C_Minnesota.svg.png"
+  },
+  {
+    "city": "Montrose",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/City_Offices%2C_Montrose%2C_Minnesota.jpg/250px-City_Offices%2C_Montrose%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Melrose",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Melrose_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Melrose_Highlighted.svg.png"
+  },
+  {
+    "city": "Pine Island",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2009-0528-PineIsland-downtownCH.jpg/250px-2009-0528-PineIsland-downtownCH.jpg"
+  },
+  {
+    "city": "Pine City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pine_City%2C_MN_1.jpg/250px-Pine_City%2C_MN_1.jpg"
+  },
+  {
+    "city": "Bayport",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Location_of_Bayport%2C_Wash_Co%2C_Minnesta%2C_USA.svg/250px-Location_of_Bayport%2C_Wash_Co%2C_Minnesta%2C_USA.svg.png"
+  },
+  {
+    "city": "Mora",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mora_Minnesota.jpg/250px-Mora_Minnesota.jpg"
+  },
+  {
+    "city": "Norwood Young America",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Carver_County_Minnesota_Incorporated_and_Unincorporated_areas_Norwood_Young_America_Highlighted.svg/250px-Carver_County_Minnesota_Incorporated_and_Unincorporated_areas_Norwood_Young_America_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Augusta",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/USA_Minnesota_location_map.svg/250px-USA_Minnesota_location_map.svg.png"
+  },
+  {
+    "city": "Deephaven",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Deephaven_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Deephaven_Highlighted.svg.png"
+  },
+  {
+    "city": "Independence",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Independence_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Independence_Highlighted.svg.png"
+  },
+  {
+    "city": "Long Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Central_Avenue%2C_Long_Prairie%2C_Minnesota.jpg/250px-Central_Avenue%2C_Long_Prairie%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Perham",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PerhamVillageHall_ottertailcounty.jpg/250px-PerhamVillageHall_ottertailcounty.jpg"
+  },
+  {
+    "city": "Montgomery",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2009-0805-Montgomery-Westerman.jpg/250px-2009-0805-Montgomery-Westerman.jpg"
+  },
+  {
+    "city": "Plainview",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Plainview_Welcome_Home_sign_%28Plainview%2C_Minnesota%29_001.jpg/250px-Plainview_Welcome_Home_sign_%28Plainview%2C_Minnesota%29_001.jpg"
+  },
+  {
+    "city": "Sleepy Eye",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CBergHotel.jpg/250px-CBergHotel.jpg"
+  },
+  {
+    "city": "Annandale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Downtown_Annandale.jpg/250px-Downtown_Annandale.jpg"
+  },
+  {
+    "city": "Two Harbors",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Two_Harbors_Minnesota_aerial_view.jpg/250px-Two_Harbors_Minnesota_aerial_view.jpg"
+  },
+  {
+    "city": "Eveleth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Eveleth_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Eveleth_Highlighted.svg.png"
+  },
+  {
+    "city": "Benson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Businesses_on_Pacific_Avenue%2C_Benson%2C_MN.jpg/250px-Businesses_on_Pacific_Avenue%2C_Benson%2C_MN.jpg"
+  },
+  {
+    "city": "Rush City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rush_City%2C_MN_1.jpg/250px-Rush_City%2C_MN_1.jpg"
+  },
+  {
+    "city": "Eagle Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Eagle_Lake%2C_Minnesota.jpg/250px-Eagle_Lake%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Breckenridge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Breckenridge_Minnesota.jpg/330px-Breckenridge_Minnesota.jpg"
+  },
+  {
+    "city": "Jackson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CourthouseJacksonCountyMinnesota2007.JPG/250px-CourthouseJacksonCountyMinnesota2007.JPG"
+  },
+  {
+    "city": "Ely",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Northern_MN_-_028.jpg/250px-Northern_MN_-_028.jpg"
+  },
+  {
+    "city": "Blue Earth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blue_Earth%2C_Minnesota.jpg/250px-Blue_Earth%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Proctor",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Downtown_Proctor_MN.jpg/250px-Downtown_Proctor_MN.jpg"
+  },
+  {
+    "city": "Staples",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Staples_City_Hall.jpg/250px-Staples_City_Hall.jpg"
+  },
+  {
+    "city": "Staples",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Staples_City_Hall.jpg/250px-Staples_City_Hall.jpg"
+  },
+  {
+    "city": "Lexington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Lexington_Highlighted.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Lexington_Highlighted.png"
+  },
+  {
+    "city": "Milaca",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Milaca%2C_Minnesota-16-Businesses_at1st_Street_W._and_Central_Avenue_with_watertower.jpg/250px-Milaca%2C_Minnesota-16-Businesses_at1st_Street_W._and_Central_Avenue_with_watertower.jpg"
+  },
+  {
+    "city": "Chatfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chatfield%2C_Minnesota.jpg/250px-Chatfield%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Moose Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dtmooselake.jpg/250px-Dtmooselake.jpg"
+  },
+  {
+    "city": "Afton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Residential_street%2C_Afton%2C_Minnesota.jpg/250px-Residential_street%2C_Afton%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Dodge Center",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dodge_Center%2C_Minnesota_5.jpg/250px-Dodge_Center%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Greenfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Water_tower%2C_Greenfield%2C_MN.jpg/250px-Water_tower%2C_Greenfield%2C_MN.jpg"
+  },
+  {
+    "city": "Albany",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Albany_Minnesota_Railroad_Avenue.jpg/250px-Albany_Minnesota_Railroad_Avenue.jpg"
+  },
+  {
+    "city": "Mountain Iron",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mountain_Iron_IMG_1410.JPG/250px-Mountain_Iron_IMG_1410.JPG"
+  },
+  {
+    "city": "Cokato",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cokato%2C_MN_1.jpg/250px-Cokato%2C_MN_1.jpg"
+  },
+  {
+    "city": "Caledonia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Caledonia%2C_Minnesota.jpg/330px-Caledonia%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Barnesville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Barnesville%2C_Minnesota-05-Old_City_Hall.jpg/330px-Barnesville%2C_Minnesota-05-Old_City_Hall.jpg"
+  },
+  {
+    "city": "Breezy Point",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Breezy_Point_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Breezy_Point_Highlighted.svg.png"
+  },
+  {
+    "city": "Cohasset",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/A_voter_leaves_polling_place%2C_Cohasset_City_Hall%2C_Minnesota_on_Election_Day%2C_Nov._5%2C_2024.jpg/250px-A_voter_leaves_polling_place%2C_Cohasset_City_Hall%2C_Minnesota_on_Election_Day%2C_Nov._5%2C_2024.jpg"
+  },
+  {
+    "city": "Roseau",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polaris_Experience_Center-Right_side.jpg/250px-Polaris_Experience_Center-Right_side.jpg"
+  },
+  {
+    "city": "Granite Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Granite_Falls_Minnesota.jpg/250px-Granite_Falls_Minnesota.jpg"
+  },
+  {
+    "city": "Foley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Foley_Drug_building.jpg/250px-Foley_Drug_building.jpg"
+  },
+  {
+    "city": "Glenwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Glenwood_MN_sign.JPG/250px-Glenwood_MN_sign.JPG"
+  },
+  {
+    "city": "Wabasha",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Downtown_Wabasha_6.JPG/250px-Downtown_Wabasha_6.JPG"
+  },
+  {
+    "city": "Pelican Rapids",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pelican_rapids_mn.jpg/250px-Pelican_rapids_mn.jpg"
+  },
+  {
+    "city": "Paynesville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2013-0408-PaynesvilleKoronisCinema.jpg/250px-2013-0408-PaynesvilleKoronisCinema.jpg"
+  },
+  {
+    "city": "Mayer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mayer%2C_Minnesota_5.jpg/250px-Mayer%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Le Center",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2009-0805-MN-114-LeCenter.jpg/250px-2009-0805-MN-114-LeCenter.jpg"
+  },
+  {
+    "city": "Osseo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Osseo_City_Hall_%26_Library.jpg/250px-Osseo_City_Hall_%26_Library.jpg"
+  },
+  {
+    "city": "Lake Crystal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lake_Crystal_Main_Street.png/250px-Lake_Crystal_Main_Street.png"
+  },
+  {
+    "city": "Rockville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fish_sign_on_shop%2C_Rockville%2C_Minnesota.jpg/250px-Fish_sign_on_shop%2C_Rockville%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Sandstone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/da/Official_Sandstone_City_Logo.png"
+  },
+  {
+    "city": "Janesville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2009-0805-MN-Janesville.jpg/250px-2009-0805-MN-Janesville.jpg"
+  },
+  {
+    "city": "Pequot Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pequot_depot.jpg/330px-Pequot_depot.jpg"
+  },
+  {
+    "city": "Spring Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2009-0528-MN-SpringValley-downtown.jpg/250px-2009-0528-MN-SpringValley-downtown.jpg"
+  },
+  {
+    "city": "Madelia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TheatreMadeliaMN.jpg/250px-TheatreMadeliaMN.jpg"
+  },
+  {
+    "city": "Crosslake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Crosslake_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Crosslake_Highlighted.svg.png"
+  },
+  {
+    "city": "Wells",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MunicipalBldgWellsMN.jpg/250px-MunicipalBldgWellsMN.jpg"
+  },
+  {
+    "city": "Lauderdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_Lauderdale_Highlighted.svg/250px-Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_Lauderdale_Highlighted.svg.png"
+  },
+  {
+    "city": "Gaylord",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gaylord%2C_Minnesota_5.jpg/250px-Gaylord%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Crosby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Crosby%2C_Minnesota-01-sign.jpg/250px-Crosby%2C_Minnesota-01-sign.jpg"
+  },
+  {
+    "city": "Arlington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Arlington%2C_Minnesota_5.jpg/250px-Arlington%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Olivia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Renville_County_Courthouse_MN.jpg/250px-Renville_County_Courthouse_MN.jpg"
+  },
+  {
+    "city": "Excelsior",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Water_Street%2C_Excelsior%2C_MN_Sept_2019.jpg/250px-Water_Street%2C_Excelsior%2C_MN_Sept_2019.jpg"
+  },
+  {
+    "city": "Hawley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hawleygrainelevator.jpg/250px-Hawleygrainelevator.jpg"
+  },
+  {
+    "city": "Howard Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Howard_Lake%2C_MN_1.jpg/250px-Howard_Lake%2C_MN_1.jpg"
+  },
+  {
+    "city": "Waverly",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/City_Offices_Waverly%2C_Minnesota.jpg/250px-City_Offices_Waverly%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Clearwater",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cleawatermn.jpg/250px-Cleawatermn.jpg"
+  },
+  {
+    "city": "Winsted",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2012-0814-WinstedCH-new.jpg/250px-2012-0814-WinstedCH-new.jpg"
+  },
+  {
+    "city": "Maple Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Maple_Lake_Water_Tower_2012.gif/250px-Maple_Lake_Water_Tower_2012.gif"
+  },
+  {
+    "city": "Rice",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Downtown_Rice_MN.JPG/250px-Downtown_Rice_MN.JPG"
+  },
+  {
+    "city": "Aitkin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aitkin_Co_Courthouse.jpg/330px-Aitkin_Co_Courthouse.jpg"
+  },
+  {
+    "city": "St. Bonifacius",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SaintBonifaciusHennepin.png/250px-SaintBonifaciusHennepin.png"
+  },
+  {
+    "city": "Nisswa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Nisswa_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Nisswa_Highlighted.svg.png"
+  },
+  {
+    "city": "Cologne",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Carver_County_Minnesota_Incorporated_and_Unincorporated_areas_Cologne_Highlighted.svg/250px-Carver_County_Minnesota_Incorporated_and_Unincorporated_areas_Cologne_Highlighted.svg.png"
+  },
+  {
+    "city": "Tracy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Tracy_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Tracy_Highlighted.svg.png"
+  },
+  {
+    "city": "Oronoco",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oronoco_City_Hall.jpg/250px-Oronoco_City_Hall.jpg"
+  },
+  {
+    "city": "Eyota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eyota%2C_Minnesota.jpg/250px-Eyota%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Coleraine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CarnegieLibraryColeraineMN.jpg/250px-CarnegieLibraryColeraineMN.jpg"
+  },
+  {
+    "city": "Springfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Springfield_Highlighted.svg/250px-Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Springfield_Highlighted.svg.png"
+  },
+  {
+    "city": "Hoyt Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Hoyt_Lakes_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Hoyt_Lakes_Highlighted.svg.png"
+  },
+  {
+    "city": "Warroad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/City_of_Warroad%2C_Minnesota_-_City_Office_City_Hall_%2838941103901%29.jpg/250px-City_of_Warroad%2C_Minnesota_-_City_Office_City_Hall_%2838941103901%29.jpg"
+  },
+  {
+    "city": "Ortonville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ortonville_Commercial_HD.jpg/250px-Ortonville_Commercial_HD.jpg"
+  },
+  {
+    "city": "Slayton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Slayton%2C_Minnesota.JPG/250px-Slayton%2C_Minnesota.JPG"
+  },
+  {
+    "city": "Mountain Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mountain_Lake%2C_MN.jpg/250px-Mountain_Lake%2C_MN.jpg"
+  },
+  {
+    "city": "Blooming Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Main_Street%2C_Blooming_Prairie%2C_MN.jpg/250px-Main_Street%2C_Blooming_Prairie%2C_MN.jpg"
+  },
+  {
+    "city": "Long Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Long_Lake%2C_MN.jpg/250px-Long_Lake%2C_MN.jpg"
+  },
+  {
+    "city": "Hinckley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hinckley_Minnesota.jpg/250px-Hinckley_Minnesota.jpg"
+  },
+  {
+    "city": "Lester Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lester_Prairie%2C_Minnesota_05-Businesses.jpg/330px-Lester_Prairie%2C_Minnesota_05-Businesses.jpg"
+  },
+  {
+    "city": "Kenyon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kenyon%2C_Minnesota_9.jpg/250px-Kenyon%2C_Minnesota_9.jpg"
+  },
+  {
+    "city": "Rushford",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rushford%2C_Minnesota_looking_north.jpg/330px-Rushford%2C_Minnesota_looking_north.jpg"
+  },
+  {
+    "city": "Dundas",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Archibald-Mill-Dundas-June-2008.jpg/330px-Archibald-Mill-Dundas-June-2008.jpg"
+  },
+  {
+    "city": "Rock Creek",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/The_official_logo_of_the_City_of_Rock_Creek%2C_Minnesota.jpg/120px-The_official_logo_of_the_City_of_Rock_Creek%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Braham",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/City_Hall_of_Braham%2C_Minnesota.jpg/250px-City_Hall_of_Braham%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Silver Bay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Silver-bay-taconite-plant.jpg/250px-Silver-bay-taconite-plant.jpg"
+  },
+  {
+    "city": "Waterville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Waterville_Highlighted.svg/250px-Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Waterville_Highlighted.svg.png"
+  },
+  {
+    "city": "Osakis",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Osakis_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Osakis_Highlighted.svg.png"
+  },
+  {
+    "city": "Avon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Avon_Avenue_North.jpg/250px-Avon_Avenue_North.jpg"
+  },
+  {
+    "city": "Lakefield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lakefield_Highlighted.svg/250px-Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lakefield_Highlighted.svg.png"
+  },
+  {
+    "city": "Ada",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Norman_County_Courthouse_-_Ada%2C_Minnesota.jpg/330px-Norman_County_Courthouse_-_Ada%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Canby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Canby_Commercial_Historic_District.jpg/250px-Canby_Commercial_Historic_District.jpg"
+  },
+  {
+    "city": "Lakeland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lakeland%2C_Minnesota_seen_from_Hudson%2C_WI%2C_Aug_2018.jpg/250px-Lakeland%2C_Minnesota_seen_from_Hudson%2C_WI%2C_Aug_2018.jpg"
+  },
+  {
+    "city": "Gilbert",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Gilbert_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Gilbert_Highlighted.svg.png"
+  },
+  {
+    "city": "Aurora",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aurora_MN_co_hwy_100_IMG_1498.JPG/250px-Aurora_MN_co_hwy_100_IMG_1498.JPG"
+  },
+  {
+    "city": "Maple Plain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Maple_Plain_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Maple_Plain_Highlighted.svg.png"
+  },
+  {
+    "city": "Spring Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2009-0713-SpringPark-CH.jpg/250px-2009-0713-SpringPark-CH.jpg"
+  },
+  {
+    "city": "Mapleton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2009-0805-MN-Mapleton-MainStHD.jpg/250px-2009-0805-MN-Mapleton-MainStHD.jpg"
+  },
+  {
+    "city": "Warren",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Warren_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Warren_Highlighted.svg.png"
+  },
+  {
+    "city": "Tonka Bay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TonkaBayHennepin.PNG/250px-TonkaBayHennepin.PNG"
+  },
+  {
+    "city": "Richmond",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2013-0408-RichmondMN.jpg/250px-2013-0408-RichmondMN.jpg"
+  },
+  {
+    "city": "Dassel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Businesses_along_Atlantic_Avenue%2C_Dassel%2C_Minnesota.jpg/250px-Businesses_along_Atlantic_Avenue%2C_Dassel%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Lewiston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lewiston%2C_Minnesota.jpg/330px-Lewiston%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Madison",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/6th_Avenue_looking_toward_Courthouse%2C_Madison%2C_MN-01.jpg/250px-6th_Avenue_looking_toward_Courthouse%2C_Madison%2C_MN-01.jpg"
+  },
+  {
+    "city": "New York Mills",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/New_York_Mills_MN_from_Amtrak_2.jpg/250px-New_York_Mills_MN_from_Amtrak_2.jpg"
+  },
+  {
+    "city": "Pierz",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pierz_Aerial.jpg/250px-Pierz_Aerial.jpg"
+  },
+  {
+    "city": "Dawson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Dawson_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Dawson_Highlighted.svg.png"
+  },
+  {
+    "city": "Starbuck",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Starbuck_MN.JPG/330px-Starbuck_MN.JPG"
+  },
+  {
+    "city": "Clara City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Clara_City_Highlighted.svg/250px-Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Clara_City_Highlighted.svg.png"
+  },
+  {
+    "city": "Winnebago",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Winnebago%2C_Minnesota.jpg/250px-Winnebago%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Fosston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Fosston_mn_seal.jpg/120px-Fosston_mn_seal.jpg"
+  },
+  {
+    "city": "Babbitt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Babbitt_Municipal_Center.jpg/330px-Babbitt_Municipal_Center.jpg"
+  },
+  {
+    "city": "Glyndon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clay_County_Minnesota_Incorporated_and_Unincorporated_areas_Glyndon_Highlighted.svg/250px-Clay_County_Minnesota_Incorporated_and_Unincorporated_areas_Glyndon_Highlighted.svg.png"
+  },
+  {
+    "city": "Menahga",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Water_tower%2C_Menahga%2C_Minnesota-02.jpg/250px-Water_tower%2C_Menahga%2C_Minnesota-02.jpg"
+  },
+  {
+    "city": "Medford",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Medford%2C_Minnesota_5.jpg/250px-Medford%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Hayfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dodge_County_Minnesota_Incorporated_and_Unincorporated_areas_Hayfield_Highlighted.svg/250px-Dodge_County_Minnesota_Incorporated_and_Unincorporated_areas_Hayfield_Highlighted.svg.png"
+  },
+  {
+    "city": "Minneota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Minneota_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Minneota_Highlighted.svg.png"
+  },
+  {
+    "city": "Appleton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/AppletonCityHall.JPG/250px-AppletonCityHall.JPG"
+  },
+  {
+    "city": "Medicine Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2009-0722-MedicineLake.jpg/330px-2009-0722-MedicineLake.jpg"
+  },
+  {
+    "city": "Wheaton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20230509_-_Commerical_Businesses_at_Broadway_and_Front_Street%2C_Wheaton%2C_MN.jpg/250px-20230509_-_Commerical_Businesses_at_Broadway_and_Front_Street%2C_Wheaton%2C_MN.jpg"
+  },
+  {
+    "city": "Winthrop",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aerial_view_of_Winthrop%2C_Minnesota_2023-06-11.jpg/250px-Aerial_view_of_Winthrop%2C_Minnesota_2023-06-11.jpg"
+  },
+  {
+    "city": "Red Lake Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Red_Lake_Falls_Minnesota.jpg/250px-Red_Lake_Falls_Minnesota.jpg"
+  },
+  {
+    "city": "Fulda",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fulda_MN_Water_Tower.jpg/250px-Fulda_MN_Water_Tower.jpg"
+  },
+  {
+    "city": "New London",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Welcome_to_New_London%2C_Minnesota_-_City_on_the_Pond_%2834584176574%29.jpg/250px-Welcome_to_New_London%2C_Minnesota_-_City_on_the_Pond_%2834584176574%29.jpg"
+  },
+  {
+    "city": "Preston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DowntownBlockPrestonMN.jpg/250px-DowntownBlockPrestonMN.jpg"
+  },
+  {
+    "city": "Madison Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Madison_Lake_Highlighted.svg/250px-Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Madison_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Frazee",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frazee_MN_Downtown_from_Amtrak.jpg/330px-Frazee_MN_Downtown_from_Amtrak.jpg"
+  },
+  {
+    "city": "Grand Marais",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BreakwaterGrandMaraisMN.jpg/250px-BreakwaterGrandMaraisMN.jpg"
+  },
+  {
+    "city": "Bagley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Downtown_Bagley_N.jpg/250px-Downtown_Bagley_N.jpg"
+  },
+  {
+    "city": "Royalton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Royalton%2C_Minnesota.jpg/250px-Royalton%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Elbow Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Elbow_Lake%2C_Minnesota_01.jpg/250px-Elbow_Lake%2C_Minnesota_01.jpg"
+  },
+  {
+    "city": "Renville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Renville_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Renville_Highlighted.svg.png"
+  },
+  {
+    "city": "Goodhue",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Goodhue_Highlighted.svg/250px-Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Goodhue_Highlighted.svg.png"
+  },
+  {
+    "city": "Edgerton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Edgerton-Downtown.jpg/250px-Edgerton-Downtown.jpg"
+  },
+  {
+    "city": "Fairfax",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Fairfax_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Fairfax_Highlighted.svg.png"
+  },
+  {
+    "city": "Mahnomen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mahnomen_County_Courthouse.jpg/250px-Mahnomen_County_Courthouse.jpg"
+  },
+  {
+    "city": "Shafer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lorraine_Motel_Sign_Resited_2016_by_Chris_Larson%2C_Franconia_Sculpture_Park%2C_MN.jpg/250px-Lorraine_Motel_Sign_Resited_2016_by_Chris_Larson%2C_Franconia_Sculpture_Park%2C_MN.jpg"
+  },
+  {
+    "city": "Spring Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Spring_Grove_City_Hall.jpg/250px-Spring_Grove_City_Hall.jpg"
+  },
+  {
+    "city": "Adrian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Adrian_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Adrian_Highlighted.svg.png"
+  },
+  {
+    "city": "New Richland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Waseca_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Richland_Highlighted.svg/250px-Waseca_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Richland_Highlighted.svg.png"
+  },
+  {
+    "city": "Grand Meadow",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Grand_Meadow_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Grand_Meadow_Highlighted.svg.png"
+  },
+  {
+    "city": "Dellwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Dellwood_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Dellwood_Highlighted.svg.png"
+  },
+  {
+    "city": "East Gull Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_East_Gull_Lake_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_East_Gull_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Cottonwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cottonwood%2C_Minnesota.JPG/250px-Cottonwood%2C_Minnesota.JPG"
+  },
+  {
+    "city": "Harris",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HarrisMN-businesses.jpg/250px-HarrisMN-businesses.jpg"
+  },
+  {
+    "city": "Elgin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Elgin_City_Hall.jpg/250px-Elgin_City_Hall.jpg"
+  },
+  {
+    "city": "Lake Shore",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Shore_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Shore_Highlighted.svg.png"
+  },
+  {
+    "city": "Nicollet",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NicolletWaterTowers.jpg/250px-NicolletWaterTowers.jpg"
+  },
+  {
+    "city": "Mantorville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/CourthouseMantorvilleMN.JPG/250px-CourthouseMantorvilleMN.JPG"
+  },
+  {
+    "city": "Wanamingo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wanamingo_Water_Tower_4-30-2020.jpg/250px-Wanamingo_Water_Tower_4-30-2020.jpg"
+  },
+  {
+    "city": "Tyler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Welcome_sign_to_Tyler%2C_Minnesota.jpg/250px-Welcome_sign_to_Tyler%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Spicer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Spicer_Highlighted.svg/250px-Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Spicer_Highlighted.svg.png"
+  },
+  {
+    "city": "Atwater",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Atwater_City_Offices_and_Public_Library%2C_Atwater%2C_Minnesota-04.jpg/250px-Atwater_City_Offices_and_Public_Library%2C_Atwater%2C_Minnesota-04.jpg"
+  },
+  {
+    "city": "Truman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Truman_Highlighted.svg/250px-Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Truman_Highlighted.svg.png"
+  },
+  {
+    "city": "Eden Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Eden_Valley_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Eden_Valley_Highlighted.svg.png"
+  },
+  {
+    "city": "Taylors Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Taylors_Falls_Minnesota_downtown_looking_north_MN95_St_Croix_Scenic_Byway.jpg/250px-Taylors_Falls_Minnesota_downtown_looking_north_MN95_St_Croix_Scenic_Byway.jpg"
+  },
+  {
+    "city": "Sherburn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sherburn%2C_Minnesota%2C_sign.jpg/250px-Sherburn%2C_Minnesota%2C_sign.jpg"
+  },
+  {
+    "city": "Harmony",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Harmony%2C_Minnesota.jpg/330px-Harmony%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Parkers Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Parkers_Prairie_Highlighted.svg/250px-Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Parkers_Prairie_Highlighted.svg.png"
+  },
+  {
+    "city": "Morristown",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20240801_-_Morristown_Feed_Mill-02.jpg/250px-20240801_-_Morristown_Feed_Mill-02.jpg"
+  },
+  {
+    "city": "Watkins",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Meeker_County_Minnesota_Incorporated_and_Unincorporated_areas_Watkins_Highlighted.svg/250px-Meeker_County_Minnesota_Incorporated_and_Unincorporated_areas_Watkins_Highlighted.svg.png"
+  },
+  {
+    "city": "Lake St. Croix Beach",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_St._Croix_Beach_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_St._Croix_Beach_Highlighted.svg.png"
+  },
+  {
+    "city": "Scanlon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/School_and_Government_offices%2C_Scanlon%2C_Minnesota.jpg/250px-School_and_Government_offices%2C_Scanlon%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Hector",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Hector_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Hector_Highlighted.svg.png"
+  },
+  {
+    "city": "Henderson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Henderson%2C_Minnesota_5.jpg/330px-Henderson%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Bird Island",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Downtown_Bird_Island_Minnesota_2008.jpg/250px-Downtown_Bird_Island_Minnesota_2008.jpg"
+  },
+  {
+    "city": "Walker",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cass_county_MN_200_Walker_IMG_1319.JPG/250px-Cass_county_MN_200_Walker_IMG_1319.JPG"
+  },
+  {
+    "city": "Houston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Houston%2C_Minnesota_looking_north.jpg/250px-Houston%2C_Minnesota_looking_north.jpg"
+  },
+  {
+    "city": "Le Roy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Le_Roy%2C_Minnesota.jpg/330px-Le_Roy%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Keewatin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Keewatin_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Keewatin_Highlighted.svg.png"
+  },
+  {
+    "city": "Biwabik",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/City_of_Biwabik_Public_Works_Garage%2C_Minnesota_%2835637418010%29.jpg/250px-City_of_Biwabik_Public_Works_Garage%2C_Minnesota_%2835637418010%29.jpg"
+  },
+  {
+    "city": "Carlton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Carlton_Courthouse_002.JPG/250px-Carlton_Courthouse_002.JPG"
+  },
+  {
+    "city": "Nashwauk",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Nashwauk_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Nashwauk_Highlighted.svg.png"
+  },
+  {
+    "city": "Hilltop",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2009-0610-004-Hilltop-CH.jpg/330px-2009-0610-004-Hilltop-CH.jpg"
+  },
+  {
+    "city": "Buhl",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Buhl-water-tower.jpg/250px-Buhl-water-tower.jpg"
+  },
+  {
+    "city": "Baudette",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Baudette_MN.JPG/250px-Baudette_MN.JPG"
+  },
+  {
+    "city": "Deer River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Deer_River_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Deer_River_Highlighted.svg.png"
+  },
+  {
+    "city": "Pine River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pine_River_Depot.jpg/250px-Pine_River_Depot.jpg"
+  },
+  {
+    "city": "Kimball",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kimball_Minnesota_5.JPG/250px-Kimball_Minnesota_5.JPG"
+  },
+  {
+    "city": "Battle Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Battle_Lake%2C_Minnesota_02.jpg/250px-Battle_Lake%2C_Minnesota_02.jpg"
+  },
+  {
+    "city": "Morgan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Morgan_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Morgan_Highlighted.svg.png"
+  },
+  {
+    "city": "Mazeppa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Mazeppa_Highlighted.svg/250px-Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Mazeppa_Highlighted.svg.png"
+  },
+  {
+    "city": "Emily",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Welcome_to_Emily_sign.jpg/330px-Welcome_to_Emily_sign.jpg"
+  },
+  {
+    "city": "Henning",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Henning%2C_Minnesota.jpg/250px-Henning%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Hancock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hancock%2C_Minnesota-02%2C_Fire_Department.jpg/250px-Hancock%2C_Minnesota-02%2C_Fire_Department.jpg"
+  },
+  {
+    "city": "Silver Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Water_tower%2C_Silver_Lake%2C_Minnesota.jpg/250px-Water_tower%2C_Silver_Lake%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Hallock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hallock_Minnesota_welcome_sign_8-14-2013.jpg/330px-Hallock_Minnesota_welcome_sign_8-14-2013.jpg"
+  },
+  {
+    "city": "Landfall",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Landfall_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Landfall_Highlighted.svg.png"
+  },
+  {
+    "city": "West Concord",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/West_Concord%2C_Minnesota_6.jpg/250px-West_Concord%2C_Minnesota_6.jpg"
+  },
+  {
+    "city": "Birchwood Village",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Location_Birchwood_Village_MN.svg/250px-Location_Birchwood_Village_MN.svg.png"
+  },
+  {
+    "city": "Onamia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Onamia%2C_Minnesota-08-City_Hall.jpg/250px-Onamia%2C_Minnesota-08-City_Hall.jpg"
+  },
+  {
+    "city": "Browerville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Main_Street_looking_towards_Christ_the_King_Catholic_Church-Browerville%2C_Minnesota.jpg/250px-Main_Street_looking_towards_Christ_the_King_Catholic_Church-Browerville%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Stockton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stockton%2C_Minnesota-3.jpg/250px-Stockton%2C_Minnesota-3.jpg"
+  },
+  {
+    "city": "Isle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Businesses_in_Isle%2C_Minnesota.jpg/250px-Businesses_in_Isle%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Clarkfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Clarkfield_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Clarkfield_Highlighted.svg.png"
+  },
+  {
+    "city": "Blackduck",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Blackduck%2C_Minnesota.jpg/250px-Blackduck%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Bovey",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bovey_Farmers%27_Day_Parade.jpg/250px-Bovey_Farmers%27_Day_Parade.jpg"
+  },
+  {
+    "city": "St. Stephen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Stephen_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Stephen_Highlighted.svg.png"
+  },
+  {
+    "city": "Rushford Village",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rushford_Village_Hall.jpg/250px-Rushford_Village_Hall.jpg"
+  },
+  {
+    "city": "Raymond",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Raymond_Highlighted.svg/250px-Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Raymond_Highlighted.svg.png"
+  },
+  {
+    "city": "Gibbon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2013-0415-GibbonVillageHall.jpg/250px-2013-0415-GibbonVillageHall.jpg"
+  },
+  {
+    "city": "Kerkhoven",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kerkhoven%2C_Minnesota-01.jpg/250px-Kerkhoven%2C_Minnesota-01.jpg"
+  },
+  {
+    "city": "Lamberton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Lamberton_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Lamberton_Highlighted.svg.png"
+  },
+  {
+    "city": "Fertile",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fertile%2C_Minnesota-09.jpg/250px-Fertile%2C_Minnesota-09.jpg"
+  },
+  {
+    "city": "Lilydale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Lilydale_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Lilydale_Highlighted.svg.png"
+  },
+  {
+    "city": "Dover",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dover_City_Hall_in_Minnesota.jpg/250px-Dover_City_Hall_in_Minnesota.jpg"
+  },
+  {
+    "city": "Cleveland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Cleveland_Highlighted.svg/250px-Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Cleveland_Highlighted.svg.png"
+  },
+  {
+    "city": "Elysian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2009-0805-MN-Elysian.jpg/250px-2009-0805-MN-Elysian.jpg"
+  },
+  {
+    "city": "Sebeka",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Minnesota_Avenue_at_Hubbard_Avenue%2C_Sebeka%2C_Minnesota-01.jpg/250px-Minnesota_Avenue_at_Hubbard_Avenue%2C_Sebeka%2C_Minnesota-01.jpg"
+  },
+  {
+    "city": "Holdingford",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/CityofHoldingford.jpg/250px-CityofHoldingford.jpg"
+  },
+  {
+    "city": "Wabasso",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Buildings_on_Main_Street_of_Wabasso%2C_Minnesota.jpg/250px-Buildings_on_Main_Street_of_Wabasso%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Belgrade",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2013-0408-BelgradeMN.jpg/250px-2013-0408-BelgradeMN.jpg"
+  },
+  {
+    "city": "Westbrook",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Westbrook_Depot.jpg/250px-Westbrook_Depot.jpg"
+  },
+  {
+    "city": "Walnut Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CornerWalnutGroveMN.jpg/250px-CornerWalnutGroveMN.jpg"
+  },
+  {
+    "city": "Courtland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/CreameryCourtlandMN.jpg/250px-CreameryCourtlandMN.jpg"
+  },
+  {
+    "city": "Ottertail",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ottertail.jpg/250px-Ottertail.jpg"
+  },
+  {
+    "city": "Kasota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Kasota_Highlighted.svg/250px-Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Kasota_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Clair",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Clair_Highlighted.svg/250px-Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Clair_Highlighted.svg.png"
+  },
+  {
+    "city": "Hampton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Town_hall%2C_Dakota_County%2C_Hampton%2C_Minnesota.jpg/250px-Town_hall%2C_Dakota_County%2C_Hampton%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Lake Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lake_Park_MN_water_tower.jpg/250px-Lake_Park_MN_water_tower.jpg"
+  },
+  {
+    "city": "Greenwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Greenwood_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Greenwood_Highlighted.svg.png"
+  },
+  {
+    "city": "Lanesboro",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ParkwayLanesboroMN.jpg/250px-ParkwayLanesboroMN.jpg"
+  },
+  {
+    "city": "Hoffman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hoffman%2C_Minnesota.jpg/250px-Hoffman%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Brownton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Brownton_Highlighted.svg/250px-McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Brownton_Highlighted.svg.png"
+  },
+  {
+    "city": "Mabel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mabel%2C_Minnesota.jpg/330px-Mabel%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Adams",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adams%2C_Minnesota.jpg/250px-Adams%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Twin Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Norman_County_Minnesota_Incorporated_and_Unincorporated_areas_Twin_Valley_Highlighted.svg/250px-Norman_County_Minnesota_Incorporated_and_Unincorporated_areas_Twin_Valley_Highlighted.svg.png"
+  },
+  {
+    "city": "Welcome",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Welcome_Highlighted.svg/250px-Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Welcome_Highlighted.svg.png"
+  },
+  {
+    "city": "Green Isle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Green_Isle%2C_Minnesota.jpg/250px-Green_Isle%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Trimont",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Trimont_Highlighted.svg/250px-Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Trimont_Highlighted.svg.png"
+  },
+  {
+    "city": "Motley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Water_tower%2C_Motley%2C_Minnesota.jpg/250px-Water_tower%2C_Motley%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Freeport",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Water_Tower_with_Full_Moon.jpg/250px-Water_Tower_with_Full_Moon.jpg"
+  },
+  {
+    "city": "Cass Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cass_Lake%2C_Minnesota-09.jpg/250px-Cass_Lake%2C_Minnesota-09.jpg"
+  },
+  {
+    "city": "Clarks Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Clarks_Grove_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Clarks_Grove_Highlighted.svg.png"
+  },
+  {
+    "city": "Rollingstone",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rollingstone%2C_Minnesota.jpg/330px-Rollingstone%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Clear Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Clear_Lake_MN_McDonalds_Meats.jpg/250px-Clear_Lake_MN_McDonalds_Meats.jpg"
+  },
+  {
+    "city": "Lake Benton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lake_Benton%2C_Minnesota%2C_viewed_from_Hole-in-the-Mountain_Prairie_2021-10-23.jpg/250px-Lake_Benton%2C_Minnesota%2C_viewed_from_Hole-in-the-Mountain_Prairie_2021-10-23.jpg"
+  },
+  {
+    "city": "Greenbush",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/US_Post_Office_-_Greenbush%2C_Minnesota_56726_%2838224846414%29.jpg/250px-US_Post_Office_-_Greenbush%2C_Minnesota_56726_%2838224846414%29.jpg"
+  },
+  {
+    "city": "Karlstad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Karlstad_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Karlstad_Highlighted.svg.png"
+  },
+  {
+    "city": "La Prairie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_La_Prairie_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_La_Prairie_Highlighted.svg.png"
+  },
+  {
+    "city": "Hills",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/HILLS_MN.jpg/250px-HILLS_MN.jpg"
+  },
+  {
+    "city": "Clarissa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Main_Street_scene-Clarissa%2C_Minnesota-04.jpg/250px-Main_Street_scene-Clarissa%2C_Minnesota-04.jpg"
+  },
+  {
+    "city": "Minnesota Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WaterTowerMinnesotaLakeMN.jpg/250px-WaterTowerMinnesotaLakeMN.jpg"
+  },
+  {
+    "city": "Ellendale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/EllendaleMN.jpg/250px-EllendaleMN.jpg"
+  },
+  {
+    "city": "Marine on St. Croix",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marine_on_St_Croix_01.jpg/250px-Marine_on_St_Croix_01.jpg"
+  },
+  {
+    "city": "Brownsdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Brownsdale_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Brownsdale_Highlighted.svg.png"
+  },
+  {
+    "city": "Brooten",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Brooten_Minnesota_businesses.jpg/330px-Brooten_Minnesota_businesses.jpg"
+  },
+  {
+    "city": "Taconite",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Taconite_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Taconite_Highlighted.svg.png"
+  },
+  {
+    "city": "Buffalo Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Buffalo_Lake%2C_Minnesota.JPG/250px-Buffalo_Lake%2C_Minnesota.JPG"
+  },
+  {
+    "city": "Center City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/US_Route_8%2C_Center_City%2C_Minnesota_%2828351720375%29.jpg/250px-US_Route_8%2C_Center_City%2C_Minnesota_%2828351720375%29.jpg"
+  },
+  {
+    "city": "Grove City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Grove_City%2C_MN-Atlantic_Avenue_businesses.jpg/250px-Grove_City%2C_MN-Atlantic_Avenue_businesses.jpg"
+  },
+  {
+    "city": "Hill City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/City_Hall_and_Lake%2C_Hill_City%2C_MN.jpg/250px-City_Hall_and_Lake%2C_Hill_City%2C_MN.jpg"
+  },
+  {
+    "city": "Randall",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Houses_in_Randall%2C_Minnesota.jpg/250px-Houses_in_Randall%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Barnum",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Barnum%2C_Minnesota-commercial_area_at_Main_Street.jpg/250px-Barnum%2C_Minnesota-commercial_area_at_Main_Street.jpg"
+  },
+  {
+    "city": "Loretto",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Loretto%2C_Minnesota-10.jpg/250px-Loretto%2C_Minnesota-10.jpg"
+  },
+  {
+    "city": "Marble",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BoardHouseMarbleMN.jpg/250px-BoardHouseMarbleMN.jpg"
+  },
+  {
+    "city": "Hendricks",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lincoln_County_Minnesota_Incorporated_and_Unincorporated_areas_Hendricks_Highlighted.svg/250px-Lincoln_County_Minnesota_Incorporated_and_Unincorporated_areas_Hendricks_Highlighted.svg.png"
+  },
+  {
+    "city": "Sabin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sabin_Minnesota_Main_Street.jpg/250px-Sabin_Minnesota_Main_Street.jpg"
+  },
+  {
+    "city": "Butterfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Butterfield%2C_MN.jpg/250px-Butterfield%2C_MN.jpg"
+  },
+  {
+    "city": "Heron Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Heron_Lake%2C_MN.jpg/250px-Heron_Lake%2C_MN.jpg"
+  },
+  {
+    "city": "Evansville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Evansville%2C_Minnesota-04.jpg/250px-Evansville%2C_Minnesota-04.jpg"
+  },
+  {
+    "city": "Balaton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/City_of_Balaton.JPG/250px-City_of_Balaton.JPG"
+  },
+  {
+    "city": "McIntosh",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_McIntosh_Highlighted.svg/250px-Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_McIntosh_Highlighted.svg.png"
+  },
+  {
+    "city": "Foreston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mille_Lacs_County_Minnesota_Incorporated_and_Unincorporated_areas_Foreston_Highlighted.svg/250px-Mille_Lacs_County_Minnesota_Incorporated_and_Unincorporated_areas_Foreston_Highlighted.svg.png"
+  },
+  {
+    "city": "Jasper",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Jasper_Highlighted.svg/250px-Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Jasper_Highlighted.svg.png"
+  },
+  {
+    "city": "Alden",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alden%2C_Minnesota_2.jpg/250px-Alden%2C_Minnesota_2.jpg"
+  },
+  {
+    "city": "Stephen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Stephen_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Stephen_Highlighted.svg.png"
+  },
+  {
+    "city": "Deerwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Welcome_to_Deerwood_Minnesota_sign.jpg/250px-Welcome_to_Deerwood_Minnesota_sign.jpg"
+  },
+  {
+    "city": "Audubon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Audubon_MN_downtown.jpg/250px-Audubon_MN_downtown.jpg"
+  },
+  {
+    "city": "Kandiyohi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2012-0828-Kandiyohi.jpg/250px-2012-0828-Kandiyohi.jpg"
+  },
+  {
+    "city": "Ironton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Ironton_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Ironton_Highlighted.svg.png"
+  },
+  {
+    "city": "Glenville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Glenville_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Glenville_Highlighted.svg.png"
+  },
+  {
+    "city": "Racine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Racine_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Racine_Highlighted.svg.png"
+  },
+  {
+    "city": "Halstad",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/World%27s_largest_sugar_beet%2C_Halstad%2C_Minnesota.jpg/250px-World%27s_largest_sugar_beet%2C_Halstad%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Bertha",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Second_Avenue%2C_looking_north%2C_Bertha%2C_Minnesota.jpg/250px-Second_Avenue%2C_looking_north%2C_Bertha%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Hamburg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg%2C_Minnesota_55339_%2828244479812%29.jpg/250px-Hamburg%2C_Minnesota_55339_%2828244479812%29.jpg"
+  },
+  {
+    "city": "Brownsville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brownsville_City_Hall.jpg/250px-Brownsville_City_Hall.jpg"
+  },
+  {
+    "city": "Elmore",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Elmore_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Elmore_Highlighted.svg.png"
+  },
+  {
+    "city": "Good Thunder",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2009-0805-GoodThunder.jpg/250px-2009-0805-GoodThunder.jpg"
+  },
+  {
+    "city": "Eagle Bend",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eagle_Bend_MN_Main_Street.jpg/250px-Eagle_Bend_MN_Main_Street.jpg"
+  },
+  {
+    "city": "Ivanhoe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ivanhoe_MN_1.jpg/250px-Ivanhoe_MN_1.jpg"
+  },
+  {
+    "city": "Ranier",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rainer_P7120409_RR_Stn.jpg/250px-Rainer_P7120409_RR_Stn.jpg"
+  },
+  {
+    "city": "Minnetonka Beach",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/MinnetonkaBeachWaterTower.jpg/250px-MinnetonkaBeachWaterTower.jpg"
+  },
+  {
+    "city": "Hokah",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hokah%2C_Minnesota.jpg/250px-Hokah%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Pillager",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Pillager_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Pillager_Highlighted.svg.png"
+  },
+  {
+    "city": "Argyle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Argyle_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Argyle_Highlighted.svg.png"
+  },
+  {
+    "city": "Littlefork",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Littlefork_Highlighted.svg/250px-Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Littlefork_Highlighted.svg.png"
+  },
+  {
+    "city": "Lyle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Water_tower-_Lyle_Minnesota.png/250px-Water_tower-_Lyle_Minnesota.png"
+  },
+  {
+    "city": "Sunfish Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Sunfish_Lake_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Sunfish_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Cook",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Cook_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Cook_Highlighted.svg.png"
+  },
+  {
+    "city": "Floodwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Main_Street-Floodwood-20120406.jpg/250px-Main_Street-Floodwood-20120406.jpg"
+  },
+  {
+    "city": "Franklin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Franklin_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Franklin_Highlighted.svg.png"
+  },
+  {
+    "city": "Amboy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Amboy%2C_Minnesota.jpg/250px-Amboy%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Gem Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_Gem_Lake_Highlighted.svg/250px-Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_Gem_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Verndale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St_Frederick_Catholic_Church_Verndale_MN.jpg/250px-St_Frederick_Catholic_Church_Verndale_MN.jpg"
+  },
+  {
+    "city": "Willernie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Willernie_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Willernie_Highlighted.svg.png"
+  },
+  {
+    "city": "Graceville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Graceville_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Graceville_Highlighted.svg.png"
+  },
+  {
+    "city": "Prinsburg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Prinsburg%2C_Minnesota_-_Lord_Is_My_Shepherd_Sign.JPG/250px-Prinsburg%2C_Minnesota_-_Lord_Is_My_Shepherd_Sign.JPG"
+  },
+  {
+    "city": "Browns Valley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Browns_Valley_Carnegie_Library.jpg/250px-Browns_Valley_Carnegie_Library.jpg"
+  },
+  {
+    "city": "Brandon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Brandon_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Brandon_Highlighted.svg.png"
+  },
+  {
+    "city": "Brewster",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Brewster%2C_MN.jpg/250px-Brewster%2C_MN.jpg"
+  },
+  {
+    "city": "Jenkins",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Jenkins_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Jenkins_Highlighted.svg.png"
+  },
+  {
+    "city": "Claremont",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Claremont%2C_Minnesota_5.jpg/250px-Claremont%2C_Minnesota_5.jpg"
+  },
+  {
+    "city": "Geneva",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Geneva_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Geneva_Highlighted.svg.png"
+  },
+  {
+    "city": "Cosmos",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Water_tower%2C_Cosmos%2C_Minnesota.jpg/250px-Water_tower%2C_Cosmos%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Sacred Heart",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2018HotelSacredHeart.jpg/250px-2018HotelSacredHeart.jpg"
+  },
+  {
+    "city": "Ellsworth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EllsworthMN.png/250px-EllsworthMN.png"
+  },
+  {
+    "city": "Kiester",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Kiester_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Kiester_Highlighted.svg.png"
+  },
+  {
+    "city": "Rothsay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rothsay%2C_Minnesota.jpg/250px-Rothsay%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Carlos",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Carlos_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Carlos_Highlighted.svg.png"
+  },
+  {
+    "city": "Upsala",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Upsala%2C_Minnesota_buildings.jpg/250px-Upsala%2C_Minnesota_buildings.jpg"
+  },
+  {
+    "city": "Bethel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Bethel_Highlighted_copy.png/250px-Anoka_Cnty_Minnesota_Incorporated_and_Unincorporated_areas_Bethel_Highlighted_copy.png"
+  },
+  {
+    "city": "Pennock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pennock%2C_Minnesota%2C_Water_tower.jpg/250px-Pennock%2C_Minnesota%2C_Water_tower.jpg"
+  },
+  {
+    "city": "Ashby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ashby%2C_Minnesota_02.jpg/250px-Ashby%2C_Minnesota_02.jpg"
+  },
+  {
+    "city": "Ulen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulen%2C_Minnesota.jpg/250px-Ulen%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Stewart",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Stewart_Highlighted.svg/250px-McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Stewart_Highlighted.svg.png"
+  },
+  {
+    "city": "Lafayette",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Business_district%2C_Lafayette%2C_Minnesota_-_DPLA_-_a12743f5901b322e828202c37734cf54_%28cropped%29.jpg/250px-Business_district%2C_Lafayette%2C_Minnesota_-_DPLA_-_a12743f5901b322e828202c37734cf54_%28cropped%29.jpg"
+  },
+  {
+    "city": "Clearbrook",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Welcome_to_Clearbrook_Minnesota_sign.jpg/250px-Welcome_to_Clearbrook_Minnesota_sign.jpg"
+  },
+  {
+    "city": "Sturgeon Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Welcome_To_Sturgeon_Lake_sign.jpg/250px-Welcome_To_Sturgeon_Lake_sign.jpg"
+  },
+  {
+    "city": "Altura",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Altura%2C_Minnesota.jpg/250px-Altura%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Randolph",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Randolph_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Randolph_Highlighted.svg.png"
+  },
+  {
+    "city": "Wrenshall",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wrenshall_Welcomes_You.jpg/250px-Wrenshall_Welcomes_You.jpg"
+  },
+  {
+    "city": "Fifty Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Fifty_Lakes_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Fifty_Lakes_Highlighted.svg.png"
+  },
+  {
+    "city": "New Germany",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Broadway_Street%2C_New_Germany%2C_Minnesota.jpg/250px-Broadway_Street%2C_New_Germany%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Danube",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Danube_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Danube_Highlighted.svg.png"
+  },
+  {
+    "city": "Miltona",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Miltona_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Miltona_Highlighted.svg.png"
+  },
+  {
+    "city": "Lynd",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Lynd_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Lynd_Highlighted.svg.png"
+  },
+  {
+    "city": "Wykoff",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WaterTowerWykoffMN.jpg/250px-WaterTowerWykoffMN.jpg"
+  },
+  {
+    "city": "Vermillion",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Vermillion_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Vermillion_Highlighted.svg.png"
+  },
+  {
+    "city": "Kellogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kellogg%2C_Minnesota.jpg/250px-Kellogg%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Tower",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lake_Vermilion_Sunset_-_Tower%2C_Minnesota_%2838224920544%29.jpg/330px-Lake_Vermilion_Sunset_-_Tower%2C_Minnesota_%2838224920544%29.jpg"
+  },
+  {
+    "city": "Akeley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Akeley-Minnesota-Paul-Bunyan.jpg/250px-Akeley-Minnesota-Paul-Bunyan.jpg"
+  },
+  {
+    "city": "Badger",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Badger_Highlighted.svg/250px-Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Badger_Highlighted.svg.png"
+  },
+  {
+    "city": "Milan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MilanCityHall.JPG/250px-MilanCityHall.JPG"
+  },
+  {
+    "city": "New Auburn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sibley_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Auburn_Highlighted.svg/250px-Sibley_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Auburn_Highlighted.svg.png"
+  },
+  {
+    "city": "Chokio",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stevens_County_Minnesota_Incorporated_and_Unincorporated_areas_Chokio_Highlighted.svg/250px-Stevens_County_Minnesota_Incorporated_and_Unincorporated_areas_Chokio_Highlighted.svg.png"
+  },
+  {
+    "city": "Oklee",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oklee%2C_Minnesota_%281910%29.jpg/250px-Oklee%2C_Minnesota_%281910%29.jpg"
+  },
+  {
+    "city": "Fountain",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/VillageSquareFountainMN.jpg/250px-VillageSquareFountainMN.jpg"
+  },
+  {
+    "city": "Bigfork",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Main_Street_-_Bigfork%2C_Minnesota_%2835097018354%29.jpg/250px-Main_Street_-_Bigfork%2C_Minnesota_%2835097018354%29.jpg"
+  },
+  {
+    "city": "Fisher",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DowntownFisherMN.JPG/330px-DowntownFisherMN.JPG"
+  },
+  {
+    "city": "Rose Creek",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rose_Creek%2C_Minnesota.jpg/330px-Rose_Creek%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Morton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Morton_Highlighted.svg/250px-Renville_County_Minnesota_Incorporated_and_Unincorporated_areas_Morton_Highlighted.svg.png"
+  },
+  {
+    "city": "Ogilvie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/City_Hall%2C_Ogilvie%2C_MN.jpg/250px-City_Hall%2C_Ogilvie%2C_MN.jpg"
+  },
+  {
+    "city": "Waubun",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waubun%2C_Minnesota.jpg/250px-Waubun%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Remer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Remer_Library-Historic_Depot-01.jpg/250px-Remer_Library-Historic_Depot-01.jpg"
+  },
+  {
+    "city": "Willow River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Willow_River%2C_Minnesota.JPG/250px-Willow_River%2C_Minnesota.JPG"
+  },
+  {
+    "city": "Alvarado",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Alvarado_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Alvarado_Highlighted.svg.png"
+  },
+  {
+    "city": "Erskine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erskine_Minnesota_May_2007.JPG/330px-Erskine_Minnesota_May_2007.JPG"
+  },
+  {
+    "city": "Herman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Herman%2C_Minnesota_03-Community_Center.jpg/250px-Herman%2C_Minnesota_03-Community_Center.jpg"
+  },
+  {
+    "city": "Hanska",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hanska%2C_Minnesota_%281917%29.jpg/250px-Hanska%2C_Minnesota_%281917%29.jpg"
+  },
+  {
+    "city": "Nevis",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/World%27s_biggest_Tiger_Muskie-Nevis%2C_Minnesota.jpg/250px-World%27s_biggest_Tiger_Muskie-Nevis%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Pine Springs",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Pine_Springs_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Pine_Springs_Highlighted.svg.png"
+  },
+  {
+    "city": "Ghent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Ghent_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Ghent_Highlighted.svg.png"
+  },
+  {
+    "city": "McGregor",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Welcome_to_McGregor_sign_in_McGregor%2C_Minnesota.jpg/250px-Welcome_to_McGregor_sign_in_McGregor%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Barrett",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Roosevelt_Hall_%28Minnesota%29.jpg/250px-Roosevelt_Hall_%28Minnesota%29.jpg"
+  },
+  {
+    "city": "Woodland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Woodland_Highlighted.svg/250px-Hennepin_County_Minnesota_Incorporated_and_Unincorporated_areas_Woodland_Highlighted.svg.png"
+  },
+  {
+    "city": "Comfrey",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Comfrey_Highlighted.svg/250px-Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Comfrey_Highlighted.svg.png"
+  },
+  {
+    "city": "Wood Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Wood_Lake_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Wood_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Clinton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Clinton_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Clinton_Highlighted.svg.png"
+  },
+  {
+    "city": "New Munich",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Munich_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_New_Munich_Highlighted.svg.png"
+  },
+  {
+    "city": "Round Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Round_Lake_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Round_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Rushmore",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Rushmore_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Rushmore_Highlighted.svg.png"
+  },
+  {
+    "city": "Underwood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Underwood%2C_Minnesota_02.jpg/250px-Underwood%2C_Minnesota_02.jpg"
+  },
+  {
+    "city": "Emmons",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Emmons_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Emmons_Highlighted.svg.png"
+  },
+  {
+    "city": "Vergas",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Vergas_Highlighted.svg/250px-Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Vergas_Highlighted.svg.png"
+  },
+  {
+    "city": "Russell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Russell_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Russell_Highlighted.svg.png"
+  },
+  {
+    "city": "Bricelyn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Bricelyn_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Bricelyn_Highlighted.svg.png"
+  },
+  {
+    "city": "Newfolden",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Newfolden_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Newfolden_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Marys Point",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Marys_Point_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Marys_Point_Highlighted.svg.png"
+  },
+  {
+    "city": "Lancaster",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lancaster_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lancaster_Highlighted.svg.png"
+  },
+  {
+    "city": "Long Beach",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Long_Beach_Highlighted.svg/250px-Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Long_Beach_Highlighted.svg.png"
+  },
+  {
+    "city": "Darwin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Darwin_Water_Tower%2C_Darwin_Minnesota_Tony_Webster_%2829760334840%29.jpg/250px-Darwin_Water_Tower%2C_Darwin_Minnesota_Tony_Webster_%2829760334840%29.jpg"
+  },
+  {
+    "city": "Jeffers",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Jeffers_Highlighted.svg/250px-Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Jeffers_Highlighted.svg.png"
+  },
+  {
+    "city": "Garfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Garfield_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Garfield_Highlighted.svg.png"
+  },
+  {
+    "city": "Swanville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Todd_County_Minnesota_Incorporated_and_Unincorporated_areas_Swanville_Highlighted.svg/250px-Todd_County_Minnesota_Incorporated_and_Unincorporated_areas_Swanville_Highlighted.svg.png"
+  },
+  {
+    "city": "Lowry",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Lowry_Highlighted.svg/250px-Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Lowry_Highlighted.svg.png"
+  },
+  {
+    "city": "Finlayson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Finland_Avenue_in_Finlayson%2C_Minnesota.jpg/250px-Finland_Avenue_in_Finlayson%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Deer Creek",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DeerCreekMN-street.jpg/250px-DeerCreekMN-street.jpg"
+  },
+  {
+    "city": "Askov",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Askovsign.jpg/250px-Askovsign.jpg"
+  },
+  {
+    "city": "Lakeland Shores",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Lakeland_Shores_Highlighted.svg/250px-Washington_County_Minnesota_Incorporated_and_Unincorporated_areas_Lakeland_Shores_Highlighted.svg.png"
+  },
+  {
+    "city": "Cuyuna",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cuyuna_Village_Hall.jpg/250px-Cuyuna_Village_Hall.jpg"
+  },
+  {
+    "city": "Wilmont",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/WilmontMN.jpg/250px-WilmontMN.jpg"
+  },
+  {
+    "city": "Dexter",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dexter%2C_Minnesota.jpg/250px-Dexter%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Plato",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Plato_MN_1.jpg/250px-Plato_MN_1.jpg"
+  },
+  {
+    "city": "Calumet",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Itasca_County_MN_169_Calumet_IMG_1353.JPG/250px-Itasca_County_MN_169_Calumet_IMG_1353.JPG"
+  },
+  {
+    "city": "Grey Eagle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grey_Eagle_Village_Hall%2C_Grey_Eagle%2C_Minnesota.jpg/250px-Grey_Eagle_Village_Hall%2C_Grey_Eagle%2C_Minnesota.jpg"
+  },
+  {
+    "city": "St. Martin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Martin_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Martin_Highlighted.svg.png"
+  },
+  {
+    "city": "Sanborn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Sanborn_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Sanborn_Highlighted.svg.png"
+  },
+  {
+    "city": "Vernon Center",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vernon_Center%2C_Minnesota.jpg/250px-Vernon_Center%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Canton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Canton%2C_Minnesota.jpg/330px-Canton%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Cyrus",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cyrus%2C_MN.JPG/250px-Cyrus%2C_MN.JPG"
+  },
+  {
+    "city": "Hartland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Hartland_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Hartland_Highlighted.svg.png"
+  },
+  {
+    "city": "Buckman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Buckman_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Buckman_Highlighted.svg.png"
+  },
+  {
+    "city": "Maynard",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Maynard_Highlighted.svg/250px-Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Maynard_Highlighted.svg.png"
+  },
+  {
+    "city": "Hollandale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/SkylineHollanddaleMN.jpg/250px-SkylineHollanddaleMN.jpg"
+  },
+  {
+    "city": "Hackensack",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Hackensack_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Hackensack_Highlighted.svg.png"
+  },
+  {
+    "city": "Murdock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sign%2C_Murdock%2C_Minnesota-02.jpg/250px-Sign%2C_Murdock%2C_Minnesota-02.jpg"
+  },
+  {
+    "city": "Ceylon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/MethodistChurchCeylonMN.jpg/250px-MethodistChurchCeylonMN.jpg"
+  },
+  {
+    "city": "Middle River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Middle_River_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Middle_River_Highlighted.svg.png"
+  },
+  {
+    "city": "Dakota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dakota%2C_Minnesota_9_pano_back.jpg/330px-Dakota%2C_Minnesota_9_pano_back.jpg"
+  },
+  {
+    "city": "Belview",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Belview_Odeon.jpg/250px-Belview_Odeon.jpg"
+  },
+  {
+    "city": "Hendrum",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hendrum%2C_Minnesota_on_Highway_US-75.jpg/250px-Hendrum%2C_Minnesota_on_Highway_US-75.jpg"
+  },
+  {
+    "city": "Skyline",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Skyline_Highlighted.svg/250px-Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Skyline_Highlighted.svg.png"
+  },
+  {
+    "city": "Granada",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Granada_Highlighted.svg/250px-Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Granada_Highlighted.svg.png"
+  },
+  {
+    "city": "Nerstrand",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-1021-NerstrandCityHall.jpg/250px-2010-1021-NerstrandCityHall.jpg"
+  },
+  {
+    "city": "Plummer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Red_Lake_County_Minnesota_Incorporated_and_Unincorporated_areas_Plummer_Highlighted.svg/250px-Red_Lake_County_Minnesota_Incorporated_and_Unincorporated_areas_Plummer_Highlighted.svg.png"
+  },
+  {
+    "city": "Beaver Creek",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Beaver_Creek_MN_water_tower_on_I90.jpg/250px-Beaver_Creek_MN_water_tower_on_I90.jpg"
+  },
+  {
+    "city": "Bowlus",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bowlus_Village_Hall%2C_Bowlus%2C_Minnesota.jpg/250px-Bowlus_Village_Hall%2C_Bowlus%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Kensington",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Kensington_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Kensington_Highlighted.svg.png"
+  },
+  {
+    "city": "Chandler",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Chandler_MN.jpg/250px-Chandler_MN.jpg"
+  },
+  {
+    "city": "Vesta",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Vesta_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Vesta_Highlighted.svg.png"
+  },
+  {
+    "city": "Backus",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Backus_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Backus_Highlighted.svg.png"
+  },
+  {
+    "city": "Gonvick",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Gonvick_Highlighted.svg/250px-Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Gonvick_Highlighted.svg.png"
+  },
+  {
+    "city": "Utica",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Utica%2C_Minnesota.jpg/250px-Utica%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Wilton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Wilton_Highlighted.svg/250px-Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Wilton_Highlighted.svg.png"
+  },
+  {
+    "city": "Eitzen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eitzen%2C_Minnesota.jpg/330px-Eitzen%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Freeborn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Freeborn_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Freeborn_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Hilaire",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pennington_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Hilaire_Highlighted.svg/250px-Pennington_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Hilaire_Highlighted.svg.png"
+  },
+  {
+    "city": "Milroy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Milroy_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Milroy_Highlighted.svg.png"
+  },
+  {
+    "city": "Hewitt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hewitt_Public_School_Museum-SW_view.jpg/250px-Hewitt_Public_School_Museum-SW_view.jpg"
+  },
+  {
+    "city": "Hayward",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Hayward_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Hayward_Highlighted.svg.png"
+  },
+  {
+    "city": "Kelliher",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Saum_Schools_from_HABS.jpg/250px-Saum_Schools_from_HABS.jpg"
+  },
+  {
+    "city": "Wahkon",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/US_Post_Office_-_Wahkon%2C_Minnesota_%2829581170721%29.jpg/250px-US_Post_Office_-_Wahkon%2C_Minnesota_%2829581170721%29.jpg"
+  },
+  {
+    "city": "Cromwell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Welcome_to_Cromwell_sign_in_Cromwell%2C_Minnesota.jpg/250px-Welcome_to_Cromwell_sign_in_Cromwell%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Lake Wilson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Water_tower%2C_Lake_Wilson%2C_MN.jpg/250px-Water_tower%2C_Lake_Wilson%2C_MN.jpg"
+  },
+  {
+    "city": "Lake Lillian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Water_tower-01-Lake_Lillian%2C_Minnesota.jpg/250px-Water_tower-01-Lake_Lillian%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Pease",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pease_City_Hall.jpg/250px-Pease_City_Hall.jpg"
+  },
+  {
+    "city": "Climax",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Climax%2C_Minnesota_street_view.jpg/330px-Climax%2C_Minnesota_street_view.jpg"
+  },
+  {
+    "city": "Oslo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Oslo_Highlighted.svg/250px-Marshall_County_Minnesota_Incorporated_and_Unincorporated_areas_Oslo_Highlighted.svg.png"
+  },
+  {
+    "city": "Hanley Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Hanley_Falls_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Hanley_Falls_Highlighted.svg.png"
+  },
+  {
+    "city": "Echo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Echo_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Echo_Highlighted.svg.png"
+  },
+  {
+    "city": "Peterson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Peterson%2C_Minnesota.jpg/250px-Peterson%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Ostrander",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fillmore_County_Minnesota_Incorporated_and_Unincorporated_areas_Ostrander_Highlighted.svg/250px-Fillmore_County_Minnesota_Incorporated_and_Unincorporated_areas_Ostrander_Highlighted.svg.png"
+  },
+  {
+    "city": "Villard",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Villard_MN.JPG/250px-Villard_MN.JPG"
+  },
+  {
+    "city": "Donnelly",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Donnelly_Community_Hall%2C_Donnelly%2C_Minnesota.jpg/250px-Donnelly_Community_Hall%2C_Donnelly%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Gary",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gary%2C_Minnesota-04.jpg/250px-Gary%2C_Minnesota-04.jpg"
+  },
+  {
+    "city": "Pemberton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Pemberton_Highlighted.svg/250px-Blue_Earth_County_Minnesota_Incorporated_and_Unincorporated_areas_Pemberton_Highlighted.svg.png"
+  },
+  {
+    "city": "Bigelow",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Bigelow_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Bigelow_Highlighted.svg.png"
+  },
+  {
+    "city": "Elrosa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Elrosa_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Elrosa_Highlighted.svg.png"
+  },
+  {
+    "city": "Gilman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Benton_County_Minnesota_Incorporated_and_Unincorporated_areas_Gilman_Highlighted.svg/250px-Benton_County_Minnesota_Incorporated_and_Unincorporated_areas_Gilman_Highlighted.svg.png"
+  },
+  {
+    "city": "Dennison",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Dennison_Highlighted.svg/250px-Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Dennison_Highlighted.svg.png"
+  },
+  {
+    "city": "Sobieski",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Sobieski_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Sobieski_Highlighted.svg.png"
+  },
+  {
+    "city": "Northrop",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Northrop-1.jpg/250px-Northrop-1.jpg"
+  },
+  {
+    "city": "Ruthton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Ruthton_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Ruthton_Highlighted.svg.png"
+  },
+  {
+    "city": "Currie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/End-O-Line_Turntable.JPG/250px-End-O-Line_Turntable.JPG"
+  },
+  {
+    "city": "Dalton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dalton_Creamery_and_Opera_House-Dalton%2C_MN.jpg/250px-Dalton_Creamery_and_Opera_House-Dalton%2C_MN.jpg"
+  },
+  {
+    "city": "Frost",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Frost_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Frost_Highlighted.svg.png"
+  },
+  {
+    "city": "Storden",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Storden_Highlighted.svg/250px-Cottonwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Storden_Highlighted.svg.png"
+  },
+  {
+    "city": "Orr",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MN_St_Louis_County_190720094987_orr.jpg/330px-MN_St_Louis_County_190720094987_orr.jpg"
+  },
+  {
+    "city": "Bluffton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bluffton_MN_downtown.jpg/330px-Bluffton_MN_downtown.jpg"
+  },
+  {
+    "city": "Rutledge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Rutledge_Highlighted.svg/250px-Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Rutledge_Highlighted.svg.png"
+  },
+  {
+    "city": "Flensburg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flensburg%2C_Minnesota_-_226451132.jpg/250px-Flensburg%2C_Minnesota_-_226451132.jpg"
+  },
+  {
+    "city": "Lewisville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Lewisville_Highlighted.svg/250px-Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Lewisville_Highlighted.svg.png"
+  },
+  {
+    "city": "Beardsley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Beardsley_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Beardsley_Highlighted.svg.png"
+  },
+  {
+    "city": "Greenwald",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Greenwald_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Greenwald_Highlighted.svg.png"
+  },
+  {
+    "city": "Lucan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Lucan_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Lucan_Highlighted.svg.png"
+  },
+  {
+    "city": "Ogema",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Ogema_Highlighted.svg/250px-Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Ogema_Highlighted.svg.png"
+  },
+  {
+    "city": "Waldorf",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Waseca_County_Minnesota_Incorporated_and_Unincorporated_areas_Waldorf_Highlighted.svg/250px-Waseca_County_Minnesota_Incorporated_and_Unincorporated_areas_Waldorf_Highlighted.svg.png"
+  },
+  {
+    "city": "Hitterdal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Clay_County_Minnesota_Incorporated_and_Unincorporated_areas_Hitterdal_Highlighted.svg/250px-Clay_County_Minnesota_Incorporated_and_Unincorporated_areas_Hitterdal_Highlighted.svg.png"
+  },
+  {
+    "city": "Lismore",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Lismore_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Lismore_Highlighted.svg.png"
+  },
+  {
+    "city": "Garrison",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Garrison%2C_Minnesota-04-Garrison_Bay_and_memorial.jpg/250px-Garrison%2C_Minnesota-04-Garrison_Bay_and_memorial.jpg"
+  },
+  {
+    "city": "Okabena",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Okabena_Highlighted.svg/250px-Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Okabena_Highlighted.svg.png"
+  },
+  {
+    "city": "Magnolia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Magnolia_MN.jpg/250px-Magnolia_MN.jpg"
+  },
+  {
+    "city": "Forada",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Forada_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Forada_Highlighted.svg.png"
+  },
+  {
+    "city": "Kingston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Meeker_County_Minnesota_Incorporated_and_Unincorporated_areas_Kingston_Highlighted.svg/250px-Meeker_County_Minnesota_Incorporated_and_Unincorporated_areas_Kingston_Highlighted.svg.png"
+  },
+  {
+    "city": "Meire Grove",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Meire_Grove_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Meire_Grove_Highlighted.svg.png"
+  },
+  {
+    "city": "Mendota",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mendotastreet.jpg/250px-Mendotastreet.jpg"
+  },
+  {
+    "city": "Warba",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Warba_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Warba_Highlighted.svg.png"
+  },
+  {
+    "city": "Minnesota City",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Minnesota_City_Hall.jpg/250px-Minnesota_City_Hall.jpg"
+  },
+  {
+    "city": "Nelson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Nelson_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Nelson_Highlighted.svg.png"
+  },
+  {
+    "city": "South Haven",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_Haven_Minnesota_5.JPG/250px-South_Haven_Minnesota_5.JPG"
+  },
+  {
+    "city": "Callaway",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Callaway_Highlighted.svg/250px-Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Callaway_Highlighted.svg.png"
+  },
+  {
+    "city": "Tenstrike",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Tenstrike_Highlighted.svg/250px-Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Tenstrike_Highlighted.svg.png"
+  },
+  {
+    "city": "Hardwick",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Prairie_and_sky_in_Hardwick%2C_Minnesota.jpg/250px-Prairie_and_sky_in_Hardwick%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Easton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Easton_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Easton_Highlighted.svg.png"
+  },
+  {
+    "city": "Bellechester",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Bellechester_Highlighted.svg/250px-Goodhue_County_Minnesota_Incorporated_and_Unincorporated_areas_Bellechester_Highlighted.svg.png"
+  },
+  {
+    "city": "Shelly",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shelly%2C_Minnesota_McKinley_Ave_view.jpg/250px-Shelly%2C_Minnesota_McKinley_Ave_view.jpg"
+  },
+  {
+    "city": "Holland",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Holland_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Holland_Highlighted.svg.png"
+  },
+  {
+    "city": "Kettle River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kettle_River_City_Hall_and_Fire_Department.jpg/250px-Kettle_River_City_Hall_and_Fire_Department.jpg"
+  },
+  {
+    "city": "Watson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Watson_Highlighted.svg/250px-Chippewa_County_Minnesota_Incorporated_and_Unincorporated_areas_Watson_Highlighted.svg.png"
+  },
+  {
+    "city": "Winger",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Winger_Highlighted.svg/250px-Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Winger_Highlighted.svg.png"
+  },
+  {
+    "city": "Big Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Big_Falls_Highlighted.svg/250px-Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Big_Falls_Highlighted.svg.png"
+  },
+  {
+    "city": "Grygla",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Church_in_Grygla.jpg/250px-Church_in_Grygla.jpg"
+  },
+  {
+    "city": "Dent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DentMN-mainstreetbusinesses.jpg/250px-DentMN-mainstreetbusinesses.jpg"
+  },
+  {
+    "city": "Lake Bronson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Bronson_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Bronson_Highlighted.svg.png"
+  },
+  {
+    "city": "Delavan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Delavan_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Delavan_Highlighted.svg.png"
+  },
+  {
+    "city": "Felton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_%E2%80%9CFelton_Cafe%E2%80%9D_Angie%E2%80%99s_Diner_Cafe_on_Highway_9%2C_Felton%2C_Minnesota.jpg/250px-The_%E2%80%9CFelton_Cafe%E2%80%9D_Angie%E2%80%99s_Diner_Cafe_on_Highway_9%2C_Felton%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Palisade",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palisade_Town_Hall_in_Palisade%2C_Minnesota.jpg/250px-Palisade_Town_Hall_in_Palisade%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Wright",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Welcome_to_Wright_sign_in_Carlton_County%2C_Minnesota.jpg/250px-Welcome_to_Wright_sign_in_Carlton_County%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Waltham",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Waltham_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Waltham_Highlighted.svg.png"
+  },
+  {
+    "city": "Wendell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wendell%2C_Minnesota.jpg/250px-Wendell%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Kennedy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Kennedy_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Kennedy_Highlighted.svg.png"
+  },
+  {
+    "city": "Elizabeth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Village_Hall_and_Jail.jpg/330px-Elizabeth_Village_Hall_and_Jail.jpg"
+  },
+  {
+    "city": "Campbell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Campbell%2C_Minnesota%2C_Welcome_sign.jpg/250px-Campbell%2C_Minnesota%2C_Welcome_sign.jpg"
+  },
+  {
+    "city": "Iona",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Iona_Highlighted.svg/250px-Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Iona_Highlighted.svg.png"
+  },
+  {
+    "city": "Winton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Winton_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Winton_Highlighted.svg.png"
+  },
+  {
+    "city": "Porter",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Porter_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Porter_Highlighted.svg.png"
+  },
+  {
+    "city": "Steen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Steen_Highlighted.svg/250px-Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Steen_Highlighted.svg.png"
+  },
+  {
+    "city": "Longville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Longville_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Longville_Highlighted.svg.png"
+  },
+  {
+    "city": "Grasston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kanabec_County_Minnesota_Incorporated_and_Unincorporated_areas_Grasston_Highlighted.svg/250px-Kanabec_County_Minnesota_Incorporated_and_Unincorporated_areas_Grasston_Highlighted.svg.png"
+  },
+  {
+    "city": "Roosevelt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Roosevelt_Highlighted.svg/250px-Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Roosevelt_Highlighted.svg.png"
+  },
+  {
+    "city": "Williams",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lake_of_the_Woods_County_Minnesota_Incorporated_and_Unincorporated_areas_Williams_Highlighted.svg/250px-Lake_of_the_Woods_County_Minnesota_Incorporated_and_Unincorporated_areas_Williams_Highlighted.svg.png"
+  },
+  {
+    "city": "Northome",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Northome_Highlighted.svg/250px-Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Northome_Highlighted.svg.png"
+  },
+  {
+    "city": "Zumbro Falls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Zumbro_Falls_Highlighted.svg/250px-Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Zumbro_Falls_Highlighted.svg.png"
+  },
+  {
+    "city": "Bena",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Big_Winnie_General_Store.jpg/250px-Big_Winnie_General_Store.jpg"
+  },
+  {
+    "city": "Conger",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Conger_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Conger_Highlighted.svg.png"
+  },
+  {
+    "city": "Kilkenny",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Kilkenny_Highlighted.svg/250px-Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Kilkenny_Highlighted.svg.png"
+  },
+  {
+    "city": "Clements",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Clements_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Clements_Highlighted.svg.png"
+  },
+  {
+    "city": "Mapleview",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Mapleview_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Mapleview_Highlighted.svg.png"
+  },
+  {
+    "city": "Kinney",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aqua_garage_in_Kinney%2C_Minnesota.jpg/250px-Aqua_garage_in_Kinney%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Millville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Millville_MN.jpg/250px-Millville_MN.jpg"
+  },
+  {
+    "city": "Laporte",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hubbard_County_Minnesota_Incorporated_and_Unincorporated_areas_Laporte_Highlighted.svg/250px-Hubbard_County_Minnesota_Incorporated_and_Unincorporated_areas_Laporte_Highlighted.svg.png"
+  },
+  {
+    "city": "Bellingham",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Bellingham_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Bellingham_Highlighted.svg.png"
+  },
+  {
+    "city": "Blomkest",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bloomkest%2C_Minnesota-01.jpg/250px-Bloomkest%2C_Minnesota-01.jpg"
+  },
+  {
+    "city": "Boyd",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Boyd_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Boyd_Highlighted.svg.png"
+  },
+  {
+    "city": "Meadowlands",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Welcome_to_Meadowlands_sign_in_Saint_Louis_County%2C_Minnesota.jpg/250px-Welcome_to_Meadowlands_sign_in_Saint_Louis_County%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Shevlin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Shevlin_Highlighted.svg/250px-Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Shevlin_Highlighted.svg.png"
+  },
+  {
+    "city": "Coates",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Coates_Highlighted.svg/250px-Dakota_County_Minnesota_Incorporated_and_Unincorporated_areas_Coates_Highlighted.svg.png"
+  },
+  {
+    "city": "Heidelberg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Heidelberg_Highlighted.svg/250px-Le_Sueur_County_Minnesota_Incorporated_and_Unincorporated_areas_Heidelberg_Highlighted.svg.png"
+  },
+  {
+    "city": "Roscoe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Roscoe_10-1.jpg/250px-Roscoe_10-1.jpg"
+  },
+  {
+    "city": "Bingham Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bingham_Lake%2C_MN.jpg/250px-Bingham_Lake%2C_MN.jpg"
+  },
+  {
+    "city": "Elkton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Elkton_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Elkton_Highlighted.svg.png"
+  },
+  {
+    "city": "Erhard",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Erhard_Highlighted.svg/250px-Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Erhard_Highlighted.svg.png"
+  },
+  {
+    "city": "Miesville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/St._Joseph_-_Miesville%2C_Minnesota.jpg/250px-St._Joseph_-_Miesville%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Taunton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Taunton_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Taunton_Highlighted.svg.png"
+  },
+  {
+    "city": "Brook Park",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Brook_Park_Highlighted.svg/250px-Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Brook_Park_Highlighted.svg.png"
+  },
+  {
+    "city": "Twin Lakes",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Twin_Lakes_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Twin_Lakes_Highlighted.svg.png"
+  },
+  {
+    "city": "Hammond",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Hammond_Highlighted.svg/250px-Wabasha_County_Minnesota_Incorporated_and_Unincorporated_areas_Hammond_Highlighted.svg.png"
+  },
+  {
+    "city": "Chickamaw Beach",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Chickamaw_Beach_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Chickamaw_Beach_Highlighted.svg.png"
+  },
+  {
+    "city": "Dunnell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Dunnell_Highlighted.svg/250px-Martin_County_Minnesota_Incorporated_and_Unincorporated_areas_Dunnell_Highlighted.svg.png"
+  },
+  {
+    "city": "Elba",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Elba%2C_Minnesota.jpg/250px-Elba%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Clontarf",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Clontarf%2C_Minnesota%2C_RR_crossing.jpg/250px-Clontarf%2C_Minnesota%2C_RR_crossing.jpg"
+  },
+  {
+    "city": "Odin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Odin_Highlighted.svg/250px-Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Odin_Highlighted.svg.png"
+  },
+  {
+    "city": "Lastrup",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Lastrup_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Lastrup_Highlighted.svg.png"
+  },
+  {
+    "city": "Ormsby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Ormsby_Highlighted.svg/250px-Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_Ormsby_Highlighted.svg.png"
+  },
+  {
+    "city": "Beaver Bay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Beaver_Bay%2C_Minnesota_Town_Hall_and_Welcome_Sign.jpg/330px-Beaver_Bay%2C_Minnesota_Town_Hall_and_Welcome_Sign.jpg"
+  },
+  {
+    "city": "Burtrum",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Todd_County_Minnesota_Incorporated_and_Unincorporated_areas_Burtrum_Highlighted.svg/250px-Todd_County_Minnesota_Incorporated_and_Unincorporated_areas_Burtrum_Highlighted.svg.png"
+  },
+  {
+    "city": "Harding",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Harding_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Harding_Highlighted.svg.png"
+  },
+  {
+    "city": "Wolverton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Skyline_of_Wolverton_MN_Taken_by_Drone.jpg/330px-Skyline_of_Wolverton_MN_Taken_by_Drone.jpg"
+  },
+  {
+    "city": "Foxhome",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Foxhome_Highlighted.svg/250px-Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Foxhome_Highlighted.svg.png"
+  },
+  {
+    "city": "Federal Dam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Federal_Dam%2C_Minnesota-02_-City_Hall.jpg/250px-Federal_Dam%2C_Minnesota-02_-City_Hall.jpg"
+  },
+  {
+    "city": "Brooks",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Red_Lake_County_Minnesota_Incorporated_and_Unincorporated_areas_Brooks_Highlighted.svg/250px-Red_Lake_County_Minnesota_Incorporated_and_Unincorporated_areas_Brooks_Highlighted.svg.png"
+  },
+  {
+    "city": "Garvin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Garvin_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Garvin_Highlighted.svg.png"
+  },
+  {
+    "city": "Brookston",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brookston_City_Hall.jpg/250px-Brookston_City_Hall.jpg"
+  },
+  {
+    "city": "Marietta",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Marietta_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Marietta_Highlighted.svg.png"
+  },
+  {
+    "city": "Elmdale",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elmdale%2C_Minnesota_welcome_sign.jpg/250px-Elmdale%2C_Minnesota_welcome_sign.jpg"
+  },
+  {
+    "city": "Riverton",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Riverton%2C_Minnesota_City_Hall.jpg/250px-Riverton%2C_Minnesota_City_Hall.jpg"
+  },
+  {
+    "city": "Trommald",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Trommald_Elevated_Metal_Water_Tank.jpg/250px-Trommald_Elevated_Metal_Water_Tank.jpg"
+  },
+  {
+    "city": "Biscay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Biscay_Highlighted.svg/250px-McLeod_County_Minnesota_Incorporated_and_Unincorporated_areas_Biscay_Highlighted.svg.png"
+  },
+  {
+    "city": "Woodstock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Woodstock_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Woodstock_Highlighted.svg.png"
+  },
+  {
+    "city": "Avoca",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Avoca%2C_Minnesota.JPG/330px-Avoca%2C_Minnesota.JPG"
+  },
+  {
+    "city": "De Graff",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012-0828-Swift-StBridgetCatholic.jpg/330px-2012-0828-Swift-StBridgetCatholic.jpg"
+  },
+  {
+    "city": "Effie",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EffieMNWelcomeSignAndMosquito.jpg/330px-EffieMNWelcomeSignAndMosquito.jpg"
+  },
+  {
+    "city": "Goodridge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Goodridge%2C_Minnesota_10-14-2007.jpg/330px-Goodridge%2C_Minnesota_10-14-2007.jpg"
+  },
+  {
+    "city": "Quamba",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kanabec_County_Minnesota_Incorporated_and_Unincorporated_areas_Quamba_Highlighted.svg/250px-Kanabec_County_Minnesota_Incorporated_and_Unincorporated_areas_Quamba_Highlighted.svg.png"
+  },
+  {
+    "city": "Iron Junction",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Iron_Junction_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Iron_Junction_Highlighted.svg.png"
+  },
+  {
+    "city": "Perley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Perley%2C_Minnesota_at_the_intersection_of_US_Highway_75_and_Norman_County_Highway_39.jpg/330px-Perley%2C_Minnesota_at_the_intersection_of_US_Highway_75_and_Norman_County_Highway_39.jpg"
+  },
+  {
+    "city": "Mentor",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mentor%2C_Minnesota.JPG/330px-Mentor%2C_Minnesota.JPG"
+  },
+  {
+    "city": "Odessa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Odessa%2C_Minnesota_buildings-04.jpg/330px-Odessa%2C_Minnesota_buildings-04.jpg"
+  },
+  {
+    "city": "McKinley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_McKinley_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_McKinley_Highlighted.svg.png"
+  },
+  {
+    "city": "Squaw Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Squaw_Lake_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Squaw_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Danvers",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Swift_County_Minnesota_Incorporated_and_Unincorporated_areas_Danvers_Highlighted.svg/250px-Swift_County_Minnesota_Incorporated_and_Unincorporated_areas_Danvers_Highlighted.svg.png"
+  },
+  {
+    "city": "Trosky",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Trosky_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Trosky_Highlighted.svg.png"
+  },
+  {
+    "city": "Comstock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Comstock%2C_Minnesota_March_1st%2C_2018.jpg/330px-Comstock%2C_Minnesota_March_1st%2C_2018.jpg"
+  },
+  {
+    "city": "Millerville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Millerville_Highlighted.svg/250px-Douglas_County_Minnesota_Incorporated_and_Unincorporated_areas_Millerville_Highlighted.svg.png"
+  },
+  {
+    "city": "Minneiska",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Minneiska%2C_Minnesota.jpg/250px-Minneiska%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Alpha",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Alpha_Highlighted.svg/250px-Jackson_County_Minnesota_Incorporated_and_Unincorporated_areas_Alpha_Highlighted.svg.png"
+  },
+  {
+    "city": "Sunburg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Sunburg_Highlighted.svg/250px-Kandiyohi_County_Minnesota_Incorporated_and_Unincorporated_areas_Sunburg_Highlighted.svg.png"
+  },
+  {
+    "city": "Alberta",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stevens_County_Minnesota_Incorporated_and_Unincorporated_areas_Alberta_Highlighted.svg/250px-Stevens_County_Minnesota_Incorporated_and_Unincorporated_areas_Alberta_Highlighted.svg.png"
+  },
+  {
+    "city": "Borup",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Norman_County_Minnesota_Incorporated_and_Unincorporated_areas_Borup_Highlighted.svg/250px-Norman_County_Minnesota_Incorporated_and_Unincorporated_areas_Borup_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Anthony",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/St._Anthony%2C_Stearns_County%2C_Minnesota.jpg/330px-St._Anthony%2C_Stearns_County%2C_Minnesota.jpg"
+  },
+  {
+    "city": "St. Leo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Leo_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_St._Leo_Highlighted.svg.png"
+  },
+  {
+    "city": "West Union",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/West_Union%2C_Todd_County%2C_Minnesota_business_district.jpg/250px-West_Union%2C_Todd_County%2C_Minnesota_business_district.jpg"
+  },
+  {
+    "city": "Beltrami",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Beltrami_Highlighted.svg/250px-Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Beltrami_Highlighted.svg.png"
+  },
+  {
+    "city": "Lengby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Lengby_Highlighted.svg/250px-Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Lengby_Highlighted.svg.png"
+  },
+  {
+    "city": "Georgetown",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Georgetown%2C_Minnesota_%281916%29.jpg/330px-Georgetown%2C_Minnesota_%281916%29.jpg"
+  },
+  {
+    "city": "Holt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Service_station%2C_Holt%2C_Minnesota_8-1-2001.jpg/330px-Service_station%2C_Holt%2C_Minnesota_8-1-2001.jpg"
+  },
+  {
+    "city": "Holloway",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Swift_County_Minnesota_Incorporated_and_Unincorporated_areas_Holloway_Highlighted.svg/250px-Swift_County_Minnesota_Incorporated_and_Unincorporated_areas_Holloway_Highlighted.svg.png"
+  },
+  {
+    "city": "Arco",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lincoln_County_Minnesota_Incorporated_and_Unincorporated_areas_Arco_Highlighted.svg/250px-Lincoln_County_Minnesota_Incorporated_and_Unincorporated_areas_Arco_Highlighted.svg.png"
+  },
+  {
+    "city": "Revere",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Revere_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Revere_Highlighted.svg.png"
+  },
+  {
+    "city": "Bejou",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mahnomen_County_Minnesota_Incorporated_and_Unincorporated_areas_Bejou_Highlighted.svg/250px-Mahnomen_County_Minnesota_Incorporated_and_Unincorporated_areas_Bejou_Highlighted.svg.png"
+  },
+  {
+    "city": "Bruno",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bruno%2C_Minnesota_sign.jpg/250px-Bruno%2C_Minnesota_sign.jpg"
+  },
+  {
+    "city": "Darfur",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Darfur_Minnesota.jpg/250px-Darfur_Minnesota.jpg"
+  },
+  {
+    "city": "Fort Ripley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Fort_Ripley_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Fort_Ripley_Highlighted.svg.png"
+  },
+  {
+    "city": "Nimrod",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nimrod%2C_Minnesota_population_69_%2835649499145%29.jpg/250px-Nimrod%2C_Minnesota_population_69_%2835649499145%29.jpg"
+  },
+  {
+    "city": "Seaforth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Seaforth_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Seaforth_Highlighted.svg.png"
+  },
+  {
+    "city": "Turtle River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Turtle_River_Highlighted.svg/250px-Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Turtle_River_Highlighted.svg.png"
+  },
+  {
+    "city": "Bock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mille_Lacs_County_Minnesota_Incorporated_and_Unincorporated_areas_Bock_Highlighted.svg/250px-Mille_Lacs_County_Minnesota_Incorporated_and_Unincorporated_areas_Bock_Highlighted.svg.png"
+  },
+  {
+    "city": "New Trier",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St._Mary_-_New_Trier%2C_Minnesota.jpg/250px-St._Mary_-_New_Trier%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Dundee",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Dundee_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Dundee_Highlighted.svg.png"
+  },
+  {
+    "city": "Zemple",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Zemple_Highlighted.svg/250px-Itasca_County_Minnesota_Incorporated_and_Unincorporated_areas_Zemple_Highlighted.svg.png"
+  },
+  {
+    "city": "Nielsville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nielsville%2C_Minnesota_highway_75_view.jpg/330px-Nielsville%2C_Minnesota_highway_75_view.jpg"
+  },
+  {
+    "city": "Viking",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Viking_Diner_and_Antiques_Viking%2C_Minnesota_3-17-2006.jpg/330px-Viking_Diner_and_Antiques_Viking%2C_Minnesota_3-17-2006.jpg"
+  },
+  {
+    "city": "Lake Henry",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Henry_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Lake_Henry_Highlighted.svg.png"
+  },
+  {
+    "city": "Richville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Richville_Highlighted.svg/250px-Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Richville_Highlighted.svg.png"
+  },
+  {
+    "city": "Kerrick",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Kerrick_Highlighted.svg/250px-Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Kerrick_Highlighted.svg.png"
+  },
+  {
+    "city": "La Salle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_La_Salle_Highlighted.svg/250px-Watonwan_County_Minnesota_Incorporated_and_Unincorporated_areas_La_Salle_Highlighted.svg.png"
+  },
+  {
+    "city": "Solway",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Solway_Highlighted.svg/250px-Beltrami_County_Minnesota_Incorporated_and_Unincorporated_areas_Solway_Highlighted.svg.png"
+  },
+  {
+    "city": "Wanda",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Wanda_Highlighted.svg/250px-Redwood_County_Minnesota_Incorporated_and_Unincorporated_areas_Wanda_Highlighted.svg.png"
+  },
+  {
+    "city": "Dumont",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Traverse_County_Minnesota_Incorporated_and_Unincorporated_areas_Dumont_Highlighted.svg/250px-Traverse_County_Minnesota_Incorporated_and_Unincorporated_areas_Dumont_Highlighted.svg.png"
+  },
+  {
+    "city": "Evan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Evan_Highlighted.svg/250px-Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Evan_Highlighted.svg.png"
+  },
+  {
+    "city": "Spring Hill",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Spring_Hill_Highlighted.svg/250px-Stearns_County_Minnesota_Incorporated_and_Unincorporated_areas_Spring_Hill_Highlighted.svg.png"
+  },
+  {
+    "city": "Clitherall",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Clitherall%2C_Minnesota.jpg/330px-Clitherall%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Genola",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Genola_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Genola_Highlighted.svg.png"
+  },
+  {
+    "city": "Walters",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Walters_Highlighted.svg/250px-Faribault_County_Minnesota_Incorporated_and_Unincorporated_areas_Walters_Highlighted.svg.png"
+  },
+  {
+    "city": "Whalan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fillmore_County_Minnesota_Incorporated_and_Unincorporated_areas_Whalan_Highlighted.svg/250px-Fillmore_County_Minnesota_Incorporated_and_Unincorporated_areas_Whalan_Highlighted.svg.png"
+  },
+  {
+    "city": "Strandquist",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Strandquist%2C_Minnesota.jpg/330px-Strandquist%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Taopi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Taopi%2C_Minnesota.jpg/250px-Taopi%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Wolf Lake",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Wolf_Lake_Highlighted.svg/250px-Becker_County_Minnesota_Incorporated_and_Unincorporated_areas_Wolf_Lake_Highlighted.svg.png"
+  },
+  {
+    "city": "Nassau",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Nassau_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Nassau_Highlighted.svg.png"
+  },
+  {
+    "city": "Sargeant",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Sargeant_Highlighted.svg/250px-Mower_County_Minnesota_Incorporated_and_Unincorporated_areas_Sargeant_Highlighted.svg.png"
+  },
+  {
+    "city": "Nashua",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Nashua_Highlighted.svg/250px-Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Nashua_Highlighted.svg.png"
+  },
+  {
+    "city": "Kent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Kent_Highlighted.svg/250px-Wilkin_County_Minnesota_Incorporated_and_Unincorporated_areas_Kent_Highlighted.svg.png"
+  },
+  {
+    "city": "Manhattan Beach",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Manhattan_Beach_Highlighted.svg/250px-Crow_Wing_County_Minnesota_Incorporated_and_Unincorporated_areas_Manhattan_Beach_Highlighted.svg.png"
+  },
+  {
+    "city": "Tamarack",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tamarack_City_Hall_in_Tamarack%2C_Minnesota.jpg/250px-Tamarack_City_Hall_in_Tamarack%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Tintah",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tintah%2C_Minnesota-04%2C_Roy_Johnson_Memorial_Park.jpg/250px-Tintah%2C_Minnesota-04%2C_Roy_Johnson_Memorial_Park.jpg"
+  },
+  {
+    "city": "Henriette",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Henriette_Highlighted.svg/250px-Pine_County_Minnesota_Incorporated_and_Unincorporated_areas_Henriette_Highlighted.svg.png"
+  },
+  {
+    "city": "Kenneth",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Kenneth_Highlighted.svg/250px-Rock_County_Minnesota_Incorporated_and_Unincorporated_areas_Kenneth_Highlighted.svg.png"
+  },
+  {
+    "city": "Cedar Mills",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Luce_Line_Bike-Walk_Trail%2C_Cedar_Mills%2C_MN_-_panoramio_%284%29.jpg/250px-Luce_Line_Bike-Walk_Trail%2C_Cedar_Mills%2C_MN_-_panoramio_%284%29.jpg"
+  },
+  {
+    "city": "Vining",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vining%2C_Minnesota.jpg/330px-Vining%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Ihlen",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Ihlen_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Ihlen_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Rosa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Saint_Rose_of_Lima%2C_St._Rosa%2C_Minnesota.jpg/250px-Saint_Rose_of_Lima%2C_St._Rosa%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Wilder",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wilder%2C_MN.jpg/250px-Wilder%2C_MN.jpg"
+  },
+  {
+    "city": "Farwell",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Farwell_Highlighted.svg/250px-Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Farwell_Highlighted.svg.png"
+  },
+  {
+    "city": "Halma",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Halma_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Halma_Highlighted.svg.png"
+  },
+  {
+    "city": "Gully",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Gully_Highlighted.svg/250px-Polk_County_Minnesota_Incorporated_and_Unincorporated_areas_Gully_Highlighted.svg.png"
+  },
+  {
+    "city": "Hadley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Hadley_Highlighted.svg/250px-Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Hadley_Highlighted.svg.png"
+  },
+  {
+    "city": "Hatfield",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Hatfield_Highlighted.svg/250px-Pipestone_County_Minnesota_Incorporated_and_Unincorporated_areas_Hatfield_Highlighted.svg.png"
+  },
+  {
+    "city": "Dovray",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Dovray_Highlighted.svg/250px-Murray_County_Minnesota_Incorporated_and_Unincorporated_areas_Dovray_Highlighted.svg.png"
+  },
+  {
+    "city": "Hazel Run",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Hazel_Run_Highlighted.svg/250px-Yellow_Medicine_County_Minnesota_Incorporated_and_Unincorporated_areas_Hazel_Run_Highlighted.svg.png"
+  },
+  {
+    "city": "Mizpah",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Mizpah_Highlighted.svg/250px-Koochiching_County_Minnesota_Incorporated_and_Unincorporated_areas_Mizpah_Highlighted.svg.png"
+  },
+  {
+    "city": "Manchester",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Manchester_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Manchester_Highlighted.svg.png"
+  },
+  {
+    "city": "Leonidas",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Leonidas_Highlighted.svg/250px-St._Louis_County_Minnesota_Incorporated_and_Unincorporated_areas_Leonidas_Highlighted.svg.png"
+  },
+  {
+    "city": "St. Vincent",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/St_Vincent%2C_Minnesota_-_226532998.jpg/330px-St_Vincent%2C_Minnesota_-_226532998.jpg"
+  },
+  {
+    "city": "Myrtle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Myrtle_Highlighted.svg/250px-Freeborn_County_Minnesota_Incorporated_and_Unincorporated_areas_Myrtle_Highlighted.svg.png"
+  },
+  {
+    "city": "Norcross",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Norcross%2C_Minnesota-01%2C_Water_tower.jpg/250px-Norcross%2C_Minnesota-01%2C_Water_tower.jpg"
+  },
+  {
+    "city": "Urbank",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Urbank_Highlighted.svg/250px-Otter_Tail_County_Minnesota_Incorporated_and_Unincorporated_areas_Urbank_Highlighted.svg.png"
+  },
+  {
+    "city": "Sedan",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Sedan_Highlighted.svg/250px-Pope_County_Minnesota_Incorporated_and_Unincorporated_areas_Sedan_Highlighted.svg.png"
+  },
+  {
+    "city": "Westport",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Westport_MN.JPG/330px-Westport_MN.JPG"
+  },
+  {
+    "city": "Delhi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/1910DelhiMN.jpg/330px-1910DelhiMN.jpg"
+  },
+  {
+    "city": "Leonard",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Leonard_Highlighted.svg/250px-Clearwater_County_Minnesota_Incorporated_and_Unincorporated_areas_Leonard_Highlighted.svg.png"
+  },
+  {
+    "city": "McGrath",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Aitkin_County_Minnesota_Incorporated_and_Unincorporated_areas_McGrath_Highlighted.svg/250px-Aitkin_County_Minnesota_Incorporated_and_Unincorporated_areas_McGrath_Highlighted.svg.png"
+  },
+  {
+    "city": "Regal",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Regal%2C_Minnesota.jpg/250px-Regal%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Denham",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Denham_sign_in_Pine_County%2C_Minnesota.jpg/250px-Denham_sign_in_Pine_County%2C_Minnesota.jpg"
+  },
+  {
+    "city": "Humboldt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Humboldt_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Humboldt_Highlighted.svg.png"
+  },
+  {
+    "city": "Trail",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1915postTrailMN.jpg/330px-1915postTrailMN.jpg"
+  },
+  {
+    "city": "Aldrich",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wadena_County_Minnesota_Incorporated_and_Unincorporated_areas_Aldrich_Highlighted.svg/250px-Wadena_County_Minnesota_Incorporated_and_Unincorporated_areas_Aldrich_Highlighted.svg.png"
+  },
+  {
+    "city": "Cobden",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Cobden_Highlighted.svg/250px-Brown_County_Minnesota_Incorporated_and_Unincorporated_areas_Cobden_Highlighted.svg.png"
+  },
+  {
+    "city": "Doran",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Doran%2C_Minnesota-01_Doran_Park.jpg/250px-Doran%2C_Minnesota-01_Doran_Park.jpg"
+  },
+  {
+    "city": "Louisburg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Louisburg_Highlighted.svg/250px-Lac_qui_Parle_County_Minnesota_Incorporated_and_Unincorporated_areas_Louisburg_Highlighted.svg.png"
+  },
+  {
+    "city": "Strathcona",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Strathcona_Highlighted.svg/250px-Roseau_County_Minnesota_Incorporated_and_Unincorporated_areas_Strathcona_Highlighted.svg.png"
+  },
+  {
+    "city": "Correll",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Correll_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Correll_Highlighted.svg.png"
+  },
+  {
+    "city": "Boy River",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Boy_River_Highlighted.svg/250px-Cass_County_Minnesota_Incorporated_and_Unincorporated_areas_Boy_River_Highlighted.svg.png"
+  },
+  {
+    "city": "Johnson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Johnson_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Johnson_Highlighted.svg.png"
+  },
+  {
+    "city": "Florence",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Florence_Highlighted.svg/250px-Lyon_County_Minnesota_Incorporated_and_Unincorporated_areas_Florence_Highlighted.svg.png"
+  },
+  {
+    "city": "Hillman",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Hillman_Highlighted.svg/250px-Morrison_County_Minnesota_Incorporated_and_Unincorporated_areas_Hillman_Highlighted.svg.png"
+  },
+  {
+    "city": "Donaldson",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Donaldson_Highlighted.svg/250px-Kittson_County_Minnesota_Incorporated_and_Unincorporated_areas_Donaldson_Highlighted.svg.png"
+  },
+  {
+    "city": "Barry",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Barry_Highlighted.svg/250px-Big_Stone_County_Minnesota_Incorporated_and_Unincorporated_areas_Barry_Highlighted.svg.png"
+  },
+  {
+    "city": "Funkley",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Funkley%2C_Minnesota_Road_Sign.jpeg/330px-Funkley%2C_Minnesota_Road_Sign.jpeg"
+  },
+  {
+    "city": "Kinbrae",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Kinbrae_Highlighted.svg/250px-Nobles_County_Minnesota_Incorporated_and_Unincorporated_areas_Kinbrae_Highlighted.svg.png"
+  }
+]
