@@ -201,11 +201,13 @@ export default function CityPage() {
       </div>
 
       {/* RIGHT: news column */}
-      <div className="flex-grow-1"
-           style={{ margin:"2.5rem 2.5rem 2.5rem 1.5rem", minWidth:0, overflowY:"auto",
-                    background:"#fff", borderRadius:"1.5rem",
-                    boxShadow:"0 2px 8px rgba(0,0,0,0.05)",
-                    padding:"2.5rem 2rem", display:"flex", flexDirection:"column" }}>
+      <div className="flex-grow-1 mobile-full mobile-news"
+     style={{
+       margin:"2.5rem 2.5rem 2.5rem 1.5rem", minWidth:0, overflowY:"auto",
+       background:"#fff", borderRadius:"1.5rem",
+       boxShadow:"0 2px 8px rgba(0,0,0,0.05)",
+       padding:"2.5rem 2rem", display:"flex", flexDirection:"column"
+     }}>
         <h2 className="mb-4 text-primary">Local News</h2>
 
         {cityNews.length > 0 ? (

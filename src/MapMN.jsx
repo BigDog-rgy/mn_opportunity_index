@@ -158,26 +158,78 @@ export default function MapMN() {
 
   // ----------------- RENDER --------------------
   return (
-    <div style={{ position:"relative", height:"100vh", width:"100vw", background:"#E7E9EC" }}>
-      <button style={topRightBtnStyle} onClick={() => setView(view === "map" ? "list" : "map")}>{view === "map" ? "List View" : "Map View"}</button>
+  <div
+    style={{
+      position: "relative",
+      height: "100vh",
+      width: "100%",
+      background: "#E7E9EC",
+      overflowX: "hidden"
+    }}
+  >
+    <button
+      style={topRightBtnStyle}
+      onClick={() => setView(view === "map" ? "list" : "map")}
+    >
+      {view === "map" ? "List View" : "Map View"}
+    </button>
 
-      {/* FILTER BAR */}
-      <div style={controlBoxStyle}>
-        <input type="text" value={search} placeholder="Search city name" style={{ ...inputStyle, width:130 }} onChange={(e) => setSearch(e.target.value)} />
-        <label style={labelStyle}>Sort by:</label>
-        ... {/* *keep rest of existing UI unchanged* */}
-      </div>
+    {/* FILTER BAR */}
+    <div style={{ ...controlBoxStyle, overflowX: "auto" }}>
+      <input
+        type="text"
+        value={search}
+        placeholder="Search city name"
+        style={{ ...inputStyle, width: 130 }}
+        onChange={(e) => setSearch(e.target.value)}
+      />
+      <label style={labelStyle}>Sort by:</label>
+      {/* ... *keep rest of existing UI unchanged* */}
+    </div>
 
-      {/* MAP OR LIST VIEW */}
-      {view === "map" ? (
-        <MapContainer style={{ height:"100vh", width:"100vw", background:"#E7E9EC", position:"absolute", inset:0, zIndex:0 }}>
+    {/* MAP OR LIST VIEW */}
+    {view === "map" ? (
+      <div style={{ width: "100vw", height: "calc(100vh - 90px)", maxWidth: "100vw" }}>
+        <MapContainer
+          style={{
+            height: "100%",
+            width: "100%",
+            background: "#E7E9EC",
+            position: "absolute",
+            inset: 0,
+            zIndex: 0,
+            minHeight: "320px"
+          }}
+        >
           <FitToBorder geojson={border} />
-          <Rectangle bounds={paddedBounds} pathOptions={{ fillOpacity:0.85, fillColor:"#000", stroke:false }} interactive={false} />
-          <GeoJSON data={border} style={() => ({ color:"#0057B7", weight:2, fillColor:"#F5F5DC", fillOpacity:1 })} />
+          <Rectangle
+            bounds={paddedBounds}
+            pathOptions={{ fillOpacity: 0.85, fillColor: "#000", stroke: false }}
+            interactive={false}
+          />
+          <GeoJSON
+            data={border}
+            style={() => ({
+              color: "#0057B7",
+              weight: 2,
+              fillColor: "#F5F5DC",
+              fillOpacity: 1
+            })}
+          />
           {filtered.map((c) => (
-            <CircleMarker key={c.id} center={[c.lat, c.lon]} radius={4} stroke={false} pathOptions={{ color:DOT_COLOR }} fillOpacity={0.95} eventHandlers={{ click: () => navigate(`/city/${slugify(c.n)}`) }}>
-              <Tooltip direction="top" offset={[0,-2]} opacity={0.9}>
-                <div style={{ textAlign:"center", lineHeight:1.2 }}>
+            <CircleMarker
+              key={c.id}
+              center={[c.lat, c.lon]}
+              radius={4}
+              stroke={false}
+              pathOptions={{ color: DOT_COLOR }}
+              fillOpacity={0.95}
+              eventHandlers={{
+                click: () => navigate(`/city/${slugify(c.n)}`)
+              }}
+            >
+              <Tooltip direction="top" offset={[0, -2]} opacity={0.9}>
+                <div style={{ textAlign: "center", lineHeight: 1.2 }}>
                   <strong>{c.n}</strong>
                   {c.meta && (
                     <>
@@ -192,12 +244,21 @@ export default function MapMN() {
             </CircleMarker>
           ))}
         </MapContainer>
-      ) : (
-        /* LIST VIEW (unchanged) */
-        <div style={{ height:"100vh", width:"100vw", overflowY:"auto", background:"#fff", padding:"6.3rem 0 0" }}>
-          ...
-        </div>
-      )}
-    </div>
-  );
+      </div>
+    ) : (
+      /* LIST VIEW (unchanged) */
+      <div
+        style={{
+          height: "100vh",
+          width: "100vw",
+          overflowY: "auto",
+          background: "#fff",
+          padding: "6.3rem 0 0"
+        }}
+      >
+        ...
+      </div>
+    )}
+  </div>
+);
 }

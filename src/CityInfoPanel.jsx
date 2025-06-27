@@ -55,8 +55,7 @@ export default function CityInfoPanel({ city })
   const heroUrl  = images[imgIdx]?.image_url ?? null;
 
   return (
-    <div className="p-4 bg-white rounded-3 shadow text-center"
-         style={{minWidth:320,maxWidth:520,width:"100%",margin:"2.5rem 0 2.5rem 2.5rem"}}>
+    <div className="p-4 bg-white rounded-3 shadow text-center mobile-full">
 
       <Link to="/" className="text-primary text-decoration-underline d-block mb-4">
         ← Back to map

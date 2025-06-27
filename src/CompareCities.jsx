@@ -38,20 +38,32 @@ export default function CompareCities() {
 
   /* ───────── render side-by-side compare ───────── */
   return (
-    <div style={{
-      display:"flex", minHeight:"100vh", background:"#f8fafb",
-      alignItems:"flex-start", justifyContent:"center",
-      gap:"36px", padding:"54px 0 0 0"
-    }}>
-      <div style={{ position:"absolute", left:28, top:22 }}>
-        <Link to="/" style={{ color:"#0070f3", textDecoration:"underline" }}>
-          ← Back to map
-        </Link>
-      </div>
-
-      <CityInfoPanel city={c1} />
-      <div style={{ fontSize:44, color:"#bbb", alignSelf:"center" }}>VS</div>
-      <CityInfoPanel city={c2} />
+  <div
+    className="mobile-stack"
+    style={{
+      display: "flex",
+      minHeight: "100vh",
+      background: "#f8fafb",
+      alignItems: "flex-start",
+      justifyContent: "center",
+      gap: "36px",
+      padding: "54px 0 0 0"
+    }}
+  >
+    <div
+      className="mobile-hide"
+      style={{ position: "absolute", left: 28, top: 22 }}
+    >
+      <Link to="/" style={{ color: "#0070f3", textDecoration: "underline" }}>
+        ← Back to map
+      </Link>
     </div>
-  );
+
+    <CityInfoPanel city={c1} />
+    <div className="mobile-vs" style={{ fontSize: 44, color: "#bbb", alignSelf: "center" }}>
+      VS
+    </div>
+    <CityInfoPanel city={c2} />
+  </div>
+);
 }
